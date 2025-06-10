@@ -567,6 +567,10 @@ export default class FalloutItemSheet extends ItemSheet {
 			const name = dataSets.name;
 			const type = dataSets.type;
 
+			if (name === undefined) {
+				return;
+			}
+
 			active = active === 1 ? 0 : 1;
 
 			let dataPath = "";
