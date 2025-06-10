@@ -1,3 +1,10 @@
+# v11.15.7
+
+#### Bugs
+- [#688] fixes issue with undefined damageEffect being added when changing damage type.
+
+---
+
 # v11.15.6
 
 #### Bugs
