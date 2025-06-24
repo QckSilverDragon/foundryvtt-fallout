@@ -1,3 +1,15 @@
+
+
+# v11.15.8
+
+#### Bugs
+- add Legendary mod category
+- Creature sheet won't allow adding Perks
+- Weapon item summaries incorrectly including specifically disabled weapon and damage qualities
+- Add check box for "natural weapon"
+
+---
+
 # v11.15.7
 
 #### Bugs
