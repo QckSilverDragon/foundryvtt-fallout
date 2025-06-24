@@ -2,7 +2,7 @@
 	"id": "falloutV12",
 	"title": "Fallout: The Roleplaying Game V12",
 	"description": "An unofficial system for playing the Fallout RPG from Modiphius Entertainment Ltd.",
-	"version": "11.15.8",
+	"version": "11.15.9",
 	"compatibility": {
 		"maximum": "12",
 		"minimum": "12",
@@ -271,7 +271,9 @@
 	"flags": {
 		"hotReload": {
 			"extensions": [
-				"css", "hbs", "json"
+				"css",
+				"hbs",
+				"json"
 			],
 			"paths": [
 				"css",
@@ -281,8 +283,8 @@
 		}
 	},
 	"socket": true,
-	"url": "https://github.com/Muttley/foundryvtt-fallout",
-	"manifest": "https://raw.githubusercontent.com/Muttley/foundryvtt-fallout/main/system/system.json",
-	"download": "https://github.com/Muttley/foundryvtt-fallout/releases/latest/download/fallout.zip",
+	"url": "https://github.com/QckSilverDragon/foundryvtt-fallout",
+	"manifest": "https://raw.githubusercontent.com/QckSilverDragon/foundryvtt-fallout/main/system/system.json",
+	"download": "https://github.com/QckSilverDragon/foundryvtt-fallout/releases/latest/download/fallout.zip",
 	"background": "systems/fallout/assets/images/please-stand-by.webp"
 }
