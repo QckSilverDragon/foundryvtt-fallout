@@ -4,7 +4,7 @@
 	"effects": [
 	],
 	"folder": "FpqJV7XpK8RYAC0Q",
-	"img": "systems/fallout/assets/icons/items/apparel.svg",
+	"img": "systems/falloutV12/assets/icons/items/apparel.svg",
 	"name": "X-01 Chest Piece",
 	"system": {
 		"apparelType": "powerArmor",
@@ -47,7 +47,7 @@
 				"flags": {
 				},
 				"folder": "mMrg0X7SR8UJDXyE",
-				"img": "systems/fallout/assets/icons/items/apparel_mod.svg",
+				"img": "systems/falloutV12/assets/icons/items/apparel_mod.svg",
 				"name": "EMP Shielding",
 				"ownership": {
 					"default": 0
@@ -101,7 +101,7 @@
 				"flags": {
 				},
 				"folder": "e7NADGE4ZuOSX2mA",
-				"img": "systems/fallout/assets/icons/items/apparel_mod.svg",
+				"img": "systems/falloutV12/assets/icons/items/apparel_mod.svg",
 				"name": "Mk VI ChestPiece",
 				"ownership": {
 					"default": 0
@@ -155,7 +155,7 @@
 				"flags": {
 				},
 				"folder": "e7NADGE4ZuOSX2mA",
-				"img": "systems/fallout/assets/icons/items/apparel_mod.svg",
+				"img": "systems/falloutV12/assets/icons/items/apparel_mod.svg",
 				"name": "Mk III Chest Piece",
 				"ownership": {
 					"default": 0
@@ -209,7 +209,7 @@
 				"flags": {
 				},
 				"folder": "0sZTfWE1J7mKvvnK",
-				"img": "systems/fallout/assets/icons/items/apparel_mod.svg",
+				"img": "systems/falloutV12/assets/icons/items/apparel_mod.svg",
 				"name": "Lead Plating (Torso)",
 				"ownership": {
 					"LbffuJGmFEdJvA7X": 3,
@@ -264,7 +264,7 @@
 				"flags": {
 				},
 				"folder": "JpQJNevV3gGYvAgY",
-				"img": "systems/fallout/assets/icons/items/apparel_mod.svg",
+				"img": "systems/falloutV12/assets/icons/items/apparel_mod.svg",
 				"name": "Tesla Coils",
 				"ownership": {
 					"default": 0
@@ -318,7 +318,7 @@
 				"flags": {
 				},
 				"folder": "JpQJNevV3gGYvAgY",
-				"img": "systems/fallout/assets/icons/items/apparel_mod.svg",
+				"img": "systems/falloutV12/assets/icons/items/apparel_mod.svg",
 				"name": "Kinetic Dynamo",
 				"ownership": {
 					"default": 0
@@ -372,7 +372,7 @@
 				"flags": {
 				},
 				"folder": "JpQJNevV3gGYvAgY",
-				"img": "systems/fallout/assets/icons/items/apparel_mod.svg",
+				"img": "systems/falloutV12/assets/icons/items/apparel_mod.svg",
 				"name": "Blood Cleanser",
 				"ownership": {
 					"default": 0
@@ -426,7 +426,7 @@
 				"flags": {
 				},
 				"folder": "JpQJNevV3gGYvAgY",
-				"img": "systems/fallout/assets/icons/items/apparel_mod.svg",
+				"img": "systems/falloutV12/assets/icons/items/apparel_mod.svg",
 				"name": "Jetpack",
 				"ownership": {
 					"default": 0
@@ -480,7 +480,7 @@
 				"flags": {
 				},
 				"folder": "JpQJNevV3gGYvAgY",
-				"img": "systems/fallout/assets/icons/items/apparel_mod.svg",
+				"img": "systems/falloutV12/assets/icons/items/apparel_mod.svg",
 				"name": "Stealth Boy",
 				"ownership": {
 					"default": 0
@@ -534,7 +534,7 @@
 				"flags": {
 				},
 				"folder": "0sZTfWE1J7mKvvnK",
-				"img": "systems/fallout/assets/icons/items/apparel_mod.svg",
+				"img": "systems/falloutV12/assets/icons/items/apparel_mod.svg",
 				"name": "Prism Shielding (Torso)",
 				"ownership": {
 					"LbffuJGmFEdJvA7X": 3,
@@ -589,7 +589,7 @@
 				"flags": {
 				},
 				"folder": "JpQJNevV3gGYvAgY",
-				"img": "systems/fallout/assets/icons/items/apparel_mod.svg",
+				"img": "systems/falloutV12/assets/icons/items/apparel_mod.svg",
 				"name": "Reactive Plates",
 				"ownership": {
 					"default": 0
@@ -643,7 +643,7 @@
 				"flags": {
 				},
 				"folder": "e7NADGE4ZuOSX2mA",
-				"img": "systems/fallout/assets/icons/items/apparel_mod.svg",
+				"img": "systems/falloutV12/assets/icons/items/apparel_mod.svg",
 				"name": "Mk IV ChestPiece",
 				"ownership": {
 					"default": 0
@@ -698,7 +698,7 @@
 				"flags": {
 				},
 				"folder": "JpQJNevV3gGYvAgY",
-				"img": "systems/fallout/assets/icons/items/apparel_mod.svg",
+				"img": "systems/falloutV12/assets/icons/items/apparel_mod.svg",
 				"name": "Emergency Protocols",
 				"ownership": {
 					"default": 0
@@ -752,7 +752,7 @@
 				"flags": {
 				},
 				"folder": "e7NADGE4ZuOSX2mA",
-				"img": "systems/fallout/assets/icons/items/apparel_mod.svg",
+				"img": "systems/falloutV12/assets/icons/items/apparel_mod.svg",
 				"name": "Mk II Chest Piece",
 				"ownership": {
 					"default": 0
@@ -806,7 +806,7 @@
 				"flags": {
 				},
 				"folder": "JpQJNevV3gGYvAgY",
-				"img": "systems/fallout/assets/icons/items/apparel_mod.svg",
+				"img": "systems/falloutV12/assets/icons/items/apparel_mod.svg",
 				"name": "Medic Pump",
 				"ownership": {
 					"default": 0
@@ -860,7 +860,7 @@
 				"flags": {
 				},
 				"folder": "0sZTfWE1J7mKvvnK",
-				"img": "systems/fallout/assets/icons/items/apparel_mod.svg",
+				"img": "systems/falloutV12/assets/icons/items/apparel_mod.svg",
 				"name": "Titanium Plating (Torso)",
 				"ownership": {
 					"LbffuJGmFEdJvA7X": 3,
@@ -916,7 +916,7 @@
 				"flags": {
 				},
 				"folder": "e7NADGE4ZuOSX2mA",
-				"img": "systems/fallout/assets/icons/items/apparel_mod.svg",
+				"img": "systems/falloutV12/assets/icons/items/apparel_mod.svg",
 				"name": "Mk V Chest Piece",
 				"ownership": {
 					"default": 0
@@ -971,7 +971,7 @@
 				"flags": {
 				},
 				"folder": "0sZTfWE1J7mKvvnK",
-				"img": "systems/fallout/assets/icons/items/apparel_mod.svg",
+				"img": "systems/falloutV12/assets/icons/items/apparel_mod.svg",
 				"name": "Photovoltaic Plating (Torso)",
 				"ownership": {
 					"LbffuJGmFEdJvA7X": 3,
@@ -1028,7 +1028,7 @@
 				"flags": {
 				},
 				"folder": "JpQJNevV3gGYvAgY",
-				"img": "systems/fallout/assets/icons/items/apparel_mod.svg",
+				"img": "systems/falloutV12/assets/icons/items/apparel_mod.svg",
 				"name": "Core Assembly",
 				"ownership": {
 					"default": 0
@@ -1082,7 +1082,7 @@
 				"flags": {
 				},
 				"folder": "0sZTfWE1J7mKvvnK",
-				"img": "systems/fallout/assets/icons/items/apparel_mod.svg",
+				"img": "systems/falloutV12/assets/icons/items/apparel_mod.svg",
 				"name": "Explosive Shielding (Torso)",
 				"ownership": {
 					"LbffuJGmFEdJvA7X": 3,
@@ -1137,7 +1137,7 @@
 				"flags": {
 				},
 				"folder": "JpQJNevV3gGYvAgY",
-				"img": "systems/fallout/assets/icons/items/apparel_mod.svg",
+				"img": "systems/falloutV12/assets/icons/items/apparel_mod.svg",
 				"name": "Motion-Assist Servos",
 				"ownership": {
 					"default": 0

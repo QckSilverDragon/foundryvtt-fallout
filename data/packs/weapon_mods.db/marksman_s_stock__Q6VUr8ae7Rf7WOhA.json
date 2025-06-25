@@ -4,7 +4,7 @@
 	"effects": [
 	],
 	"folder": "DNGfd7QeFaSwX9WC",
-	"img": "systems/fallout/assets/icons/items/weapon_mod.svg",
+	"img": "systems/falloutV12/assets/icons/items/weapon_mod.svg",
 	"name": "Marksman's Stock",
 	"system": {
 		"attachable": true,

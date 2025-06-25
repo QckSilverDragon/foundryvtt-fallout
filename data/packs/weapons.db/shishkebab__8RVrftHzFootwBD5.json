@@ -4,7 +4,7 @@
 	"effects": [
 	],
 	"folder": "8HBxoFI4IGjaL6eX",
-	"img": "systems/fallout/assets/icons/items/weapon.svg",
+	"img": "systems/falloutV12/assets/icons/items/weapon.svg",
 	"name": "Shishkebab",
 	"system": {
 		"ammo": "",
@@ -213,7 +213,7 @@
 				"flags": {
 				},
 				"folder": "zJ60lK8HPsVc6vAk",
-				"img": "systems/fallout/assets/icons/items/weapon_mod.svg",
+				"img": "systems/falloutV12/assets/icons/items/weapon_mod.svg",
 				"name": "Extra Flame Jets",
 				"ownership": {
 					"default": 0

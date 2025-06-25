@@ -4,7 +4,7 @@
 	"effects": [
 	],
 	"folder": "zY0rwlqXY0Yb7tFp",
-	"img": "systems/fallout/assets/icons/items/perk.svg",
+	"img": "systems/falloutV12/assets/icons/items/perk.svg",
 	"name": "What Is Plasma, Anyway?",
 	"system": {
 		"description": "<p>+2 to Physical and Energy damage resistances vs Plasma weapons</p>",

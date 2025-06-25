@@ -4,7 +4,7 @@
 	"effects": [
 	],
 	"folder": "IoEvCm1c8TK0ekL7",
-	"img": "systems/fallout/assets/icons/items/perk.svg",
+	"img": "systems/falloutV12/assets/icons/items/perk.svg",
 	"name": "Fixin' Things",
 	"system": {
 		"description": "<p>Once, when you attempt to repair an item, halve the amounts of the materials needed to complete the repair (round up). If you later learn this perk, you may use this whenever you attempt repairs.</p>",

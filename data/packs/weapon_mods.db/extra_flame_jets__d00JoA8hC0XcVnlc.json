@@ -4,7 +4,7 @@
 	"effects": [
 	],
 	"folder": "zJ60lK8HPsVc6vAk",
-	"img": "systems/fallout/assets/icons/items/weapon_mod.svg",
+	"img": "systems/falloutV12/assets/icons/items/weapon_mod.svg",
 	"name": "Extra Flame Jets",
 	"system": {
 		"attachable": true,

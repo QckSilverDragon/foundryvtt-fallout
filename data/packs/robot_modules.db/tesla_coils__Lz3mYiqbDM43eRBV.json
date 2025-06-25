@@ -4,7 +4,7 @@
 	"effects": [
 	],
 	"folder": null,
-	"img": "systems/fallout/assets/icons/items/robot_mod.svg",
+	"img": "systems/falloutV12/assets/icons/items/robot_mod.svg",
 	"name": "Tesla Coils",
 	"system": {
 		"canBeScrapped": true,

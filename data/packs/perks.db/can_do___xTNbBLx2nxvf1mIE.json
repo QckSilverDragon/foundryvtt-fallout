@@ -4,7 +4,7 @@
 	"effects": [
 	],
 	"folder": null,
-	"img": "systems/fallout/assets/icons/items/perk.svg",
+	"img": "systems/falloutV12/assets/icons/items/perk.svg",
 	"name": "Can Do!",
 	"system": {
 		"description": "<p>When you are scavenging a location that contains food, you gain 1 additional random food item, without spending AP.</p>\n<p><strong>Requirements</strong>: LCK 5</p>",

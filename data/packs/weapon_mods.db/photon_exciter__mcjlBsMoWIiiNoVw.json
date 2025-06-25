@@ -4,7 +4,7 @@
 	"effects": [
 	],
 	"folder": "XtgWC9Ev4cxCj2nq",
-	"img": "systems/fallout/assets/icons/items/weapon_mod.svg",
+	"img": "systems/falloutV12/assets/icons/items/weapon_mod.svg",
 	"name": "Photon Exciter",
 	"system": {
 		"attachable": true,

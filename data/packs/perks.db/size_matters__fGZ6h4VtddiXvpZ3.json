@@ -4,7 +4,7 @@
 	"effects": [
 	],
 	"folder": null,
-	"img": "systems/fallout/assets/icons/items/perk.svg",
+	"img": "systems/falloutV12/assets/icons/items/perk.svg",
 	"name": "Size Matters",
 	"system": {
 		"description": "<p>When you make a ranged attack with any heavy weapon, you add +1 CD to the weapon&rsquo;s damage, per rank. Each time you take this perk, the level requirement increases by 4.</p>\n<p><strong>Requirements</strong>: END 7, AGI 6</p>",

@@ -21,7 +21,7 @@
 				}
 			},
 			"folder": "LEEmSQTcIfBNsDTh",
-			"img": "systems/fallout/assets/tokens/robot.webp",
+			"img": "systems/falloutV12/assets/tokens/robot.webp",
 			"items": [
 				{
 					"_id": "u4UWh9iWgJvsiDNI",
@@ -40,7 +40,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/weapon.svg",
+					"img": "systems/falloutV12/assets/icons/items/weapon.svg",
 					"name": "Claws",
 					"ownership": {
 						"default": 0,
@@ -272,7 +272,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/weapon.svg",
+					"img": "systems/falloutV12/assets/icons/items/weapon.svg",
 					"name": "Self-Destruct",
 					"ownership": {
 						"default": 0,
@@ -504,7 +504,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/weapon.svg",
+					"img": "systems/falloutV12/assets/icons/items/weapon.svg",
 					"name": "Arm Lasers",
 					"ownership": {
 						"default": 0,
@@ -736,7 +736,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/special_ability.svg",
+					"img": "systems/falloutV12/assets/icons/items/special_ability.svg",
 					"name": "Robot",
 					"ownership": {
 						"default": 0,
@@ -767,7 +767,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/special_ability.svg",
+					"img": "systems/falloutV12/assets/icons/items/special_ability.svg",
 					"name": "Immune to Poison",
 					"ownership": {
 						"default": 0,
@@ -798,7 +798,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/special_ability.svg",
+					"img": "systems/falloutV12/assets/icons/items/special_ability.svg",
 					"name": "Immune to Radiation",
 					"ownership": {
 						"default": 0,
@@ -829,7 +829,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/special_ability.svg",
+					"img": "systems/falloutV12/assets/icons/items/special_ability.svg",
 					"name": "Immune to Disease",
 					"ownership": {
 						"default": 0,
@@ -860,7 +860,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/special_ability.svg",
+					"img": "systems/falloutV12/assets/icons/items/special_ability.svg",
 					"name": "Arm Lasers",
 					"ownership": {
 						"default": 0,
@@ -891,7 +891,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/special_ability.svg",
+					"img": "systems/falloutV12/assets/icons/items/special_ability.svg",
 					"name": "Let Rip",
 					"ownership": {
 						"default": 0,
@@ -922,7 +922,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/special_ability.svg",
+					"img": "systems/falloutV12/assets/icons/items/special_ability.svg",
 					"name": "Self-Destruct",
 					"ownership": {
 						"default": 0,
@@ -1028,7 +1028,7 @@
 					"rotation": 0,
 					"scaleX": 1,
 					"scaleY": 1,
-					"src": "systems/fallout/assets/tokens/robot.webp",
+					"src": "systems/falloutV12/assets/tokens/robot.webp",
 					"tint": "#ffffff"
 				},
 				"width": 1
@@ -1278,7 +1278,7 @@
 			"flags": {
 			},
 			"folder": "LEEmSQTcIfBNsDTh",
-			"img": "systems/fallout/assets/tokens/creature.webp",
+			"img": "systems/falloutV12/assets/tokens/creature.webp",
 			"items": [
 				{
 					"_id": "KGRkntGxWsK465uD",
@@ -1297,7 +1297,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/weapon.svg",
+					"img": "systems/falloutV12/assets/icons/items/weapon.svg",
 					"name": "Unarmed",
 					"ownership": {
 						"default": 0,
@@ -1529,7 +1529,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/special_ability.svg",
+					"img": "systems/falloutV12/assets/icons/items/special_ability.svg",
 					"name": "Immune to Poison",
 					"ownership": {
 						"default": 0,
@@ -1560,7 +1560,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/special_ability.svg",
+					"img": "systems/falloutV12/assets/icons/items/special_ability.svg",
 					"name": "Immune to Radiation",
 					"ownership": {
 						"default": 0,
@@ -1591,7 +1591,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/special_ability.svg",
+					"img": "systems/falloutV12/assets/icons/items/special_ability.svg",
 					"name": "Feral",
 					"ownership": {
 						"default": 0,
@@ -1622,7 +1622,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/special_ability.svg",
+					"img": "systems/falloutV12/assets/icons/items/special_ability.svg",
 					"name": "Ghoul",
 					"ownership": {
 						"default": 0,
@@ -1653,7 +1653,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/special_ability.svg",
+					"img": "systems/falloutV12/assets/icons/items/special_ability.svg",
 					"name": "Play Dead",
 					"ownership": {
 						"default": 0,
@@ -1684,7 +1684,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/special_ability.svg",
+					"img": "systems/falloutV12/assets/icons/items/special_ability.svg",
 					"name": "Radiation Pulse",
 					"ownership": {
 						"default": 0,
@@ -1715,7 +1715,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/weapon.svg",
+					"img": "systems/falloutV12/assets/icons/items/weapon.svg",
 					"name": "Radiation Pulse",
 					"ownership": {
 						"default": 0,
@@ -1947,7 +1947,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/special_ability.svg",
+					"img": "systems/falloutV12/assets/icons/items/special_ability.svg",
 					"name": "Putrid",
 					"ownership": {
 						"default": 0,
@@ -2053,7 +2053,7 @@
 					"rotation": 0,
 					"scaleX": 1,
 					"scaleY": 1,
-					"src": "systems/fallout/assets/tokens/creature.webp",
+					"src": "systems/falloutV12/assets/tokens/creature.webp",
 					"tint": "#ffffff"
 				},
 				"width": 1
@@ -2304,7 +2304,7 @@
 				}
 			},
 			"folder": "LEEmSQTcIfBNsDTh",
-			"img": "systems/fallout/assets/tokens/creature.webp",
+			"img": "systems/falloutV12/assets/tokens/creature.webp",
 			"items": [
 				{
 					"_id": "QNvq7a9t5WZIvZpk",
@@ -2323,7 +2323,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/weapon.svg",
+					"img": "systems/falloutV12/assets/icons/items/weapon.svg",
 					"name": "Bite",
 					"ownership": {
 						"default": 0,
@@ -2558,7 +2558,7 @@
 						}
 					},
 					"folder": "9QCCOyxmiCDBRWbX",
-					"img": "systems/fallout/assets/icons/items/consumable.svg",
+					"img": "systems/falloutV12/assets/icons/items/consumable.svg",
 					"name": "Radroach Meat",
 					"ownership": {
 						"default": 0,
@@ -2613,7 +2613,7 @@
 						}
 					},
 					"folder": "iDuO1JvotWNUCVuW",
-					"img": "systems/fallout/assets/icons/items/special_ability.svg",
+					"img": "systems/falloutV12/assets/icons/items/special_ability.svg",
 					"name": "Immune to Radiation",
 					"ownership": {
 						"default": 0,
@@ -2647,7 +2647,7 @@
 						}
 					},
 					"folder": "iDuO1JvotWNUCVuW",
-					"img": "systems/fallout/assets/icons/items/special_ability.svg",
+					"img": "systems/falloutV12/assets/icons/items/special_ability.svg",
 					"name": "Immune to Poison",
 					"ownership": {
 						"default": 0,
@@ -2681,7 +2681,7 @@
 						}
 					},
 					"folder": "iDuO1JvotWNUCVuW",
-					"img": "systems/fallout/assets/icons/items/special_ability.svg",
+					"img": "systems/falloutV12/assets/icons/items/special_ability.svg",
 					"name": "Little",
 					"ownership": {
 						"default": 0,
@@ -2715,7 +2715,7 @@
 						}
 					},
 					"folder": "iDuO1JvotWNUCVuW",
-					"img": "systems/fallout/assets/icons/items/special_ability.svg",
+					"img": "systems/falloutV12/assets/icons/items/special_ability.svg",
 					"name": "Sneaky",
 					"ownership": {
 						"default": 0,
@@ -2821,7 +2821,7 @@
 					"rotation": 0,
 					"scaleX": 0.5,
 					"scaleY": 0.5,
-					"src": "systems/fallout/assets/tokens/creature.webp",
+					"src": "systems/falloutV12/assets/tokens/creature.webp",
 					"tint": "#ffffff"
 				},
 				"width": 1
@@ -3071,7 +3071,7 @@
 			"flags": {
 			},
 			"folder": "LEEmSQTcIfBNsDTh",
-			"img": "systems/fallout/assets/tokens/robot.webp",
+			"img": "systems/falloutV12/assets/tokens/robot.webp",
 			"items": [
 				{
 					"_id": "4YpS229BMWDjUCDW",
@@ -3090,7 +3090,7 @@
 					"flags": {
 					},
 					"folder": "8HBxoFI4IGjaL6eX",
-					"img": "systems/fallout/assets/icons/items/weapon.svg",
+					"img": "systems/falloutV12/assets/icons/items/weapon.svg",
 					"name": "Unarmed",
 					"ownership": {
 						"default": 0,
@@ -3322,7 +3322,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/weapon.svg",
+					"img": "systems/falloutV12/assets/icons/items/weapon.svg",
 					"name": "Mesmetron Beam",
 					"ownership": {
 						"default": 0,
@@ -3554,7 +3554,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/weapon.svg",
+					"img": "systems/falloutV12/assets/icons/items/weapon.svg",
 					"name": "Self-Destruct",
 					"ownership": {
 						"default": 0,
@@ -3786,7 +3786,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/special_ability.svg",
+					"img": "systems/falloutV12/assets/icons/items/special_ability.svg",
 					"name": "Robot",
 					"ownership": {
 						"default": 0,
@@ -3817,7 +3817,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/special_ability.svg",
+					"img": "systems/falloutV12/assets/icons/items/special_ability.svg",
 					"name": "Immune to Poison",
 					"ownership": {
 						"default": 0,
@@ -3848,7 +3848,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/special_ability.svg",
+					"img": "systems/falloutV12/assets/icons/items/special_ability.svg",
 					"name": "Immune to Radiation",
 					"ownership": {
 						"default": 0,
@@ -3879,7 +3879,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/special_ability.svg",
+					"img": "systems/falloutV12/assets/icons/items/special_ability.svg",
 					"name": "Immune to Disease",
 					"ownership": {
 						"default": 0,
@@ -3910,7 +3910,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/special_ability.svg",
+					"img": "systems/falloutV12/assets/icons/items/special_ability.svg",
 					"name": "Keen Senses",
 					"ownership": {
 						"default": 0,
@@ -3941,7 +3941,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/special_ability.svg",
+					"img": "systems/falloutV12/assets/icons/items/special_ability.svg",
 					"name": "Autorepair",
 					"ownership": {
 						"default": 0,
@@ -3972,7 +3972,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/special_ability.svg",
+					"img": "systems/falloutV12/assets/icons/items/special_ability.svg",
 					"name": "Self-Destruct",
 					"ownership": {
 						"default": 0,
@@ -4003,7 +4003,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/special_ability.svg",
+					"img": "systems/falloutV12/assets/icons/items/special_ability.svg",
 					"name": "Night Vision",
 					"ownership": {
 						"default": 0,
@@ -4109,7 +4109,7 @@
 					"rotation": 0,
 					"scaleX": 1,
 					"scaleY": 1,
-					"src": "systems/fallout/assets/tokens/robot.webp",
+					"src": "systems/falloutV12/assets/tokens/robot.webp",
 					"tint": "#ffffff"
 				},
 				"width": 1
@@ -4358,7 +4358,7 @@
 			"flags": {
 			},
 			"folder": "LEEmSQTcIfBNsDTh",
-			"img": "systems/fallout/assets/tokens/creature.webp",
+			"img": "systems/falloutV12/assets/tokens/creature.webp",
 			"items": [
 				{
 					"_id": "KGRkntGxWsK465uD",
@@ -4377,7 +4377,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/weapon.svg",
+					"img": "systems/falloutV12/assets/icons/items/weapon.svg",
 					"name": "Unarmed",
 					"ownership": {
 						"default": 0,
@@ -4609,7 +4609,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/special_ability.svg",
+					"img": "systems/falloutV12/assets/icons/items/special_ability.svg",
 					"name": "Immune to Poison",
 					"ownership": {
 						"default": 0,
@@ -4640,7 +4640,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/special_ability.svg",
+					"img": "systems/falloutV12/assets/icons/items/special_ability.svg",
 					"name": "Immune to Radiation",
 					"ownership": {
 						"default": 0,
@@ -4671,7 +4671,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/special_ability.svg",
+					"img": "systems/falloutV12/assets/icons/items/special_ability.svg",
 					"name": "Feral",
 					"ownership": {
 						"default": 0,
@@ -4702,7 +4702,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/special_ability.svg",
+					"img": "systems/falloutV12/assets/icons/items/special_ability.svg",
 					"name": "Ghoul",
 					"ownership": {
 						"default": 0,
@@ -4733,7 +4733,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/special_ability.svg",
+					"img": "systems/falloutV12/assets/icons/items/special_ability.svg",
 					"name": "Play Dead",
 					"ownership": {
 						"default": 0,
@@ -4764,7 +4764,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/special_ability.svg",
+					"img": "systems/falloutV12/assets/icons/items/special_ability.svg",
 					"name": "Radiation Pulse",
 					"ownership": {
 						"default": 0,
@@ -4795,7 +4795,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/weapon.svg",
+					"img": "systems/falloutV12/assets/icons/items/weapon.svg",
 					"name": "Radiation Pulse",
 					"ownership": {
 						"default": 0,
@@ -5027,7 +5027,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/special_ability.svg",
+					"img": "systems/falloutV12/assets/icons/items/special_ability.svg",
 					"name": "Toughened",
 					"ownership": {
 						"default": 0,
@@ -5133,7 +5133,7 @@
 					"rotation": 0,
 					"scaleX": 1,
 					"scaleY": 1,
-					"src": "systems/fallout/assets/tokens/creature.webp",
+					"src": "systems/falloutV12/assets/tokens/creature.webp",
 					"tint": "#ffffff"
 				},
 				"width": 1
@@ -5382,7 +5382,7 @@
 			"flags": {
 			},
 			"folder": "LEEmSQTcIfBNsDTh",
-			"img": "systems/fallout/assets/tokens/creature.webp",
+			"img": "systems/falloutV12/assets/tokens/creature.webp",
 			"items": [
 				{
 					"_id": "KGRkntGxWsK465uD",
@@ -5401,7 +5401,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/weapon.svg",
+					"img": "systems/falloutV12/assets/icons/items/weapon.svg",
 					"name": "Unarmed",
 					"ownership": {
 						"default": 0,
@@ -5633,7 +5633,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/special_ability.svg",
+					"img": "systems/falloutV12/assets/icons/items/special_ability.svg",
 					"name": "Immune to Poison",
 					"ownership": {
 						"default": 0,
@@ -5664,7 +5664,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/special_ability.svg",
+					"img": "systems/falloutV12/assets/icons/items/special_ability.svg",
 					"name": "Immune to Radiation",
 					"ownership": {
 						"default": 0,
@@ -5695,7 +5695,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/special_ability.svg",
+					"img": "systems/falloutV12/assets/icons/items/special_ability.svg",
 					"name": "Feral",
 					"ownership": {
 						"default": 0,
@@ -5726,7 +5726,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/special_ability.svg",
+					"img": "systems/falloutV12/assets/icons/items/special_ability.svg",
 					"name": "Ghoul",
 					"ownership": {
 						"default": 0,
@@ -5757,7 +5757,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/special_ability.svg",
+					"img": "systems/falloutV12/assets/icons/items/special_ability.svg",
 					"name": "Play Dead",
 					"ownership": {
 						"default": 0,
@@ -5863,7 +5863,7 @@
 					"rotation": 0,
 					"scaleX": 1,
 					"scaleY": 1,
-					"src": "systems/fallout/assets/tokens/creature.webp",
+					"src": "systems/falloutV12/assets/tokens/creature.webp",
 					"tint": "#ffffff"
 				},
 				"width": 1
@@ -6157,7 +6157,7 @@
 			"flags": {
 			},
 			"folder": "oHCkMvCY32ngMEET",
-			"img": "systems/fallout/assets/tokens/character.webp",
+			"img": "systems/falloutV12/assets/tokens/character.webp",
 			"items": [
 				{
 					"_id": "5xAG0eRrcvDeJAFk",
@@ -6176,7 +6176,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/skill.webp",
+					"img": "systems/falloutV12/assets/icons/items/skill.webp",
 					"name": "Unarmed",
 					"ownership": {
 						"default": 0
@@ -6210,7 +6210,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/skill.webp",
+					"img": "systems/falloutV12/assets/icons/items/skill.webp",
 					"name": "Athletics",
 					"ownership": {
 						"default": 0
@@ -6244,7 +6244,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/skill.webp",
+					"img": "systems/falloutV12/assets/icons/items/skill.webp",
 					"name": "Science",
 					"ownership": {
 						"default": 0
@@ -6278,7 +6278,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/skill.webp",
+					"img": "systems/falloutV12/assets/icons/items/skill.webp",
 					"name": "Sneak",
 					"ownership": {
 						"default": 0
@@ -6312,7 +6312,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/skill.webp",
+					"img": "systems/falloutV12/assets/icons/items/skill.webp",
 					"name": "Pilot",
 					"ownership": {
 						"default": 0
@@ -6346,7 +6346,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/skill.webp",
+					"img": "systems/falloutV12/assets/icons/items/skill.webp",
 					"name": "Survival",
 					"ownership": {
 						"default": 0
@@ -6380,7 +6380,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/skill.webp",
+					"img": "systems/falloutV12/assets/icons/items/skill.webp",
 					"name": "Lockpick",
 					"ownership": {
 						"default": 0
@@ -6414,7 +6414,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/skill.webp",
+					"img": "systems/falloutV12/assets/icons/items/skill.webp",
 					"name": "Throwing",
 					"ownership": {
 						"default": 0
@@ -6448,7 +6448,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/skill.webp",
+					"img": "systems/falloutV12/assets/icons/items/skill.webp",
 					"name": "Small Guns",
 					"ownership": {
 						"default": 0
@@ -6482,7 +6482,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/skill.webp",
+					"img": "systems/falloutV12/assets/icons/items/skill.webp",
 					"name": "Medicine",
 					"ownership": {
 						"default": 0
@@ -6516,7 +6516,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/skill.webp",
+					"img": "systems/falloutV12/assets/icons/items/skill.webp",
 					"name": "Repair",
 					"ownership": {
 						"default": 0
@@ -6550,7 +6550,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/skill.webp",
+					"img": "systems/falloutV12/assets/icons/items/skill.webp",
 					"name": "Speech",
 					"ownership": {
 						"default": 0
@@ -6584,7 +6584,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/skill.webp",
+					"img": "systems/falloutV12/assets/icons/items/skill.webp",
 					"name": "Explosives",
 					"ownership": {
 						"default": 0
@@ -6618,7 +6618,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/skill.webp",
+					"img": "systems/falloutV12/assets/icons/items/skill.webp",
 					"name": "Energy Weapons",
 					"ownership": {
 						"default": 0
@@ -6652,7 +6652,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/skill.webp",
+					"img": "systems/falloutV12/assets/icons/items/skill.webp",
 					"name": "Melee Weapons",
 					"ownership": {
 						"default": 0
@@ -6686,7 +6686,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/skill.webp",
+					"img": "systems/falloutV12/assets/icons/items/skill.webp",
 					"name": "Big Guns",
 					"ownership": {
 						"default": 0
@@ -6720,7 +6720,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/skill.webp",
+					"img": "systems/falloutV12/assets/icons/items/skill.webp",
 					"name": "Barter",
 					"ownership": {
 						"default": 0
@@ -6754,7 +6754,7 @@
 					"flags": {
 					},
 					"folder": "8HBxoFI4IGjaL6eX",
-					"img": "systems/fallout/assets/icons/items/weapon.svg",
+					"img": "systems/falloutV12/assets/icons/items/weapon.svg",
 					"name": "Knuckles",
 					"ownership": {
 						"default": 0,
@@ -6986,7 +6986,7 @@
 					"flags": {
 					},
 					"folder": "Fvz7mUEk61qB057V",
-					"img": "systems/fallout/assets/icons/items/weapon.svg",
+					"img": "systems/falloutV12/assets/icons/items/weapon.svg",
 					"name": "Pipe Gun",
 					"ownership": {
 						"default": 0,
@@ -7218,7 +7218,7 @@
 					"flags": {
 					},
 					"folder": "8HBxoFI4IGjaL6eX",
-					"img": "systems/fallout/assets/icons/items/weapon.svg",
+					"img": "systems/falloutV12/assets/icons/items/weapon.svg",
 					"name": "Unarmed Strike",
 					"ownership": {
 						"default": 0,
@@ -7450,7 +7450,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/ammo.svg",
+					"img": "systems/falloutV12/assets/icons/items/ammo.svg",
 					"name": ".38 Round",
 					"ownership": {
 						"default": 0,
@@ -7499,7 +7499,7 @@
 					"flags": {
 					},
 					"folder": "mtR30GikhQq9bCZw",
-					"img": "systems/fallout/assets/icons/items/apparel.svg",
+					"img": "systems/falloutV12/assets/icons/items/apparel.svg",
 					"name": "Tough Clothing",
 					"ownership": {
 						"default": 0,
@@ -7572,7 +7572,7 @@
 					"flags": {
 					},
 					"folder": "wq5Mhfa0U7SlJgyP",
-					"img": "systems/fallout/assets/icons/items/apparel.svg",
+					"img": "systems/falloutV12/assets/icons/items/apparel.svg",
 					"name": "Formal Hat",
 					"ownership": {
 						"default": 0,
@@ -7645,7 +7645,7 @@
 					"flags": {
 					},
 					"folder": "FiAqKiTwXAp5BbMw",
-					"img": "systems/fallout/assets/icons/items/apparel.svg",
+					"img": "systems/falloutV12/assets/icons/items/apparel.svg",
 					"name": "Formal Clothing",
 					"ownership": {
 						"default": 0,
@@ -7718,7 +7718,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/trait.svg",
+					"img": "systems/falloutV12/assets/icons/items/trait.svg",
 					"name": "Heavy Handed",
 					"ownership": {
 						"default": 0,
@@ -7749,7 +7749,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/perk.svg",
+					"img": "systems/falloutV12/assets/icons/items/perk.svg",
 					"name": "Scoundrel",
 					"ownership": {
 						"default": 0,
@@ -7822,7 +7822,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/perk.svg",
+					"img": "systems/falloutV12/assets/icons/items/perk.svg",
 					"name": "Daring Nature",
 					"ownership": {
 						"default": 0,
@@ -7895,7 +7895,7 @@
 					"flags": {
 					},
 					"folder": "9QCCOyxmiCDBRWbX",
-					"img": "systems/fallout/assets/icons/items/consumable.svg",
+					"img": "systems/falloutV12/assets/icons/items/consumable.svg",
 					"name": "Noodle Cup",
 					"ownership": {
 						"default": 0,
@@ -7947,7 +7947,7 @@
 					"flags": {
 					},
 					"folder": "9QCCOyxmiCDBRWbX",
-					"img": "systems/fallout/assets/icons/items/consumable.svg",
+					"img": "systems/falloutV12/assets/icons/items/consumable.svg",
 					"name": "Pork 'n' Beans",
 					"ownership": {
 						"default": 0,
@@ -7998,7 +7998,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/miscellany.svg",
+					"img": "systems/falloutV12/assets/icons/items/miscellany.svg",
 					"name": "Loaded Casino Dice",
 					"ownership": {
 						"default": 0,
@@ -8112,7 +8112,7 @@
 					"rotation": 0,
 					"scaleX": 1,
 					"scaleY": 1,
-					"src": "systems/fallout/assets/tokens/character.webp",
+					"src": "systems/falloutV12/assets/tokens/character.webp",
 					"tint": "#ffffff"
 				},
 				"width": 1
@@ -8356,7 +8356,7 @@
 			"flags": {
 			},
 			"folder": "oHCkMvCY32ngMEET",
-			"img": "systems/fallout/assets/tokens/character.webp",
+			"img": "systems/falloutV12/assets/tokens/character.webp",
 			"items": [
 				{
 					"_id": "5xAG0eRrcvDeJAFk",
@@ -8375,7 +8375,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/skill.webp",
+					"img": "systems/falloutV12/assets/icons/items/skill.webp",
 					"name": "Unarmed",
 					"ownership": {
 						"default": 0
@@ -8409,7 +8409,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/skill.webp",
+					"img": "systems/falloutV12/assets/icons/items/skill.webp",
 					"name": "Athletics",
 					"ownership": {
 						"default": 0
@@ -8443,7 +8443,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/skill.webp",
+					"img": "systems/falloutV12/assets/icons/items/skill.webp",
 					"name": "Science",
 					"ownership": {
 						"default": 0
@@ -8477,7 +8477,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/skill.webp",
+					"img": "systems/falloutV12/assets/icons/items/skill.webp",
 					"name": "Sneak",
 					"ownership": {
 						"default": 0
@@ -8511,7 +8511,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/skill.webp",
+					"img": "systems/falloutV12/assets/icons/items/skill.webp",
 					"name": "Pilot",
 					"ownership": {
 						"default": 0
@@ -8545,7 +8545,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/skill.webp",
+					"img": "systems/falloutV12/assets/icons/items/skill.webp",
 					"name": "Survival",
 					"ownership": {
 						"default": 0
@@ -8579,7 +8579,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/skill.webp",
+					"img": "systems/falloutV12/assets/icons/items/skill.webp",
 					"name": "Lockpick",
 					"ownership": {
 						"default": 0
@@ -8613,7 +8613,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/skill.webp",
+					"img": "systems/falloutV12/assets/icons/items/skill.webp",
 					"name": "Throwing",
 					"ownership": {
 						"default": 0
@@ -8647,7 +8647,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/skill.webp",
+					"img": "systems/falloutV12/assets/icons/items/skill.webp",
 					"name": "Small Guns",
 					"ownership": {
 						"default": 0
@@ -8681,7 +8681,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/skill.webp",
+					"img": "systems/falloutV12/assets/icons/items/skill.webp",
 					"name": "Medicine",
 					"ownership": {
 						"default": 0
@@ -8715,7 +8715,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/skill.webp",
+					"img": "systems/falloutV12/assets/icons/items/skill.webp",
 					"name": "Repair",
 					"ownership": {
 						"default": 0
@@ -8749,7 +8749,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/skill.webp",
+					"img": "systems/falloutV12/assets/icons/items/skill.webp",
 					"name": "Speech",
 					"ownership": {
 						"default": 0
@@ -8783,7 +8783,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/skill.webp",
+					"img": "systems/falloutV12/assets/icons/items/skill.webp",
 					"name": "Explosives",
 					"ownership": {
 						"default": 0
@@ -8817,7 +8817,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/skill.webp",
+					"img": "systems/falloutV12/assets/icons/items/skill.webp",
 					"name": "Energy Weapons",
 					"ownership": {
 						"default": 0
@@ -8851,7 +8851,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/skill.webp",
+					"img": "systems/falloutV12/assets/icons/items/skill.webp",
 					"name": "Melee Weapons",
 					"ownership": {
 						"default": 0
@@ -8885,7 +8885,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/skill.webp",
+					"img": "systems/falloutV12/assets/icons/items/skill.webp",
 					"name": "Big Guns",
 					"ownership": {
 						"default": 0
@@ -8919,7 +8919,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/skill.webp",
+					"img": "systems/falloutV12/assets/icons/items/skill.webp",
 					"name": "Barter",
 					"ownership": {
 						"default": 0
@@ -8953,7 +8953,7 @@
 					"flags": {
 					},
 					"folder": "8HBxoFI4IGjaL6eX",
-					"img": "systems/fallout/assets/icons/items/weapon.svg",
+					"img": "systems/falloutV12/assets/icons/items/weapon.svg",
 					"name": "Switchblade",
 					"ownership": {
 						"default": 0,
@@ -9185,7 +9185,7 @@
 					"flags": {
 					},
 					"folder": "Fvz7mUEk61qB057V",
-					"img": "systems/fallout/assets/icons/items/weapon.svg",
+					"img": "systems/falloutV12/assets/icons/items/weapon.svg",
 					"name": "10mm Pistol",
 					"ownership": {
 						"default": 0,
@@ -9417,7 +9417,7 @@
 					"flags": {
 					},
 					"folder": "8HBxoFI4IGjaL6eX",
-					"img": "systems/fallout/assets/icons/items/weapon.svg",
+					"img": "systems/falloutV12/assets/icons/items/weapon.svg",
 					"name": "Unarmed Strike",
 					"ownership": {
 						"default": 0,
@@ -9649,7 +9649,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/ammo.svg",
+					"img": "systems/falloutV12/assets/icons/items/ammo.svg",
 					"name": "10mm Round",
 					"ownership": {
 						"default": 0,
@@ -9698,7 +9698,7 @@
 					"flags": {
 					},
 					"folder": "mtR30GikhQq9bCZw",
-					"img": "systems/fallout/assets/icons/items/apparel.svg",
+					"img": "systems/falloutV12/assets/icons/items/apparel.svg",
 					"name": "Vault Jumpsuit",
 					"ownership": {
 						"default": 0,
@@ -9771,7 +9771,7 @@
 					"flags": {
 					},
 					"folder": "FiAqKiTwXAp5BbMw",
-					"img": "systems/fallout/assets/icons/items/apparel.svg",
+					"img": "systems/falloutV12/assets/icons/items/apparel.svg",
 					"name": "Lab Coat",
 					"ownership": {
 						"default": 0,
@@ -9844,7 +9844,7 @@
 					"flags": {
 					},
 					"folder": "ajMustngwNZwFiQS",
-					"img": "systems/fallout/assets/icons/items/consumable.svg",
+					"img": "systems/falloutV12/assets/icons/items/consumable.svg",
 					"name": "Purified Water",
 					"ownership": {
 						"default": 0,
@@ -9896,7 +9896,7 @@
 					"flags": {
 					},
 					"folder": "n3Q9X70ZsFFCTZqu",
-					"img": "systems/fallout/assets/icons/items/consumable.svg",
+					"img": "systems/falloutV12/assets/icons/items/consumable.svg",
 					"name": "Stimpak",
 					"ownership": {
 						"default": 0,
@@ -9948,7 +9948,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/miscellany.svg",
+					"img": "systems/falloutV12/assets/icons/items/miscellany.svg",
 					"name": "Bobby Pin",
 					"ownership": {
 						"default": 0,
@@ -9987,7 +9987,7 @@
 					"flags": {
 					},
 					"folder": "n3Q9X70ZsFFCTZqu",
-					"img": "systems/fallout/assets/icons/items/consumable.svg",
+					"img": "systems/falloutV12/assets/icons/items/consumable.svg",
 					"name": "Mentats",
 					"ownership": {
 						"default": 0,
@@ -10039,7 +10039,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/miscellany.svg",
+					"img": "systems/falloutV12/assets/icons/items/miscellany.svg",
 					"name": "Vault-Tec Branded Canteen",
 					"ownership": {
 						"default": 0,
@@ -10078,7 +10078,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/miscellany.svg",
+					"img": "systems/falloutV12/assets/icons/items/miscellany.svg",
 					"name": "Pip-Boy",
 					"ownership": {
 						"default": 0,
@@ -10117,7 +10117,7 @@
 					"flags": {
 					},
 					"folder": "n3Q9X70ZsFFCTZqu",
-					"img": "systems/fallout/assets/icons/items/consumable.svg",
+					"img": "systems/falloutV12/assets/icons/items/consumable.svg",
 					"name": "Calmex",
 					"ownership": {
 						"default": 0,
@@ -10169,7 +10169,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/trait.svg",
+					"img": "systems/falloutV12/assets/icons/items/trait.svg",
 					"name": "Vault Kid",
 					"ownership": {
 						"default": 0,
@@ -10200,7 +10200,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/perk.svg",
+					"img": "systems/falloutV12/assets/icons/items/perk.svg",
 					"name": "Hacker",
 					"ownership": {
 						"default": 0,
@@ -10273,7 +10273,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/perk.svg",
+					"img": "systems/falloutV12/assets/icons/items/perk.svg",
 					"name": "V.A.T.S.",
 					"ownership": {
 						"default": 0,
@@ -10421,7 +10421,7 @@
 					"rotation": 0,
 					"scaleX": 1,
 					"scaleY": 1,
-					"src": "systems/fallout/assets/tokens/character.webp",
+					"src": "systems/falloutV12/assets/tokens/character.webp",
 					"tint": "#ffffff"
 				},
 				"width": 1
@@ -10665,7 +10665,7 @@
 			"flags": {
 			},
 			"folder": "oHCkMvCY32ngMEET",
-			"img": "systems/fallout/assets/tokens/character.webp",
+			"img": "systems/falloutV12/assets/tokens/character.webp",
 			"items": [
 				{
 					"_id": "5xAG0eRrcvDeJAFk",
@@ -10684,7 +10684,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/skill.webp",
+					"img": "systems/falloutV12/assets/icons/items/skill.webp",
 					"name": "Unarmed",
 					"ownership": {
 						"default": 0
@@ -10718,7 +10718,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/skill.webp",
+					"img": "systems/falloutV12/assets/icons/items/skill.webp",
 					"name": "Athletics",
 					"ownership": {
 						"default": 0
@@ -10752,7 +10752,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/skill.webp",
+					"img": "systems/falloutV12/assets/icons/items/skill.webp",
 					"name": "Science",
 					"ownership": {
 						"default": 0
@@ -10786,7 +10786,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/skill.webp",
+					"img": "systems/falloutV12/assets/icons/items/skill.webp",
 					"name": "Sneak",
 					"ownership": {
 						"default": 0
@@ -10820,7 +10820,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/skill.webp",
+					"img": "systems/falloutV12/assets/icons/items/skill.webp",
 					"name": "Pilot",
 					"ownership": {
 						"default": 0
@@ -10854,7 +10854,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/skill.webp",
+					"img": "systems/falloutV12/assets/icons/items/skill.webp",
 					"name": "Survival",
 					"ownership": {
 						"default": 0
@@ -10888,7 +10888,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/skill.webp",
+					"img": "systems/falloutV12/assets/icons/items/skill.webp",
 					"name": "Lockpick",
 					"ownership": {
 						"default": 0
@@ -10922,7 +10922,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/skill.webp",
+					"img": "systems/falloutV12/assets/icons/items/skill.webp",
 					"name": "Throwing",
 					"ownership": {
 						"default": 0
@@ -10956,7 +10956,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/skill.webp",
+					"img": "systems/falloutV12/assets/icons/items/skill.webp",
 					"name": "Small Guns",
 					"ownership": {
 						"default": 0
@@ -10990,7 +10990,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/skill.webp",
+					"img": "systems/falloutV12/assets/icons/items/skill.webp",
 					"name": "Medicine",
 					"ownership": {
 						"default": 0
@@ -11024,7 +11024,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/skill.webp",
+					"img": "systems/falloutV12/assets/icons/items/skill.webp",
 					"name": "Repair",
 					"ownership": {
 						"default": 0
@@ -11058,7 +11058,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/skill.webp",
+					"img": "systems/falloutV12/assets/icons/items/skill.webp",
 					"name": "Speech",
 					"ownership": {
 						"default": 0
@@ -11092,7 +11092,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/skill.webp",
+					"img": "systems/falloutV12/assets/icons/items/skill.webp",
 					"name": "Explosives",
 					"ownership": {
 						"default": 0
@@ -11126,7 +11126,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/skill.webp",
+					"img": "systems/falloutV12/assets/icons/items/skill.webp",
 					"name": "Energy Weapons",
 					"ownership": {
 						"default": 0
@@ -11160,7 +11160,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/skill.webp",
+					"img": "systems/falloutV12/assets/icons/items/skill.webp",
 					"name": "Melee Weapons",
 					"ownership": {
 						"default": 0
@@ -11194,7 +11194,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/skill.webp",
+					"img": "systems/falloutV12/assets/icons/items/skill.webp",
 					"name": "Big Guns",
 					"ownership": {
 						"default": 0
@@ -11228,7 +11228,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/skill.webp",
+					"img": "systems/falloutV12/assets/icons/items/skill.webp",
 					"name": "Barter",
 					"ownership": {
 						"default": 0
@@ -11262,7 +11262,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/trait.svg",
+					"img": "systems/falloutV12/assets/icons/items/trait.svg",
 					"name": "Necrotic Post-Human",
 					"ownership": {
 						"default": 0,
@@ -11293,7 +11293,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/perk.svg",
+					"img": "systems/falloutV12/assets/icons/items/perk.svg",
 					"name": "Faster Healing",
 					"ownership": {
 						"default": 0,
@@ -11366,7 +11366,7 @@
 					"flags": {
 					},
 					"folder": "8HBxoFI4IGjaL6eX",
-					"img": "systems/fallout/assets/icons/items/weapon.svg",
+					"img": "systems/falloutV12/assets/icons/items/weapon.svg",
 					"name": "Pipe Wrench",
 					"ownership": {
 						"default": 0,
@@ -11598,7 +11598,7 @@
 					"flags": {
 					},
 					"folder": "Fvz7mUEk61qB057V",
-					"img": "systems/fallout/assets/icons/items/weapon.svg",
+					"img": "systems/falloutV12/assets/icons/items/weapon.svg",
 					"name": "Pipe Gun",
 					"ownership": {
 						"default": 0,
@@ -11830,7 +11830,7 @@
 					"flags": {
 					},
 					"folder": "RwWkQc5BwplK8JXh",
-					"img": "systems/fallout/assets/icons/items/weapon.svg",
+					"img": "systems/falloutV12/assets/icons/items/weapon.svg",
 					"name": "Baseball Grenade",
 					"ownership": {
 						"default": 0,
@@ -12062,7 +12062,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/ammo.svg",
+					"img": "systems/falloutV12/assets/icons/items/ammo.svg",
 					"name": "Baseball Grenade",
 					"ownership": {
 						"default": 0,
@@ -12110,7 +12110,7 @@
 					"flags": {
 					},
 					"folder": "8HBxoFI4IGjaL6eX",
-					"img": "systems/fallout/assets/icons/items/weapon.svg",
+					"img": "systems/falloutV12/assets/icons/items/weapon.svg",
 					"name": "Unarmed Strike",
 					"ownership": {
 						"default": 0,
@@ -12342,7 +12342,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/ammo.svg",
+					"img": "systems/falloutV12/assets/icons/items/ammo.svg",
 					"name": ".38 Round",
 					"ownership": {
 						"default": 0,
@@ -12391,7 +12391,7 @@
 					"flags": {
 					},
 					"folder": "FiAqKiTwXAp5BbMw",
-					"img": "systems/fallout/assets/icons/items/apparel.svg",
+					"img": "systems/falloutV12/assets/icons/items/apparel.svg",
 					"name": "Drifter Outfit",
 					"ownership": {
 						"default": 0,
@@ -12464,7 +12464,7 @@
 					"flags": {
 					},
 					"folder": "mtR30GikhQq9bCZw",
-					"img": "systems/fallout/assets/icons/items/apparel.svg",
+					"img": "systems/falloutV12/assets/icons/items/apparel.svg",
 					"name": "Casual Clothing",
 					"ownership": {
 						"default": 0,
@@ -12537,7 +12537,7 @@
 					"flags": {
 					},
 					"folder": "n3Q9X70ZsFFCTZqu",
-					"img": "systems/fallout/assets/icons/items/consumable.svg",
+					"img": "systems/falloutV12/assets/icons/items/consumable.svg",
 					"name": "Jet",
 					"ownership": {
 						"default": 0,
@@ -12589,7 +12589,7 @@
 					"flags": {
 					},
 					"folder": "n3Q9X70ZsFFCTZqu",
-					"img": "systems/fallout/assets/icons/items/consumable.svg",
+					"img": "systems/falloutV12/assets/icons/items/consumable.svg",
 					"name": "Buffout",
 					"ownership": {
 						"default": 0,
@@ -12641,7 +12641,7 @@
 					"flags": {
 					},
 					"folder": "9QCCOyxmiCDBRWbX",
-					"img": "systems/fallout/assets/icons/items/consumable.svg",
+					"img": "systems/falloutV12/assets/icons/items/consumable.svg",
 					"name": "Iguana on a Stick",
 					"ownership": {
 						"default": 0,
@@ -12693,7 +12693,7 @@
 					"flags": {
 					},
 					"folder": "ajMustngwNZwFiQS",
-					"img": "systems/fallout/assets/icons/items/consumable.svg",
+					"img": "systems/falloutV12/assets/icons/items/consumable.svg",
 					"name": "Purified Water",
 					"ownership": {
 						"default": 0,
@@ -12745,7 +12745,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/miscellany.svg",
+					"img": "systems/falloutV12/assets/icons/items/miscellany.svg",
 					"name": "A Pre-War Necktie",
 					"ownership": {
 						"default": 0,
@@ -12859,7 +12859,7 @@
 					"rotation": 0,
 					"scaleX": 1,
 					"scaleY": 1,
-					"src": "systems/fallout/assets/tokens/character.webp",
+					"src": "systems/falloutV12/assets/tokens/character.webp",
 					"tint": "#ffffff"
 				},
 				"width": 1
@@ -13103,7 +13103,7 @@
 			"flags": {
 			},
 			"folder": "oHCkMvCY32ngMEET",
-			"img": "systems/fallout/assets/tokens/character.webp",
+			"img": "systems/falloutV12/assets/tokens/character.webp",
 			"items": [
 				{
 					"_id": "5xAG0eRrcvDeJAFk",
@@ -13122,7 +13122,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/skill.webp",
+					"img": "systems/falloutV12/assets/icons/items/skill.webp",
 					"name": "Unarmed",
 					"ownership": {
 						"default": 0
@@ -13156,7 +13156,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/skill.webp",
+					"img": "systems/falloutV12/assets/icons/items/skill.webp",
 					"name": "Athletics",
 					"ownership": {
 						"default": 0
@@ -13190,7 +13190,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/skill.webp",
+					"img": "systems/falloutV12/assets/icons/items/skill.webp",
 					"name": "Science",
 					"ownership": {
 						"default": 0
@@ -13224,7 +13224,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/skill.webp",
+					"img": "systems/falloutV12/assets/icons/items/skill.webp",
 					"name": "Sneak",
 					"ownership": {
 						"default": 0
@@ -13258,7 +13258,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/skill.webp",
+					"img": "systems/falloutV12/assets/icons/items/skill.webp",
 					"name": "Pilot",
 					"ownership": {
 						"default": 0
@@ -13292,7 +13292,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/skill.webp",
+					"img": "systems/falloutV12/assets/icons/items/skill.webp",
 					"name": "Survival",
 					"ownership": {
 						"default": 0
@@ -13326,7 +13326,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/skill.webp",
+					"img": "systems/falloutV12/assets/icons/items/skill.webp",
 					"name": "Lockpick",
 					"ownership": {
 						"default": 0
@@ -13360,7 +13360,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/skill.webp",
+					"img": "systems/falloutV12/assets/icons/items/skill.webp",
 					"name": "Throwing",
 					"ownership": {
 						"default": 0
@@ -13394,7 +13394,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/skill.webp",
+					"img": "systems/falloutV12/assets/icons/items/skill.webp",
 					"name": "Small Guns",
 					"ownership": {
 						"default": 0
@@ -13428,7 +13428,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/skill.webp",
+					"img": "systems/falloutV12/assets/icons/items/skill.webp",
 					"name": "Medicine",
 					"ownership": {
 						"default": 0
@@ -13462,7 +13462,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/skill.webp",
+					"img": "systems/falloutV12/assets/icons/items/skill.webp",
 					"name": "Repair",
 					"ownership": {
 						"default": 0
@@ -13496,7 +13496,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/skill.webp",
+					"img": "systems/falloutV12/assets/icons/items/skill.webp",
 					"name": "Speech",
 					"ownership": {
 						"default": 0
@@ -13530,7 +13530,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/skill.webp",
+					"img": "systems/falloutV12/assets/icons/items/skill.webp",
 					"name": "Explosives",
 					"ownership": {
 						"default": 0
@@ -13564,7 +13564,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/skill.webp",
+					"img": "systems/falloutV12/assets/icons/items/skill.webp",
 					"name": "Energy Weapons",
 					"ownership": {
 						"default": 0
@@ -13598,7 +13598,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/skill.webp",
+					"img": "systems/falloutV12/assets/icons/items/skill.webp",
 					"name": "Melee Weapons",
 					"ownership": {
 						"default": 0
@@ -13632,7 +13632,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/skill.webp",
+					"img": "systems/falloutV12/assets/icons/items/skill.webp",
 					"name": "Big Guns",
 					"ownership": {
 						"default": 0
@@ -13666,7 +13666,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/skill.webp",
+					"img": "systems/falloutV12/assets/icons/items/skill.webp",
 					"name": "Barter",
 					"ownership": {
 						"default": 0
@@ -13700,7 +13700,7 @@
 					"flags": {
 					},
 					"folder": "8HBxoFI4IGjaL6eX",
-					"img": "systems/fallout/assets/icons/items/weapon.svg",
+					"img": "systems/falloutV12/assets/icons/items/weapon.svg",
 					"name": "Combat Knife",
 					"ownership": {
 						"default": 0,
@@ -13934,7 +13934,7 @@
 						}
 					},
 					"folder": "ymPsKJFCsVRHV6Hf",
-					"img": "systems/fallout/assets/icons/items/weapon.svg",
+					"img": "systems/falloutV12/assets/icons/items/weapon.svg",
 					"name": "Laser Pistol",
 					"ownership": {
 						"default": 0,
@@ -14166,7 +14166,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/ammo.svg",
+					"img": "systems/falloutV12/assets/icons/items/ammo.svg",
 					"name": "Fusion Cell",
 					"ownership": {
 						"default": 0,
@@ -14215,7 +14215,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/trait.svg",
+					"img": "systems/falloutV12/assets/icons/items/trait.svg",
 					"name": "The Chain that Binds",
 					"ownership": {
 						"default": 0,
@@ -14246,7 +14246,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/perk.svg",
+					"img": "systems/falloutV12/assets/icons/items/perk.svg",
 					"name": "Healer",
 					"ownership": {
 						"default": 0,
@@ -14319,7 +14319,7 @@
 					"flags": {
 					},
 					"folder": "FiAqKiTwXAp5BbMw",
-					"img": "systems/fallout/assets/icons/items/apparel.svg",
+					"img": "systems/falloutV12/assets/icons/items/apparel.svg",
 					"name": "Brotherhood Scribe's Armor",
 					"ownership": {
 						"default": 0,
@@ -14392,7 +14392,7 @@
 					"flags": {
 					},
 					"folder": "wq5Mhfa0U7SlJgyP",
-					"img": "systems/fallout/assets/icons/items/apparel.svg",
+					"img": "systems/falloutV12/assets/icons/items/apparel.svg",
 					"name": "Brotherhood Scribe's Hat",
 					"ownership": {
 						"default": 0,
@@ -14465,7 +14465,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/miscellany.svg",
+					"img": "systems/falloutV12/assets/icons/items/miscellany.svg",
 					"name": "First Aid Kit",
 					"ownership": {
 						"default": 0,
@@ -14504,7 +14504,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/miscellany.svg",
+					"img": "systems/falloutV12/assets/icons/items/miscellany.svg",
 					"name": "Multi-Tool",
 					"ownership": {
 						"default": 0,
@@ -14584,7 +14584,7 @@
 					"flags": {
 					},
 					"folder": "n3Q9X70ZsFFCTZqu",
-					"img": "systems/fallout/assets/icons/items/consumable.svg",
+					"img": "systems/falloutV12/assets/icons/items/consumable.svg",
 					"name": "Stimpak",
 					"ownership": {
 						"default": 0,
@@ -14636,7 +14636,7 @@
 					"flags": {
 					},
 					"folder": "ajMustngwNZwFiQS",
-					"img": "systems/fallout/assets/icons/items/consumable.svg",
+					"img": "systems/falloutV12/assets/icons/items/consumable.svg",
 					"name": "Purified Water",
 					"ownership": {
 						"default": 0,
@@ -14688,7 +14688,7 @@
 					"flags": {
 					},
 					"folder": "9QCCOyxmiCDBRWbX",
-					"img": "systems/fallout/assets/icons/items/consumable.svg",
+					"img": "systems/falloutV12/assets/icons/items/consumable.svg",
 					"name": "Iguana on a Stick",
 					"ownership": {
 						"default": 0,
@@ -14815,7 +14815,7 @@
 					"rotation": 0,
 					"scaleX": 1,
 					"scaleY": 1,
-					"src": "systems/fallout/assets/tokens/character.webp",
+					"src": "systems/falloutV12/assets/tokens/character.webp",
 					"tint": "#ffffff"
 				},
 				"width": 1
@@ -15059,7 +15059,7 @@
 			"flags": {
 			},
 			"folder": "oHCkMvCY32ngMEET",
-			"img": "systems/fallout/assets/tokens/robot.webp",
+			"img": "systems/falloutV12/assets/tokens/robot.webp",
 			"items": [
 				{
 					"_id": "5xAG0eRrcvDeJAFk",
@@ -15078,7 +15078,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/skill.webp",
+					"img": "systems/falloutV12/assets/icons/items/skill.webp",
 					"name": "Unarmed",
 					"ownership": {
 						"default": 0
@@ -15112,7 +15112,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/skill.webp",
+					"img": "systems/falloutV12/assets/icons/items/skill.webp",
 					"name": "Athletics",
 					"ownership": {
 						"default": 0
@@ -15146,7 +15146,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/skill.webp",
+					"img": "systems/falloutV12/assets/icons/items/skill.webp",
 					"name": "Science",
 					"ownership": {
 						"default": 0
@@ -15180,7 +15180,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/skill.webp",
+					"img": "systems/falloutV12/assets/icons/items/skill.webp",
 					"name": "Sneak",
 					"ownership": {
 						"default": 0
@@ -15214,7 +15214,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/skill.webp",
+					"img": "systems/falloutV12/assets/icons/items/skill.webp",
 					"name": "Pilot",
 					"ownership": {
 						"default": 0
@@ -15248,7 +15248,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/skill.webp",
+					"img": "systems/falloutV12/assets/icons/items/skill.webp",
 					"name": "Survival",
 					"ownership": {
 						"default": 0
@@ -15282,7 +15282,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/skill.webp",
+					"img": "systems/falloutV12/assets/icons/items/skill.webp",
 					"name": "Lockpick",
 					"ownership": {
 						"default": 0
@@ -15316,7 +15316,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/skill.webp",
+					"img": "systems/falloutV12/assets/icons/items/skill.webp",
 					"name": "Throwing",
 					"ownership": {
 						"default": 0
@@ -15350,7 +15350,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/skill.webp",
+					"img": "systems/falloutV12/assets/icons/items/skill.webp",
 					"name": "Small Guns",
 					"ownership": {
 						"default": 0
@@ -15384,7 +15384,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/skill.webp",
+					"img": "systems/falloutV12/assets/icons/items/skill.webp",
 					"name": "Medicine",
 					"ownership": {
 						"default": 0
@@ -15418,7 +15418,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/skill.webp",
+					"img": "systems/falloutV12/assets/icons/items/skill.webp",
 					"name": "Repair",
 					"ownership": {
 						"default": 0
@@ -15452,7 +15452,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/skill.webp",
+					"img": "systems/falloutV12/assets/icons/items/skill.webp",
 					"name": "Speech",
 					"ownership": {
 						"default": 0
@@ -15486,7 +15486,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/skill.webp",
+					"img": "systems/falloutV12/assets/icons/items/skill.webp",
 					"name": "Explosives",
 					"ownership": {
 						"default": 0
@@ -15520,7 +15520,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/skill.webp",
+					"img": "systems/falloutV12/assets/icons/items/skill.webp",
 					"name": "Energy Weapons",
 					"ownership": {
 						"default": 0
@@ -15554,7 +15554,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/skill.webp",
+					"img": "systems/falloutV12/assets/icons/items/skill.webp",
 					"name": "Melee Weapons",
 					"ownership": {
 						"default": 0
@@ -15588,7 +15588,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/skill.webp",
+					"img": "systems/falloutV12/assets/icons/items/skill.webp",
 					"name": "Big Guns",
 					"ownership": {
 						"default": 0
@@ -15622,7 +15622,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/skill.webp",
+					"img": "systems/falloutV12/assets/icons/items/skill.webp",
 					"name": "Barter",
 					"ownership": {
 						"default": 0
@@ -15656,7 +15656,7 @@
 					"flags": {
 					},
 					"folder": "wuijs0qVP74GkECb",
-					"img": "systems/fallout/assets/icons/items/weapon.svg",
+					"img": "systems/falloutV12/assets/icons/items/weapon.svg",
 					"name": "Pincer",
 					"ownership": {
 						"default": 0,
@@ -15888,7 +15888,7 @@
 					"flags": {
 					},
 					"folder": "wuijs0qVP74GkECb",
-					"img": "systems/fallout/assets/icons/items/weapon.svg",
+					"img": "systems/falloutV12/assets/icons/items/weapon.svg",
 					"name": "Buzz-Saw",
 					"ownership": {
 						"default": 0,
@@ -16120,7 +16120,7 @@
 					"flags": {
 					},
 					"folder": "wuijs0qVP74GkECb",
-					"img": "systems/fallout/assets/icons/items/weapon.svg",
+					"img": "systems/falloutV12/assets/icons/items/weapon.svg",
 					"name": "Flamer",
 					"ownership": {
 						"default": 0,
@@ -16352,7 +16352,7 @@
 					"flags": {
 					},
 					"folder": "8HBxoFI4IGjaL6eX",
-					"img": "systems/fallout/assets/icons/items/weapon.svg",
+					"img": "systems/falloutV12/assets/icons/items/weapon.svg",
 					"name": "Baseball Bat",
 					"ownership": {
 						"default": 0,
@@ -16584,7 +16584,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/ammo.svg",
+					"img": "systems/falloutV12/assets/icons/items/ammo.svg",
 					"name": "Flamer Fuel",
 					"ownership": {
 						"default": 0,
@@ -16633,7 +16633,7 @@
 					"flags": {
 					},
 					"folder": "SgneXaUay7Pkys52",
-					"img": "systems/fallout/assets/icons/items/apparel.svg",
+					"img": "systems/falloutV12/assets/icons/items/apparel.svg",
 					"name": "Standard Plating",
 					"ownership": {
 						"default": 0,
@@ -16693,7 +16693,7 @@
 					"flags": {
 					},
 					"folder": "SI3ySgcRWajbytaR",
-					"img": "systems/fallout/assets/icons/items/consumable.svg",
+					"img": "systems/falloutV12/assets/icons/items/consumable.svg",
 					"name": "Robot Repair Kit",
 					"ownership": {
 						"default": 0,
@@ -16745,7 +16745,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/robot_mod.svg",
+					"img": "systems/falloutV12/assets/icons/items/robot_mod.svg",
 					"name": "Integral Boiler Mod",
 					"ownership": {
 						"default": 0,
@@ -16787,7 +16787,7 @@
 					"flags": {
 					},
 					"folder": "wq5Mhfa0U7SlJgyP",
-					"img": "systems/fallout/assets/icons/items/apparel.svg",
+					"img": "systems/falloutV12/assets/icons/items/apparel.svg",
 					"name": "Formal Hat",
 					"ownership": {
 						"default": 0,
@@ -16860,7 +16860,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/trait.svg",
+					"img": "systems/falloutV12/assets/icons/items/trait.svg",
 					"name": "Mister Handy Robot",
 					"ownership": {
 						"default": 0,
@@ -16891,7 +16891,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/perk.svg",
+					"img": "systems/falloutV12/assets/icons/items/perk.svg",
 					"name": "Slayer",
 					"ownership": {
 						"default": 0,
@@ -17039,7 +17039,7 @@
 					"rotation": 0,
 					"scaleX": 1,
 					"scaleY": 1,
-					"src": "systems/fallout/assets/tokens/robot.webp",
+					"src": "systems/falloutV12/assets/tokens/robot.webp",
 					"tint": "#ffffff"
 				},
 				"width": 1
@@ -17281,7 +17281,7 @@
 			"flags": {
 			},
 			"folder": "oHCkMvCY32ngMEET",
-			"img": "systems/fallout/assets/tokens/character.webp",
+			"img": "systems/falloutV12/assets/tokens/character.webp",
 			"items": [
 				{
 					"_id": "5xAG0eRrcvDeJAFk",
@@ -17300,7 +17300,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/skill.webp",
+					"img": "systems/falloutV12/assets/icons/items/skill.webp",
 					"name": "Unarmed",
 					"ownership": {
 						"default": 0
@@ -17334,7 +17334,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/skill.webp",
+					"img": "systems/falloutV12/assets/icons/items/skill.webp",
 					"name": "Athletics",
 					"ownership": {
 						"default": 0
@@ -17368,7 +17368,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/skill.webp",
+					"img": "systems/falloutV12/assets/icons/items/skill.webp",
 					"name": "Science",
 					"ownership": {
 						"default": 0
@@ -17402,7 +17402,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/skill.webp",
+					"img": "systems/falloutV12/assets/icons/items/skill.webp",
 					"name": "Sneak",
 					"ownership": {
 						"default": 0
@@ -17436,7 +17436,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/skill.webp",
+					"img": "systems/falloutV12/assets/icons/items/skill.webp",
 					"name": "Pilot",
 					"ownership": {
 						"default": 0
@@ -17470,7 +17470,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/skill.webp",
+					"img": "systems/falloutV12/assets/icons/items/skill.webp",
 					"name": "Survival",
 					"ownership": {
 						"default": 0
@@ -17504,7 +17504,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/skill.webp",
+					"img": "systems/falloutV12/assets/icons/items/skill.webp",
 					"name": "Lockpick",
 					"ownership": {
 						"default": 0
@@ -17538,7 +17538,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/skill.webp",
+					"img": "systems/falloutV12/assets/icons/items/skill.webp",
 					"name": "Throwing",
 					"ownership": {
 						"default": 0
@@ -17572,7 +17572,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/skill.webp",
+					"img": "systems/falloutV12/assets/icons/items/skill.webp",
 					"name": "Small Guns",
 					"ownership": {
 						"default": 0
@@ -17606,7 +17606,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/skill.webp",
+					"img": "systems/falloutV12/assets/icons/items/skill.webp",
 					"name": "Medicine",
 					"ownership": {
 						"default": 0
@@ -17640,7 +17640,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/skill.webp",
+					"img": "systems/falloutV12/assets/icons/items/skill.webp",
 					"name": "Repair",
 					"ownership": {
 						"default": 0
@@ -17674,7 +17674,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/skill.webp",
+					"img": "systems/falloutV12/assets/icons/items/skill.webp",
 					"name": "Speech",
 					"ownership": {
 						"default": 0
@@ -17708,7 +17708,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/skill.webp",
+					"img": "systems/falloutV12/assets/icons/items/skill.webp",
 					"name": "Explosives",
 					"ownership": {
 						"default": 0
@@ -17742,7 +17742,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/skill.webp",
+					"img": "systems/falloutV12/assets/icons/items/skill.webp",
 					"name": "Energy Weapons",
 					"ownership": {
 						"default": 0
@@ -17776,7 +17776,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/skill.webp",
+					"img": "systems/falloutV12/assets/icons/items/skill.webp",
 					"name": "Melee Weapons",
 					"ownership": {
 						"default": 0
@@ -17810,7 +17810,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/skill.webp",
+					"img": "systems/falloutV12/assets/icons/items/skill.webp",
 					"name": "Big Guns",
 					"ownership": {
 						"default": 0
@@ -17844,7 +17844,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/skill.webp",
+					"img": "systems/falloutV12/assets/icons/items/skill.webp",
 					"name": "Barter",
 					"ownership": {
 						"default": 0
@@ -17878,7 +17878,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/trait.svg",
+					"img": "systems/falloutV12/assets/icons/items/trait.svg",
 					"name": "Forced Evolution",
 					"ownership": {
 						"default": 0,
@@ -17909,7 +17909,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/perk.svg",
+					"img": "systems/falloutV12/assets/icons/items/perk.svg",
 					"name": "Comprehension",
 					"ownership": {
 						"default": 0,
@@ -17982,7 +17982,7 @@
 					"flags": {
 					},
 					"folder": "8HBxoFI4IGjaL6eX",
-					"img": "systems/fallout/assets/icons/items/weapon.svg",
+					"img": "systems/falloutV12/assets/icons/items/weapon.svg",
 					"name": "Machete",
 					"ownership": {
 						"default": 0,
@@ -18214,7 +18214,7 @@
 					"flags": {
 					},
 					"folder": "8HBxoFI4IGjaL6eX",
-					"img": "systems/fallout/assets/icons/items/weapon.svg",
+					"img": "systems/falloutV12/assets/icons/items/weapon.svg",
 					"name": "Unarmed Strike",
 					"ownership": {
 						"default": 0,
@@ -18446,7 +18446,7 @@
 					"flags": {
 					},
 					"folder": "8HBxoFI4IGjaL6eX",
-					"img": "systems/fallout/assets/icons/items/weapon.svg",
+					"img": "systems/falloutV12/assets/icons/items/weapon.svg",
 					"name": "Baseball Bat",
 					"ownership": {
 						"default": 0,
@@ -18680,7 +18680,7 @@
 						}
 					},
 					"folder": "ymPsKJFCsVRHV6Hf",
-					"img": "systems/fallout/assets/icons/items/weapon.svg",
+					"img": "systems/falloutV12/assets/icons/items/weapon.svg",
 					"name": "Pipe Rifle",
 					"ownership": {
 						"default": 0,
@@ -18912,7 +18912,7 @@
 					"flags": {
 					},
 					"folder": "KVZpmIxN7Plfso3I",
-					"img": "systems/fallout/assets/icons/items/weapon.svg",
+					"img": "systems/falloutV12/assets/icons/items/weapon.svg",
 					"name": "Tomahawk",
 					"ownership": {
 						"default": 0,
@@ -19144,7 +19144,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/ammo.svg",
+					"img": "systems/falloutV12/assets/icons/items/ammo.svg",
 					"name": ".38 Round",
 					"ownership": {
 						"default": 0,
@@ -19193,7 +19193,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/ammo.svg",
+					"img": "systems/falloutV12/assets/icons/items/ammo.svg",
 					"name": "Tomahawk",
 					"ownership": {
 						"default": 0,
@@ -19241,7 +19241,7 @@
 					"flags": {
 					},
 					"folder": "R5iHl6rBHwOLy0bY",
-					"img": "systems/fallout/assets/icons/items/apparel.svg",
+					"img": "systems/falloutV12/assets/icons/items/apparel.svg",
 					"name": "Raider Chest Piece",
 					"ownership": {
 						"default": 0,
@@ -19314,7 +19314,7 @@
 					"flags": {
 					},
 					"folder": "R5iHl6rBHwOLy0bY",
-					"img": "systems/fallout/assets/icons/items/apparel.svg",
+					"img": "systems/falloutV12/assets/icons/items/apparel.svg",
 					"name": "Raider Left Arm",
 					"ownership": {
 						"default": 0,
@@ -19387,7 +19387,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/miscellany.svg",
+					"img": "systems/falloutV12/assets/icons/items/miscellany.svg",
 					"name": "Potted Plant",
 					"ownership": {
 						"default": 0,
@@ -19426,7 +19426,7 @@
 					"flags": {
 					},
 					"folder": "9QCCOyxmiCDBRWbX",
-					"img": "systems/fallout/assets/icons/items/consumable.svg",
+					"img": "systems/falloutV12/assets/icons/items/consumable.svg",
 					"name": "Iguana on a Stick",
 					"ownership": {
 						"default": 0,
@@ -19478,7 +19478,7 @@
 					"flags": {
 					},
 					"folder": "ajMustngwNZwFiQS",
-					"img": "systems/fallout/assets/icons/items/consumable.svg",
+					"img": "systems/falloutV12/assets/icons/items/consumable.svg",
 					"name": "Purified Water",
 					"ownership": {
 						"default": 0,
@@ -19605,7 +19605,7 @@
 					"rotation": 0,
 					"scaleX": 1,
 					"scaleY": 1,
-					"src": "systems/fallout/assets/tokens/character.webp",
+					"src": "systems/falloutV12/assets/tokens/character.webp",
 					"tint": "#ffffff"
 				},
 				"width": 1
@@ -19851,7 +19851,7 @@
 				}
 			},
 			"folder": "LEEmSQTcIfBNsDTh",
-			"img": "systems/fallout/assets/tokens/creature.webp",
+			"img": "systems/falloutV12/assets/tokens/creature.webp",
 			"items": [
 				{
 					"_id": "w6chPO9hxHxVpy5d",
@@ -19873,7 +19873,7 @@
 						}
 					},
 					"folder": "9QCCOyxmiCDBRWbX",
-					"img": "systems/fallout/assets/icons/items/consumable.svg",
+					"img": "systems/falloutV12/assets/icons/items/consumable.svg",
 					"name": "Mongrel Dog Meat",
 					"ownership": {
 						"default": 0,
@@ -19925,7 +19925,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/weapon.svg",
+					"img": "systems/falloutV12/assets/icons/items/weapon.svg",
 					"name": "Bite",
 					"ownership": {
 						"default": 0,
@@ -20160,7 +20160,7 @@
 						}
 					},
 					"folder": "iDuO1JvotWNUCVuW",
-					"img": "systems/fallout/assets/icons/items/special_ability.svg",
+					"img": "systems/falloutV12/assets/icons/items/special_ability.svg",
 					"name": "Keen Senses",
 					"ownership": {
 						"default": 0,
@@ -20265,7 +20265,7 @@
 					"rotation": 0,
 					"scaleX": 1,
 					"scaleY": 1,
-					"src": "systems/fallout/assets/tokens/creature.webp",
+					"src": "systems/falloutV12/assets/tokens/creature.webp",
 					"tint": "#ffffff"
 				},
 				"width": 1
@@ -20517,7 +20517,7 @@
 				}
 			},
 			"folder": "LEEmSQTcIfBNsDTh",
-			"img": "systems/fallout/assets/tokens/robot.webp",
+			"img": "systems/falloutV12/assets/tokens/robot.webp",
 			"items": [
 				{
 					"_id": "Zj75qXiYlnuAb4eD",
@@ -20536,7 +20536,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/weapon.svg",
+					"img": "systems/falloutV12/assets/icons/items/weapon.svg",
 					"name": "Laser",
 					"ownership": {
 						"default": 0,
@@ -20768,7 +20768,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/special_ability.svg",
+					"img": "systems/falloutV12/assets/icons/items/special_ability.svg",
 					"name": "Robot",
 					"ownership": {
 						"default": 0,
@@ -20799,7 +20799,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/special_ability.svg",
+					"img": "systems/falloutV12/assets/icons/items/special_ability.svg",
 					"name": "Immune to Poison",
 					"ownership": {
 						"default": 0,
@@ -20830,7 +20830,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/special_ability.svg",
+					"img": "systems/falloutV12/assets/icons/items/special_ability.svg",
 					"name": "Immune to Radiation",
 					"ownership": {
 						"default": 0,
@@ -20861,7 +20861,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/special_ability.svg",
+					"img": "systems/falloutV12/assets/icons/items/special_ability.svg",
 					"name": "Immune to Disease",
 					"ownership": {
 						"default": 0,
@@ -20892,7 +20892,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/special_ability.svg",
+					"img": "systems/falloutV12/assets/icons/items/special_ability.svg",
 					"name": "Little",
 					"ownership": {
 						"default": 0,
@@ -20923,7 +20923,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/special_ability.svg",
+					"img": "systems/falloutV12/assets/icons/items/special_ability.svg",
 					"name": "Radio Transmission",
 					"ownership": {
 						"default": 0,
@@ -21029,7 +21029,7 @@
 					"rotation": 0,
 					"scaleX": 0.5,
 					"scaleY": 0.5,
-					"src": "systems/fallout/assets/tokens/robot.webp",
+					"src": "systems/falloutV12/assets/tokens/robot.webp",
 					"tint": "#ffffff"
 				},
 				"width": 1
@@ -21279,7 +21279,7 @@
 			"flags": {
 			},
 			"folder": "LEEmSQTcIfBNsDTh",
-			"img": "systems/fallout/assets/tokens/creature.webp",
+			"img": "systems/falloutV12/assets/tokens/creature.webp",
 			"items": [
 				{
 					"_id": "KGRkntGxWsK465uD",
@@ -21298,7 +21298,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/weapon.svg",
+					"img": "systems/falloutV12/assets/icons/items/weapon.svg",
 					"name": "Unarmed",
 					"ownership": {
 						"default": 0,
@@ -21530,7 +21530,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/special_ability.svg",
+					"img": "systems/falloutV12/assets/icons/items/special_ability.svg",
 					"name": "Immune to Poison",
 					"ownership": {
 						"default": 0,
@@ -21561,7 +21561,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/special_ability.svg",
+					"img": "systems/falloutV12/assets/icons/items/special_ability.svg",
 					"name": "Immune to Radiation",
 					"ownership": {
 						"default": 0,
@@ -21592,7 +21592,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/special_ability.svg",
+					"img": "systems/falloutV12/assets/icons/items/special_ability.svg",
 					"name": "Feral",
 					"ownership": {
 						"default": 0,
@@ -21623,7 +21623,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/special_ability.svg",
+					"img": "systems/falloutV12/assets/icons/items/special_ability.svg",
 					"name": "Ghoul",
 					"ownership": {
 						"default": 0,
@@ -21654,7 +21654,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/special_ability.svg",
+					"img": "systems/falloutV12/assets/icons/items/special_ability.svg",
 					"name": "Play Dead",
 					"ownership": {
 						"default": 0,
@@ -21760,7 +21760,7 @@
 					"rotation": 0,
 					"scaleX": 1,
 					"scaleY": 1,
-					"src": "systems/fallout/assets/tokens/creature.webp",
+					"src": "systems/falloutV12/assets/tokens/creature.webp",
 					"tint": "#ffffff"
 				},
 				"width": 1
@@ -22011,7 +22011,7 @@
 				}
 			},
 			"folder": "LEEmSQTcIfBNsDTh",
-			"img": "systems/fallout/assets/tokens/npc.webp",
+			"img": "systems/falloutV12/assets/tokens/npc.webp",
 			"items": [
 				{
 					"_id": "o8mlmUkEDAdkucEd",
@@ -22686,7 +22686,7 @@
 					"flags": {
 					},
 					"folder": "iDuO1JvotWNUCVuW",
-					"img": "systems/fallout/assets/icons/items/special_ability.svg",
+					"img": "systems/falloutV12/assets/icons/items/special_ability.svg",
 					"name": "The Chain That Binds",
 					"ownership": {
 						"default": 0,
@@ -22930,7 +22930,7 @@
 					"flags": {
 					},
 					"folder": "iDuO1JvotWNUCVuW",
-					"img": "systems/fallout/assets/icons/items/special_ability.svg",
+					"img": "systems/falloutV12/assets/icons/items/special_ability.svg",
 					"name": "Well-Equipped (Knight)",
 					"ownership": {
 						"default": 0,
@@ -23151,7 +23151,7 @@
 					"rotation": 0,
 					"scaleX": 1,
 					"scaleY": 1,
-					"src": "systems/fallout/assets/tokens/npc.webp",
+					"src": "systems/falloutV12/assets/tokens/npc.webp",
 					"tint": "#ffffff"
 				},
 				"width": 1
@@ -23402,7 +23402,7 @@
 				}
 			},
 			"folder": "LEEmSQTcIfBNsDTh",
-			"img": "systems/fallout/assets/tokens/creature.webp",
+			"img": "systems/falloutV12/assets/tokens/creature.webp",
 			"items": [
 				{
 					"_id": "oip8QssMxIkHYycO",
@@ -23421,7 +23421,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/weapon.svg",
+					"img": "systems/falloutV12/assets/icons/items/weapon.svg",
 					"name": "Bite",
 					"ownership": {
 						"default": 0,
@@ -23656,7 +23656,7 @@
 						}
 					},
 					"folder": "9QCCOyxmiCDBRWbX",
-					"img": "systems/fallout/assets/icons/items/consumable.svg",
+					"img": "systems/falloutV12/assets/icons/items/consumable.svg",
 					"name": "Mongrel Dog Meat",
 					"ownership": {
 						"default": 0,
@@ -23711,7 +23711,7 @@
 						}
 					},
 					"folder": "iDuO1JvotWNUCVuW",
-					"img": "systems/fallout/assets/icons/items/special_ability.svg",
+					"img": "systems/falloutV12/assets/icons/items/special_ability.svg",
 					"name": "Aggressive",
 					"ownership": {
 						"default": 0,
@@ -23745,7 +23745,7 @@
 						}
 					},
 					"folder": "iDuO1JvotWNUCVuW",
-					"img": "systems/fallout/assets/icons/items/special_ability.svg",
+					"img": "systems/falloutV12/assets/icons/items/special_ability.svg",
 					"name": "Immune to Radiation",
 					"ownership": {
 						"default": 0,
@@ -23779,7 +23779,7 @@
 						}
 					},
 					"folder": "iDuO1JvotWNUCVuW",
-					"img": "systems/fallout/assets/icons/items/special_ability.svg",
+					"img": "systems/falloutV12/assets/icons/items/special_ability.svg",
 					"name": "Keen Senses",
 					"ownership": {
 						"default": 0,
@@ -23813,7 +23813,7 @@
 						}
 					},
 					"folder": "iDuO1JvotWNUCVuW",
-					"img": "systems/fallout/assets/icons/items/special_ability.svg",
+					"img": "systems/falloutV12/assets/icons/items/special_ability.svg",
 					"name": "Feral",
 					"ownership": {
 						"default": 0,
@@ -23918,7 +23918,7 @@
 					"rotation": 0,
 					"scaleX": 1,
 					"scaleY": 1,
-					"src": "systems/fallout/assets/tokens/creature.webp",
+					"src": "systems/falloutV12/assets/tokens/creature.webp",
 					"tint": "#ffffff"
 				},
 				"width": 1
@@ -24170,7 +24170,7 @@
 				}
 			},
 			"folder": "LEEmSQTcIfBNsDTh",
-			"img": "systems/fallout/assets/tokens/robot.webp",
+			"img": "systems/falloutV12/assets/tokens/robot.webp",
 			"items": [
 				{
 					"_id": "5kDAHscOQonXGaES",
@@ -24189,7 +24189,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/weapon.svg",
+					"img": "systems/falloutV12/assets/icons/items/weapon.svg",
 					"name": "Chain Gun",
 					"ownership": {
 						"default": 0,
@@ -24421,7 +24421,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/weapon.svg",
+					"img": "systems/falloutV12/assets/icons/items/weapon.svg",
 					"name": "Unarmed",
 					"ownership": {
 						"default": 0,
@@ -24653,7 +24653,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/weapon.svg",
+					"img": "systems/falloutV12/assets/icons/items/weapon.svg",
 					"name": "Missile Launcher",
 					"ownership": {
 						"default": 0,
@@ -24885,7 +24885,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/weapon.svg",
+					"img": "systems/falloutV12/assets/icons/items/weapon.svg",
 					"name": "Self Destruct",
 					"ownership": {
 						"default": 0,
@@ -25117,7 +25117,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/special_ability.svg",
+					"img": "systems/falloutV12/assets/icons/items/special_ability.svg",
 					"name": "Robot",
 					"ownership": {
 						"default": 0,
@@ -25151,7 +25151,7 @@
 						}
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/special_ability.svg",
+					"img": "systems/falloutV12/assets/icons/items/special_ability.svg",
 					"name": "Immune to Disease",
 					"ownership": {
 						"default": 0,
@@ -25185,7 +25185,7 @@
 						}
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/special_ability.svg",
+					"img": "systems/falloutV12/assets/icons/items/special_ability.svg",
 					"name": "Immune to Poison",
 					"ownership": {
 						"default": 0,
@@ -25219,7 +25219,7 @@
 						}
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/special_ability.svg",
+					"img": "systems/falloutV12/assets/icons/items/special_ability.svg",
 					"name": "Immune to Radiation",
 					"ownership": {
 						"default": 0,
@@ -25250,7 +25250,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/special_ability.svg",
+					"img": "systems/falloutV12/assets/icons/items/special_ability.svg",
 					"name": "Big",
 					"ownership": {
 						"default": 0,
@@ -25281,7 +25281,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/special_ability.svg",
+					"img": "systems/falloutV12/assets/icons/items/special_ability.svg",
 					"name": "Keen Senses",
 					"ownership": {
 						"default": 0,
@@ -25312,7 +25312,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/special_ability.svg",
+					"img": "systems/falloutV12/assets/icons/items/special_ability.svg",
 					"name": "Aggresive",
 					"ownership": {
 						"default": 0,
@@ -25343,7 +25343,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/special_ability.svg",
+					"img": "systems/falloutV12/assets/icons/items/special_ability.svg",
 					"name": "Self-Destruct",
 					"ownership": {
 						"default": 0,
@@ -25501,7 +25501,7 @@
 					"rotation": 0,
 					"scaleX": 1.5,
 					"scaleY": 1.5,
-					"src": "systems/fallout/assets/tokens/robot.webp",
+					"src": "systems/falloutV12/assets/tokens/robot.webp",
 					"tint": "#ffffff"
 				},
 				"width": 1
@@ -25751,7 +25751,7 @@
 			"flags": {
 			},
 			"folder": "LEEmSQTcIfBNsDTh",
-			"img": "systems/fallout/assets/tokens/npc.webp",
+			"img": "systems/falloutV12/assets/tokens/npc.webp",
 			"items": [
 				{
 					"_id": "qCjFmAfHOlETWhFB",
@@ -26177,7 +26177,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "systems/fallout/assets/icons/items/special_ability.svg",
+					"img": "systems/falloutV12/assets/icons/items/special_ability.svg",
 					"name": "Lab Coat",
 					"ownership": {
 						"UujBouV9gKRvnbZW": 3,
@@ -26636,7 +26636,7 @@
 					"rotation": 0,
 					"scaleX": 1,
 					"scaleY": 1,
-					"src": "systems/fallout/assets/tokens/npc.webp",
+					"src": "systems/falloutV12/assets/tokens/npc.webp",
 					"tint": "#ffffff"
 				},
 				"width": 1
@@ -26988,7 +26988,7 @@
 			"type": "RollTable"
 		}
 	],
-	"img": "systems/fallout/assets/images/please-stand-by.webp",
+	"img": "systems/falloutV12/assets/images/please-stand-by.webp",
 	"items": [
 	],
 	"journal": [
@@ -27118,7 +27118,7 @@
 					"system": {
 					},
 					"text": {
-						"content": "<h3>Synopsis</h3><p>The town of Bleakford is a one-horse town along one of America’s old highways. Even before the Great War, Bleakford was in the middle of nowhere and had a small population, mostly supported by military families connected to Joint Base Lewiston to the east.</p><p>Upon arrival in Bleakford, the PCs will discover a graveyard of the old world, populated by ghouls and wild Wasteland fauna. They will have to find the source of a broadcast controlling the robot attackers: a custom-made signal booster designed and built by Akiva Trestridge to extend the range at which her mechanical soldiers can operate.</p><p>Over the course of Act Two, the players will have the opportunity to:</p><ul><li><p>Explore the ruins of an irradiated ghoul town.</p></li><li><p>Locate and disable a mysterious transmitter responsible for coordinating robot attacks.</p></li><li><p>Learn the history of the town and what happened to its unfortunate citizens.</p></li></ul><h3>Bleakford</h3><p>Bleakford is several miles northeast of Beriday Gulch across irregular, difficult terrain. Traveling on foot to Bleakford takes the better part of a day for the PCs, if they keep a moderate pace. Depending on how long they took to reach the crash site and deal with the robots there, the PCs might have to camp overnight in the wilderness.</p><p>To increase the sense of danger as they approach, the Overseer can add a wandering pack of 4 dogs or a pair of mongrel dogs as a random wilderness encounter. If the PCs are low on resources or wish to pick up some supplies, they can encounter a wandering trader caravan.</p><p>After walking the wastes, the PCs eventually reach their destination. Read or paraphrase:</p><blockquote><p>A soft, sickly glow lights up the ruins of the small town. The scattered houses at its center and to the west are dilapidated and bleached pale by the elements. Among them, a few larger structures stick out; the bent steeple of a chapel, the rusted mast of a radio station, a water tower riddled with holes. Down below, a few humanoid shapes move among the wreckage of Bleakford, their senseless moans audible over the wind.</p></blockquote><h3>Bleakford Random Encounters &amp; Loot</h3><p>As the PCs explore the town, they might encounter some of its irradiated inhabitants.</p><p>When players enter a new area, like Brisbee Mobile Homes or Henley Chapel, roll a d20 and consult the @UUID[RollTable.sZBFCjLHoSX331Da]{Bleakford Random Encounter Table}. Any creatures indicated at a location, such as the elderly ghouls in Bleakford Apartments, are in addition to results rolled on the table below.</p><p>If the PCs take time to move cautiously and scout out locations, you can let them make a <strong>PER + Survival test with a difficulty of 1.</strong></p><p><strong>Success</strong> lets a PC spot threats in the region prior to entering and have the option to initiate combat.</p><p><strong>Failure</strong> means the PC does not spot a threat in advance. The NPCs initiate combat.</p><h4>No Encounter</h4><p>The wandering ghoul inhabitants of Bleakford are not currently in the region the PCs are about to enter.</p><h4>Weak Feral Ghouls</h4><p>The region the PCs travel to is occupied by a group of 4 weak feral ghouls. The ghouls are emaciated and injured from a recent encounter with a hungry pack of dogs that has left them tattered—more so than usual. Each of the ghouls has half its normal HP.</p><p>@UUID[Actor.pf4C1xVVWGbgcuT8]{Weakened Feral Ghoul}</p><h4>Feral Ghouls</h4><p>The region the PCs enter is currently occupied by a trio of feral ghouls.</p><p>@UUID[Actor.a7yyO9YDGXYbPe5j]{Feral Ghoul}</p><h4>Putrid Glowing One</h4><p>A <strong>glowing one</strong> is in the region the PCs are about to enter. It is currently playing dead and crawling with a blanket of glowing, irradiated blood bug maggots. If a PC is damaged by the putrid glowing one’s Unarmed attack, they must make an <strong>END + Survival test with a difficulty of 1</strong>. On a failed test, the PC contracts the Rad Worm illness.</p><p>@UUID[Actor.9I9xHPbk9yxVg5N5]{Putrid Glowing One}</p><h4>Toughened Glowing One</h4><p>A swollen <strong>glowing one</strong> is in the region the PCs are about to enter. This bloated ghoul has layers of radiation-hardened skin and fat protecting its organs and gains the Toughness perk.</p><p>@UUID[Actor.RJgSwnT1bmKL5EQx]{Toughened Glowing One}</p><h3>Remains of the Day</h3><p>In addition to loot noted in specific locations, the entire area of Bleakford can be scavenged for supplies. It is a Large Area that has been Mostly Searched. Due to the high concentration of radiation in Bleakford, it has an Ongoing Radiation hazard with an interval of 10 minutes.</p><p>Its Item listing is as follows: 2-4 Ammunition, 0-1 Armor, 0-1 Beverages, 2-4 Clothing, 1-2 Chems, 3-4 Food, 4-6 Junk, 0-1 Oddities/Valuables.</p><h3>Locating the Signal Booster</h3><p>Dr. Trestridge will have placed the signal booster atop the Slocum’s Joe statue, assuming the WKAK Radio Tower would be too obvious, but you’re free to place it wherever they like. If the PCs search Slocum’s Joe too quickly, consider placing it elsewhere in town.</p><p>Many of the potential locations require some climbing to reach, like the Water Tower or WKAK Antenna. Climbing these locations to reach the signal booster requires an (AGL or STR) + Athletics test with a difficulty of 3 and can be completed over multiple attempts.</p><p>After locating the booster, deactivating and removing it is a simple task. Once this is completed, the PCs get new information from Galen (see “Leaving Bleakford”, p.46).</p><h3>Exploring Bleakford</h3><p>Players can explore the town at their own pace, choosing whichever locations they want in whatever order they choose. Their ultimate goal in Bleakford is to locate and disable the signal booster somewhere in town, but the approach is entirely up to them.</p><h4>Bleakford Apartments</h4><p>Bleakford Apartments is a concrete, three-story building on the east side of town near the road. Each unit has a small kitchen, bathroom, living room, and single bedroom. A Nuka-Cola machine with one nuka-cola bottle stands outside the manager’s office. Noteworthy units in the apartment building are:</p><p><strong>Ground Floor, Unit 4</strong>: Unit 4 contains a skeleton wearing a pre-war suit. On the table in the living room is a functioning camera, and a notepad. The notes within indicate that the occupant believed his neighbor was a communist spy sent to Bleakford to gather intel on “Real Americans.”</p><p><strong>Ground Floor, Unit 5</strong>: The ill-fated neighbor of the communist-hater, the occupant of Unit 5’s skeleton hangs over the sink in the bathroom. A discarded @UUID[Compendium.fallout.weapons.Item.PiFmAFrgnIJqwkNw]{Pipe Gun} lies on the bathroom floor.</p><p><strong>Second Floor, Unit 2</strong>: The door to unit 2 is locked but can be opened with a <strong>PER + Lockpick test with a difficulty of 1</strong> or broken down with a <strong>STR + Athletics test with a difficulty of 1</strong>. If the door is broken down, roll on the @UUID[RollTable.sZBFCjLHoSX331Da]{Bleakford Random Encounter table} to determine what, if any, ghouls are drawn by the noise. Home of the assistant to Bleakford’s mayor, the bedside table in her bedroom has several opened boxes of @UUID[Compendium.fallout.consumables.Item.hc8DSkMGN2GxugAF]{Mentats}.</p><p><strong>Third Floor, Unit 3</strong>: This unit contains Mr. and Mrs. Pickwell, an elderly pair of feral ghouls. Mrs. Pickwell has only recently become feral and still wears a patchwork dress and apron and can growl the words, “stay for tea.” The last meal she prepared herself, some @UUID[Compendium.fallout.consumables.Item.D2s5huShfKCtulYC]{Grilled Radroach}, is plated in the kitchenette. The Pickwells stay inside their unit and do not leave it to investigate a disturbance elsewhere in the apartment complex.</p><h4>Brisbee Mobile Homes</h4><p>The mobile home park northeast of town is home to 3 feral ghouls. The five trailers are in poor condition, rusted out, and some contain <strong>errant radroaches</strong>. Roll a d20 when the PCs enter a trailer: on a 11 or higher the trailer contains a @UUID[Actor.vTfD6jMJdtp8qdUx]{Radroach}.</p><p>The first mobile home a PC enters contains a chemistry station and <strong>1 dose of </strong>@UUID[Compendium.fallout.consumables.Item.Bomq1g7X0eVXrssc]{Jet}</p><h4>Henley Chapel &amp; Cemetery</h4><p>The chapel and cemetery on the west side of town contains no notable items, but the steeple is highly likely to contain the signal booster.</p><p>The main chapel downstairs has a few scattered skeletons amid the pews, some of which have pocket watches and jewelry worth a total of <strong>10 Caps</strong>.</p><p>If the signal booster is here, a PC can make a <strong>PER + Sneak test with a difficulty of 1</strong> to spot the device within the church bell, which is rigged to use the metal of the bell as an ad-hoc antenna.</p><h4>Houses</h4><p>There are a dozen houses clustered in the heart of Bleakford and on the west side of town. Of these, five have collapsed from disrepair.</p><p><strong>Mayor’s House</strong>: The largest house house, which belonged to Bleakford’s mayor, has a safe in the upstairs bedroom that can be opened with a <strong>PER + Lockpick test with a difficulty of 3</strong>. Inside the safe are several stacks of prewar money, (earned after the Mayor struck a deal to stow radioactive material within city limits), a @UUID[Compendium.fallout.weapons.Item.wqNw0xItJ29W24sm]{.44 Pistol}, and 3 shots of @UUID[Compendium.fallout.ammunition.Item.kxgO3CwKpqR9lYLS]{.44 Magnum Round}. There is also a contract from Triton Material Disposal, subsidiary of Poseidon Energy, that outlines the terms of the agreement with the mayor.</p><h4>Irradiated Dump</h4><p>The irradiated dump east of town is responsible for the high rads and numerous ghouls in Bleakford. A pile of festering refuse that barely conceals the worst toxic waste in town. Enterprising PCs can pick through the refuse for salvage, however: it is a Large Area that has been Untouched. However, the pockets of radioactive waste are a greater danger to those who explore it.</p><p>Its Item listing is as follows: 2-3 Clothing, 1-2 Food, 1-2 Beverages, 5-8 Junk, 0-1 Weapon (Melee), 0-1 Chems.</p><p><strong>Radioactive Waste</strong>: The waste is an Occasional Hazard that is triggered by a failed <strong>PER + Survival</strong> test made to search the dump, causing 4 DC radiation damage.</p><p><strong>Dumpyard Dogs</strong>: A group of dogs, descended from the town’s original pets, reside in the irradiated dump.</p><p>Do not roll for a quick encounter in the dump. If the PCs enter it, they encounter 3 dogs led by a mongrel dog.</p><p>@UUID[Actor.pfw3hZcU9X05J65h]{Dog}</p><p>@UUID[Actor.C1OoGjf78VSD5UWj]{Mongrel Dog}</p><h4>Red Rocket Station</h4><p>On the highway that leads southeast from the town, the Red Rocket station is in shambles. A shipping vehicle has rammed through the front doors before going critical, leaving the coolant area a scorched wreck. Of note, a billboard outside the station has the faded message: “Burn in Hell, Slow-Joe.”</p><h4>Slocum’s Joe</h4><p>On the south side of town across from the Red Rocket station, Slocum’s Joe is a donut and coffee shop. On its roof, a fiberglass sculpture of the smiling mascot has been battered by the wind and is almost entirely reduced to its skeletal frame.</p><p>Inside, a chalkboard display announces: “Slocum’s Joe. We’ve got better coffee than the OTHER guys.” If the signal booster is here, a PC who examines the statue can make a <strong>PER + Sneak test with a difficulty of 1</strong> to spot it strapped to the metal framework, which acts like an omnidirectional antenna.</p><h4>Water Tower</h4><p>The water tower stands on a small hill in the southwest part of town. A patchwork chain-link fence surrounds it, and weeds have overtaken the area.</p><p>A small service shack at the tower’s base contains a simple toolkit and a RobCo terminal that monitors the condition of the water tower. While it is password protected, the forgetful serviceman has helpfully taped the password above the monitor: <span style=\"font-family:Courier New\"><strong>HYDROHOMES</strong></span>.</p><img src=\"systems/fallout/assets/adventures/machine-frequency/water-tower-terminal.webp\" width=\"560\" /><p>A successful <strong>INT + (Medicine or Science) test with a difficulty of 1</strong> allows a PC to identify the chemical contaminants as byproducts of tissue decomposition, suggesting that there is a body inside the tower… and there is. If the PCs ascend the tower, a <strong>glowing one</strong> has fallen through a hole in the reservoir’s top to float in the water remaining within, turning it into a rancid, irradiated soup.</p><p>If the signal booster is here, a PC can make a <strong>PER + Sneak test with a difficulty of 1</strong> to spot the device rigged to the water tower’s metal sides, using it as an ad hoc antenna.</p><h4>WKAK Radio</h4><p>In the northeast part of town, WKAK Radio (serving the tri-county area!) is a small building with a front office and producer’s booth.</p><p>The producer’s booth is barred from the inside. A PC can make a <strong>STR + Athletics test with a difficulty of 1</strong> to shove the barricade aside to enter. Within, the skeleton of the DJ lies sprawled over his desk. Next to him is the following note:</p><blockquote><p>Ladies and gentlemen, I have an urgent update. Unnamed sources in Bleakford have informed me that our own mayor has cut a deal to turn our town into a dumping ground for hazardous waste materials for a period of no less than 26 consecutive months</p><p>[Note to self, get the listeners angry. The madder they are, the more they listen. The more they listen, the bigger the advertising revenue!]</p></blockquote><p>If the signal booster is here, a PC can make a <strong>PER + Sneak test with a difficulty of 1</strong> to spot the device rigged to the radio antenna.</p><h3>Leaving Bleakford</h3><p>When the PCs deactivate the booster, Galen updates them.</p><blockquote><p>“Hoo, you really have pissed somebody off. Our robot controller must have noticed the loss in transmission. I bet you put a whole bunch of units offline. Just in time, too. I was getting emergency broadcasts from a mess of other settlements about approaching machines. Wait…”</p></blockquote><p>Galen’s broadcast becomes static for a moment, and when it returns is distorted by significant interference.</p><blockquote><p>“I have good news and bad news. Good news is: killing that booster forced our friend to increase power to their local signal. They could have just sent us a signed invitation. Their signal has more bars than Goodneighbor. Bad news: a couple of hotheads from Bunker 441 are already on their way. I can’t get through this interference to warn them about the robots. They’ll be going in blind.”</p></blockquote><p>Galen gives the PCs the location of the broadcast’s origin, a short distance east of their current position.</p><p></p>",
+						"content": "<h3>Synopsis</h3><p>The town of Bleakford is a one-horse town along one of America’s old highways. Even before the Great War, Bleakford was in the middle of nowhere and had a small population, mostly supported by military families connected to Joint Base Lewiston to the east.</p><p>Upon arrival in Bleakford, the PCs will discover a graveyard of the old world, populated by ghouls and wild Wasteland fauna. They will have to find the source of a broadcast controlling the robot attackers: a custom-made signal booster designed and built by Akiva Trestridge to extend the range at which her mechanical soldiers can operate.</p><p>Over the course of Act Two, the players will have the opportunity to:</p><ul><li><p>Explore the ruins of an irradiated ghoul town.</p></li><li><p>Locate and disable a mysterious transmitter responsible for coordinating robot attacks.</p></li><li><p>Learn the history of the town and what happened to its unfortunate citizens.</p></li></ul><h3>Bleakford</h3><p>Bleakford is several miles northeast of Beriday Gulch across irregular, difficult terrain. Traveling on foot to Bleakford takes the better part of a day for the PCs, if they keep a moderate pace. Depending on how long they took to reach the crash site and deal with the robots there, the PCs might have to camp overnight in the wilderness.</p><p>To increase the sense of danger as they approach, the Overseer can add a wandering pack of 4 dogs or a pair of mongrel dogs as a random wilderness encounter. If the PCs are low on resources or wish to pick up some supplies, they can encounter a wandering trader caravan.</p><p>After walking the wastes, the PCs eventually reach their destination. Read or paraphrase:</p><blockquote><p>A soft, sickly glow lights up the ruins of the small town. The scattered houses at its center and to the west are dilapidated and bleached pale by the elements. Among them, a few larger structures stick out; the bent steeple of a chapel, the rusted mast of a radio station, a water tower riddled with holes. Down below, a few humanoid shapes move among the wreckage of Bleakford, their senseless moans audible over the wind.</p></blockquote><h3>Bleakford Random Encounters &amp; Loot</h3><p>As the PCs explore the town, they might encounter some of its irradiated inhabitants.</p><p>When players enter a new area, like Brisbee Mobile Homes or Henley Chapel, roll a d20 and consult the @UUID[RollTable.sZBFCjLHoSX331Da]{Bleakford Random Encounter Table}. Any creatures indicated at a location, such as the elderly ghouls in Bleakford Apartments, are in addition to results rolled on the table below.</p><p>If the PCs take time to move cautiously and scout out locations, you can let them make a <strong>PER + Survival test with a difficulty of 1.</strong></p><p><strong>Success</strong> lets a PC spot threats in the region prior to entering and have the option to initiate combat.</p><p><strong>Failure</strong> means the PC does not spot a threat in advance. The NPCs initiate combat.</p><h4>No Encounter</h4><p>The wandering ghoul inhabitants of Bleakford are not currently in the region the PCs are about to enter.</p><h4>Weak Feral Ghouls</h4><p>The region the PCs travel to is occupied by a group of 4 weak feral ghouls. The ghouls are emaciated and injured from a recent encounter with a hungry pack of dogs that has left them tattered—more so than usual. Each of the ghouls has half its normal HP.</p><p>@UUID[Actor.pf4C1xVVWGbgcuT8]{Weakened Feral Ghoul}</p><h4>Feral Ghouls</h4><p>The region the PCs enter is currently occupied by a trio of feral ghouls.</p><p>@UUID[Actor.a7yyO9YDGXYbPe5j]{Feral Ghoul}</p><h4>Putrid Glowing One</h4><p>A <strong>glowing one</strong> is in the region the PCs are about to enter. It is currently playing dead and crawling with a blanket of glowing, irradiated blood bug maggots. If a PC is damaged by the putrid glowing one’s Unarmed attack, they must make an <strong>END + Survival test with a difficulty of 1</strong>. On a failed test, the PC contracts the Rad Worm illness.</p><p>@UUID[Actor.9I9xHPbk9yxVg5N5]{Putrid Glowing One}</p><h4>Toughened Glowing One</h4><p>A swollen <strong>glowing one</strong> is in the region the PCs are about to enter. This bloated ghoul has layers of radiation-hardened skin and fat protecting its organs and gains the Toughness perk.</p><p>@UUID[Actor.RJgSwnT1bmKL5EQx]{Toughened Glowing One}</p><h3>Remains of the Day</h3><p>In addition to loot noted in specific locations, the entire area of Bleakford can be scavenged for supplies. It is a Large Area that has been Mostly Searched. Due to the high concentration of radiation in Bleakford, it has an Ongoing Radiation hazard with an interval of 10 minutes.</p><p>Its Item listing is as follows: 2-4 Ammunition, 0-1 Armor, 0-1 Beverages, 2-4 Clothing, 1-2 Chems, 3-4 Food, 4-6 Junk, 0-1 Oddities/Valuables.</p><h3>Locating the Signal Booster</h3><p>Dr. Trestridge will have placed the signal booster atop the Slocum’s Joe statue, assuming the WKAK Radio Tower would be too obvious, but you’re free to place it wherever they like. If the PCs search Slocum’s Joe too quickly, consider placing it elsewhere in town.</p><p>Many of the potential locations require some climbing to reach, like the Water Tower or WKAK Antenna. Climbing these locations to reach the signal booster requires an (AGL or STR) + Athletics test with a difficulty of 3 and can be completed over multiple attempts.</p><p>After locating the booster, deactivating and removing it is a simple task. Once this is completed, the PCs get new information from Galen (see “Leaving Bleakford”, p.46).</p><h3>Exploring Bleakford</h3><p>Players can explore the town at their own pace, choosing whichever locations they want in whatever order they choose. Their ultimate goal in Bleakford is to locate and disable the signal booster somewhere in town, but the approach is entirely up to them.</p><h4>Bleakford Apartments</h4><p>Bleakford Apartments is a concrete, three-story building on the east side of town near the road. Each unit has a small kitchen, bathroom, living room, and single bedroom. A Nuka-Cola machine with one nuka-cola bottle stands outside the manager’s office. Noteworthy units in the apartment building are:</p><p><strong>Ground Floor, Unit 4</strong>: Unit 4 contains a skeleton wearing a pre-war suit. On the table in the living room is a functioning camera, and a notepad. The notes within indicate that the occupant believed his neighbor was a communist spy sent to Bleakford to gather intel on “Real Americans.”</p><p><strong>Ground Floor, Unit 5</strong>: The ill-fated neighbor of the communist-hater, the occupant of Unit 5’s skeleton hangs over the sink in the bathroom. A discarded @UUID[Compendium.fallout.weapons.Item.PiFmAFrgnIJqwkNw]{Pipe Gun} lies on the bathroom floor.</p><p><strong>Second Floor, Unit 2</strong>: The door to unit 2 is locked but can be opened with a <strong>PER + Lockpick test with a difficulty of 1</strong> or broken down with a <strong>STR + Athletics test with a difficulty of 1</strong>. If the door is broken down, roll on the @UUID[RollTable.sZBFCjLHoSX331Da]{Bleakford Random Encounter table} to determine what, if any, ghouls are drawn by the noise. Home of the assistant to Bleakford’s mayor, the bedside table in her bedroom has several opened boxes of @UUID[Compendium.fallout.consumables.Item.hc8DSkMGN2GxugAF]{Mentats}.</p><p><strong>Third Floor, Unit 3</strong>: This unit contains Mr. and Mrs. Pickwell, an elderly pair of feral ghouls. Mrs. Pickwell has only recently become feral and still wears a patchwork dress and apron and can growl the words, “stay for tea.” The last meal she prepared herself, some @UUID[Compendium.fallout.consumables.Item.D2s5huShfKCtulYC]{Grilled Radroach}, is plated in the kitchenette. The Pickwells stay inside their unit and do not leave it to investigate a disturbance elsewhere in the apartment complex.</p><h4>Brisbee Mobile Homes</h4><p>The mobile home park northeast of town is home to 3 feral ghouls. The five trailers are in poor condition, rusted out, and some contain <strong>errant radroaches</strong>. Roll a d20 when the PCs enter a trailer: on a 11 or higher the trailer contains a @UUID[Actor.vTfD6jMJdtp8qdUx]{Radroach}.</p><p>The first mobile home a PC enters contains a chemistry station and <strong>1 dose of </strong>@UUID[Compendium.fallout.consumables.Item.Bomq1g7X0eVXrssc]{Jet}</p><h4>Henley Chapel &amp; Cemetery</h4><p>The chapel and cemetery on the west side of town contains no notable items, but the steeple is highly likely to contain the signal booster.</p><p>The main chapel downstairs has a few scattered skeletons amid the pews, some of which have pocket watches and jewelry worth a total of <strong>10 Caps</strong>.</p><p>If the signal booster is here, a PC can make a <strong>PER + Sneak test with a difficulty of 1</strong> to spot the device within the church bell, which is rigged to use the metal of the bell as an ad-hoc antenna.</p><h4>Houses</h4><p>There are a dozen houses clustered in the heart of Bleakford and on the west side of town. Of these, five have collapsed from disrepair.</p><p><strong>Mayor’s House</strong>: The largest house house, which belonged to Bleakford’s mayor, has a safe in the upstairs bedroom that can be opened with a <strong>PER + Lockpick test with a difficulty of 3</strong>. Inside the safe are several stacks of prewar money, (earned after the Mayor struck a deal to stow radioactive material within city limits), a @UUID[Compendium.fallout.weapons.Item.wqNw0xItJ29W24sm]{.44 Pistol}, and 3 shots of @UUID[Compendium.fallout.ammunition.Item.kxgO3CwKpqR9lYLS]{.44 Magnum Round}. There is also a contract from Triton Material Disposal, subsidiary of Poseidon Energy, that outlines the terms of the agreement with the mayor.</p><h4>Irradiated Dump</h4><p>The irradiated dump east of town is responsible for the high rads and numerous ghouls in Bleakford. A pile of festering refuse that barely conceals the worst toxic waste in town. Enterprising PCs can pick through the refuse for salvage, however: it is a Large Area that has been Untouched. However, the pockets of radioactive waste are a greater danger to those who explore it.</p><p>Its Item listing is as follows: 2-3 Clothing, 1-2 Food, 1-2 Beverages, 5-8 Junk, 0-1 Weapon (Melee), 0-1 Chems.</p><p><strong>Radioactive Waste</strong>: The waste is an Occasional Hazard that is triggered by a failed <strong>PER + Survival</strong> test made to search the dump, causing 4 DC radiation damage.</p><p><strong>Dumpyard Dogs</strong>: A group of dogs, descended from the town’s original pets, reside in the irradiated dump.</p><p>Do not roll for a quick encounter in the dump. If the PCs enter it, they encounter 3 dogs led by a mongrel dog.</p><p>@UUID[Actor.pfw3hZcU9X05J65h]{Dog}</p><p>@UUID[Actor.C1OoGjf78VSD5UWj]{Mongrel Dog}</p><h4>Red Rocket Station</h4><p>On the highway that leads southeast from the town, the Red Rocket station is in shambles. A shipping vehicle has rammed through the front doors before going critical, leaving the coolant area a scorched wreck. Of note, a billboard outside the station has the faded message: “Burn in Hell, Slow-Joe.”</p><h4>Slocum’s Joe</h4><p>On the south side of town across from the Red Rocket station, Slocum’s Joe is a donut and coffee shop. On its roof, a fiberglass sculpture of the smiling mascot has been battered by the wind and is almost entirely reduced to its skeletal frame.</p><p>Inside, a chalkboard display announces: “Slocum’s Joe. We’ve got better coffee than the OTHER guys.” If the signal booster is here, a PC who examines the statue can make a <strong>PER + Sneak test with a difficulty of 1</strong> to spot it strapped to the metal framework, which acts like an omnidirectional antenna.</p><h4>Water Tower</h4><p>The water tower stands on a small hill in the southwest part of town. A patchwork chain-link fence surrounds it, and weeds have overtaken the area.</p><p>A small service shack at the tower’s base contains a simple toolkit and a RobCo terminal that monitors the condition of the water tower. While it is password protected, the forgetful serviceman has helpfully taped the password above the monitor: <span style=\"font-family:Courier New\"><strong>HYDROHOMES</strong></span>.</p><img src=\"systems/falloutV12/assets/adventures/machine-frequency/water-tower-terminal.webp\" width=\"560\" /><p>A successful <strong>INT + (Medicine or Science) test with a difficulty of 1</strong> allows a PC to identify the chemical contaminants as byproducts of tissue decomposition, suggesting that there is a body inside the tower… and there is. If the PCs ascend the tower, a <strong>glowing one</strong> has fallen through a hole in the reservoir’s top to float in the water remaining within, turning it into a rancid, irradiated soup.</p><p>If the signal booster is here, a PC can make a <strong>PER + Sneak test with a difficulty of 1</strong> to spot the device rigged to the water tower’s metal sides, using it as an ad hoc antenna.</p><h4>WKAK Radio</h4><p>In the northeast part of town, WKAK Radio (serving the tri-county area!) is a small building with a front office and producer’s booth.</p><p>The producer’s booth is barred from the inside. A PC can make a <strong>STR + Athletics test with a difficulty of 1</strong> to shove the barricade aside to enter. Within, the skeleton of the DJ lies sprawled over his desk. Next to him is the following note:</p><blockquote><p>Ladies and gentlemen, I have an urgent update. Unnamed sources in Bleakford have informed me that our own mayor has cut a deal to turn our town into a dumping ground for hazardous waste materials for a period of no less than 26 consecutive months</p><p>[Note to self, get the listeners angry. The madder they are, the more they listen. The more they listen, the bigger the advertising revenue!]</p></blockquote><p>If the signal booster is here, a PC can make a <strong>PER + Sneak test with a difficulty of 1</strong> to spot the device rigged to the radio antenna.</p><h3>Leaving Bleakford</h3><p>When the PCs deactivate the booster, Galen updates them.</p><blockquote><p>“Hoo, you really have pissed somebody off. Our robot controller must have noticed the loss in transmission. I bet you put a whole bunch of units offline. Just in time, too. I was getting emergency broadcasts from a mess of other settlements about approaching machines. Wait…”</p></blockquote><p>Galen’s broadcast becomes static for a moment, and when it returns is distorted by significant interference.</p><blockquote><p>“I have good news and bad news. Good news is: killing that booster forced our friend to increase power to their local signal. They could have just sent us a signed invitation. Their signal has more bars than Goodneighbor. Bad news: a couple of hotheads from Bunker 441 are already on their way. I can’t get through this interference to warn them about the robots. They’ll be going in blind.”</p></blockquote><p>Galen gives the PCs the location of the broadcast’s origin, a short distance east of their current position.</p><p></p>",
 						"format": 1
 					},
 					"title": {
@@ -27223,7 +27223,7 @@
 					"system": {
 					},
 					"text": {
-						"content": "<p>Combat encounters involve characters attacking their opponents and defending themselves and their allies, and are more structured than freeform play. Instead of freely taking actions, the encounter is broken down into rounds, and during each round, each character takes a single turn. A round represents a short amount of time—a few seconds, up to a minute at most—that allows all the characters present to complete their actions, and there are as many rounds in a combat encounter as are needed to resolve the conflict.</p><p>You can attempt one <strong>minor action</strong> and one <strong>major action</strong> in each turn. A minor action represents something quick or supportive of your major action, like aiming or drawing a weapon, while a major action represents something that involves more concentration or effort, like attacking an opponent, defending yourself, hacking a computer, or picking a lock.</p><aside><p class=\"aside-title\">Sequence of Play</p><ol><li><p><strong>INITIATE COMBAT:</strong> The character who initiated the combat takes a single turn before the first round.</p></li><li><p><strong>INITIATIVE:</strong> List all characters in order of their Initiative statistic, from highest to lowest.</p></li><li><p><strong>TAKE TURNS:</strong> Each character, in order from highest initiative to lowest, takes a turn.</p></li><li><p><strong>BEGIN NEW ROUND:</strong> Once every character has taken a turn, the round is over; begin a new round, repeating step 3 and step 4 as many times as needed to resolve the conflict.</p></li></ol></aside><h3>Initiative</h3><p>When combat begins, the player who initiated the combat takes a turn immediately. Once this is done, the gamemaster ranks the combatants in order of their initiative statistic, from highest to lowest, and the first round begins. In each round, the character with the highest initiative goes first, and then each character takes a turn in order of highest to lowest. If there is a tie, the GM decides which character or creature goes first. Once the last character has completed their turn, the round ends, and the character with the highest initiative takes the first turn of the next round. Repeat this sequence until the conflict ends.</p><h4>Initiative Statistics</h4><ul><li><p>Your character’s initiative is equal to their Perception plus their Agility, plus any bonuses from equipment or perks.</p></li><li><p>A Character NPC’s initiative is calculated in the same way as player characters, though some powerful NPCs add bonuses.</p></li></ul><h3>Actions</h3><p><strong>You can attempt one minor action on your turn in combat.</strong> You can take one additional minor action by spending 1 Action Point, and you can take one additional major action by spending 2 Action Points, but the difficulty of any test attempted on that second major action is increased by 1. You may take your actions in any order you wish during your turn.</p><p><strong>You cannot take more than two minor actions and two major actions on your turn by any means. You cannot take more than one movement action per turn.</strong></p><h4>Minor Actions</h4><ul><li><p><strong>Aim:</strong> Re-roll 1d20 on the first attack roll you make this turn.</p></li><li><p><strong>Draw Item:</strong> Draw one item carried on your person or pick up an object or item within your reach. You may put an item away as part of this action.</p></li><li><p><strong>Interact:</strong> Interact with your equipment or environment in a simple way, like opening a door, or pushing a button.</p></li><li><p><strong>Move:</strong> Movement action. Move up to one zone, to any position within Medium range. Alternatively, stand up from a prone position.</p></li><li><p><strong>Take Chem:</strong> Administer a dose of a chem that you are holding, targeting yourself or a willing character within your reach. If you’re not holding the chem, then you need to draw it first.</p></li></ul><aside><p class=\"aside-title\">Spending Luck to Act Faster</p><p>You can also spend <strong>Luck points</strong> (p.16) to interrupt the normal initiative order and take your turn earlier in the round. You must do this at the end of another character’s turn but before your turn in the initiative order—you cannot interrupt another player while it is their turn. Once you have taken your turn, you do not take another at your normal point in the initiative order, until the next round.</p><p>When you spend a Luck point to take your turn earlier, you take your turn immediately, can take one minor and one major action as normal, and can spend Action Points to take additional actions as normal. You are still limited to the number of actions you can take in a round, and can be interrupted by the Ready action as normal.</p></aside><aside><p class=\"aside-title\">Prone</p><ul><li>You may be knocked prone by attacks, hazards, or complications. You may also drop prone willingly, at the end of any movement action you perform. Being prone has the following effects:</li><li>When you’re prone, you crawl. The Move action becomes a major action, rather than a minor action, and you cannot take the Sprint action.</li><li>While you’re prone, enemies at Medium range or further add +1 to the difficulty of any attacks against you.</li><li>While you’re prone, enemies at Close range reduce the difficulty of attacks (including melee attacks) by 1, to a minimum of 0.</li><li>While you’re prone, you can re-roll any cover CD you have.</li></ul></aside><h4>Major Actions</h4><ul><li><strong>Assist:</strong> You assist another character with their next test. When the character you are assisting takes their turn and attempts their task, you provide assistance (p.12). If you have not yet acted this round, you may give up your turn later in the round to assist an ally when they attempt a skill test.</li><li><strong>Attack:</strong> Make a melee or ranged attack, as described in Making an Attack, p.21.</li><li><strong>Command an NPC:</strong> If you have an allied NPC under your command, choose a single major action for them to take. If the action requires a test, then you automatically assist using your <strong>CHA + Speech</strong> (if the NPC is a person), <strong>CHA + Survival</strong> (if the NPC is an animal), or <strong>INT + Science</strong> (if the NPC is a robot).</li><li><strong>Defend:</strong> You focus on protecting yourself. Make an <strong>AGI + Athletics</strong> test with a difficulty equal to your current Defense. If you succeed, add +1 to your Defense. For 2 AP, add an extra +1 to your Defense.</li><li><p><strong>First Aid:</strong> You try to quickly patch the wounds of yourself or an ally. Make an <strong>INT + Medicine</strong> test, with a difficulty equal to the number of injuries the patient has, and increase the difficulty by 1 if you are trying to perform first aid on yourself. If you succeed, you can either:</p><ul><li>Heal HP equal to your Medicine rating (p.28),</li><li>Treat one injury the patient is suffering from (p.28), or</li><li>Stabilize a dying patient (p.28)</li></ul></li><li><strong>Pass:</strong> You choose not to do anything.</li><li><strong>Rally:</strong> You grit your teeth, catch your breath, and prepare yourself. Make an <strong>END + Survival</strong> test with a difficulty of 0, and save any Action Points you generate. The GM may allow you to use a different ATT + skill for this action depending on how you describe it, such as <strong>CHA + Speech</strong> to inspire your allies.</li><li><strong>Ready:</strong> Describe a situation you expect to occur, and choose a major action you will perform when it does. If that action occurs before the start of your next turn, you may perform that major action immediately, interrupting other characters’ actions as necessary. If more than one character has readied an action for the same situation, their readied actions occur in initiative order.</li><li><strong>Sprint:</strong> Movement action. You move up to two zones, to anywhere within Long range.</li><li><strong>Test:</strong> Perform a skill test for an action not covered by the other actions, with the gamemaster’s permission.</li></ul><aside><p class=\"aside-title\">Action Points in Combat Encounters</p><p>During combat, you can spend Action Points to do the following:</p><ul><li><strong>Buy d20s (1–6 AP):</strong> Buy bonus d20s for a test, before the dice pool is rolled, but after the GM sets the difficulty. The cost increases for each die purchased: the first d20 costs 1 AP, the second costs 2, and the third costs 3. No more than three bonus d20s may be rolled for a single test, including any d20s from perks or traits.</li><li><strong>Obtain Information (1 AP):</strong> Ask the gamemaster a single question about the current situation, based on your test. The GM has to answer truthfully, but the answer might not be complete.</li><li><strong>Take Additional Minor Action (1 AP):</strong> Take 1 additional minor action in your turn. You can only take a total of 2 minor actions in a single round.</li><li><strong>Take Additional Major Action (2 AP):</strong> Take one additional major action on your turn. Any skill test you must attempt is increased in difficulty by +1. You can only take a total of two major actions in a single round.</li><li><strong>Add Extra Damage (1-3 AP):</strong> On a successful melee attack or thrown weapon attack you can spend AP to add 1 CD per AP spent, up to a maximum of +3 CD for 3 AP.</li></ul></aside><h3>Making an Attack</h3><ol><li><p><strong>CHOOSE WEAPON AND TARGET:</strong> Select one weapon you are currently wielding. Then, select a single character, creature, or object as the target. If you’re using a melee weapon, the target must be visible to you and within your reach. If you’re using a ranged weapon, the target must be visible to you.</p><ul><li><p><strong>Choose Hit Location:</strong> You may choose to target a specific part of a target creature or character. This increases the difficulty of the attack by 1.</p></li></ul></li><li><p><strong>ATTEMPT A TEST:</strong> The test is determined by the type of weapon used.</p><ul><li><p><strong>Melee Weapon:</strong> Roll a <strong>STR + Melee Weapons</strong> test, with a difficulty equal to your target’s Defense.</p></li><li><p><strong>Ranged Weapon:</strong> Roll an <strong>AGI + Small Guns</strong>, <strong>END + Big Guns</strong>, or <strong>PER + Energy Weapons</strong> test (based on the ranged weapon you’re using), with a difficulty equal to your target’s Defense. This is modified by the range to the target (see <em>Range</em>, p.22)</p></li><li><p><strong>Thrown Weapon:</strong> Roll a <strong>PER + Explosives</strong> or <strong>AGI + Throwing</strong> test, with a difficulty equal to the target’s Defense, modified by range.</p></li><li><p><strong>Unarmed:</strong> Roll a <strong>STR + Unarmed</strong> test, with a difficulty equal to your target’s Defense.</p></li></ul></li><li><p><strong>DETERMINE HIT LOCATION:</strong> If you passed your test, roll 1d20 or a hit location die to determine the part of the target you hit. If you chose a specific hit location already, you hit the chosen location instead.</p></li><li><p><strong>INFLICT DAMAGE:</strong> Roll a number of Combat Dice (CD) listed by the weapon’s damage rating, plus any bonuses from derived statistics, or from AP or ammo spent. Reduce the target’s health points by the total rolled.</p><ul><li><p><strong>Resistances:</strong> The target reduces the total damage inflicted by their Damage Resistance against the attack’s damage type, on the location hit. Characters and creatures have different DRs for different types of damage: physical, energy, radiation, and poison.</p></li></ul></li><li><p><strong>REDUCE AMMUNITION:</strong> If you made a ranged attack, remove one shot of ammunition, plus any additional shots of ammunition spent on the attack. If you made a thrown weapon attack, remove the thrown weapon from your inventory.</p></li></ol><h3>Hit Locations</h3><p>There are 6 body parts that you can target as <strong>hit locations</strong>: head, torso, left arm, right arm, left leg, and right leg. When you successfully hit an opponent with an attack, you either randomly determine which body part you hit, or hit the body part you chose before you made the test. Use the Hit Locations table for reference.</p><h4>Creatures With Other Hit Locations</h4><p>Some creatures in the wasteland may have other body parts—wings, claws, and tails—that do not appear on the hit location table. These locations will be listed in the creature’s statistics, replacing the Hit Locations table with its own.</p><table style=\"width:50%;text-align:center\"><caption>Hit Locations</caption><tbody><tr><td><p>D20 Roll</p></td><td><p>Hit Location</p></td></tr><tr><td><p>1-2</p></td><td><p>Head</p></td></tr><tr><td><p>3-8</p></td><td><p>Torso</p></td></tr><tr><td><p>9-11</p></td><td><p>Left Arm</p></td></tr><tr><td><p>12-14</p></td><td><p>Right Arm</p></td></tr><tr><td><p>15-17</p></td><td><p>Left Leg</p></td></tr><tr><td><p>18-20</p></td><td><p>Right Leg</p></td></tr></tbody></table><aside><p class=\"aside-title\">Ranged Attacks Within Reach</p><p>Being in reach of an enemy is disruptive to ranged attacks and tests, adding +2 to the difficulty of any test that isn’t a melee attack.</p></aside><h3>Range</h3><p>Ranged and thrown weapons can be used to attack any target you can see, but they vary in effectiveness depending on how far away the target is from you. Ranged weapons have an <strong>ideal range</strong> noted in their profile (just listed as Range), which is based on the relative distance between the attacker and the target, using the zones of the combat environment (see Distances and Ranges, p.31). A weapon’s ideal range is one of the following:</p><ul><li><p><strong>Close (C):</strong> The weapon is most effective against targets within the same zone.</p></li><li><p><strong>Medium (M):</strong> The weapon is most effective against targets in an adjacent zone.</p></li><li><p><strong>Long (L):</strong> The weapon is most effective against targets two zones away.</p></li><li><p><strong>Extreme (X):</strong> The weapon is most effective against targets three or more zones away.</p></li></ul><p>The difficulty of a ranged attack increases by one for each range band outside of the weapon’s ideal range, whether closer or further away—a long sniper’s rifle is deadly at Long ranges, but awkward and unwieldy in close quarters, while a pistol is great at Close range but less useful at longer distances.</p><p><strong>Example:</strong><em><strong> A scoped hunting rifle with a Long range will add +1 to the difficulty of its attacks at Medium range or Extreme range, and add +2 to the difficulty of attacks at Close range. A shotgun with a Close range adds +1 to the difficulty of attacks at Medium range, +2 at Long range, and +3 at Extreme range.</strong></em></p><table style=\"width:90%\"><caption>Weapon Range Difficulty</caption><tbody><tr><td>Range to Target</td><td style=\"text-align:center\">Close</td><td style=\"text-align:center\">Medium</td><td style=\"text-align:center\">Long</td><td style=\"text-align:center\">Extreme</td></tr><tr><td>Close (same zone)</td><td style=\"text-align:center\">0</td><td style=\"text-align:center\">+1</td><td style=\"text-align:center\">+2</td><td style=\"text-align:center\">+3</td></tr><tr><td>Medium (adjacent zone)</td><td style=\"text-align:center\">+1</td><td style=\"text-align:center\">0</td><td style=\"text-align:center\">+1</td><td style=\"text-align:center\">+2</td></tr><tr><td>Long (2 zones)</td><td style=\"text-align:center\">+2</td><td style=\"text-align:center\">+1</td><td style=\"text-align:center\">0</td><td style=\"text-align:center\">+1</td></tr><tr><td>Extreme (3+ zones)</td><td style=\"text-align:center\">+3</td><td style=\"text-align:center\">+2</td><td style=\"text-align:center\">+1</td><td style=\"text-align:center\">0</td></tr></tbody></table><h3>Combat Dice</h3><p>When your attack hits its target, you inflict an amount of damage determined by the weapon’s damage rating. This damage rating is described as a number of Combat Dice, abbreviated with the CD symbol throughout this rulebook.</p><p>Combat Dice are specially-designed six-sided dice, with four different results as shown on the Combat Dice Results table. If you don’t have any Combat Dice, you can simply use normal six-sided dice (d6) and compare the results to the table below.</p><p>When you hit, roll all the CD for the attack together as a single dice pool, and total up the result. This total is the amount of damage you inflict on your target. In addition, any effect symbols (the face showing the CD symbol) activates special abilities—called damage effects—listed for the weapon.</p><table style=\"width:80%\"><caption>Combat Dice Results</caption><tbody><tr><td style=\"text-align:center\">D6 Roll</td><td style=\"text-align:center\">Combat Dice Result</td><td style=\"text-align:center\">Damage and Effects</td></tr><tr><td style=\"text-align:center\">1</td><td style=\"text-align:center\"><img style=\"background-color:#3693D4\" alt=\"1\" height=\"32\" src=\"systems/fallout/assets/dice/d1.webp\" /></td><td style=\"text-align:center\">1 damage</td></tr><tr><td style=\"text-align:center\">2</td><td style=\"text-align:center\"><img style=\"background-color:#3693D4\" alt=\"1\" height=\"32\" src=\"systems/fallout/assets/dice/d2.webp\" /></td><td style=\"text-align:center\">2 damage</td></tr><tr><td style=\"text-align:center\">3</td><td style=\"text-align:center\"><img style=\"background-color:#3693D4\" alt=\"1\" height=\"32\" src=\"systems/fallout/assets/dice/d3.webp\" /></td><td style=\"text-align:center\">Nothing</td></tr><tr><td style=\"text-align:center\">4</td><td style=\"text-align:center\"><img style=\"background-color:#3693D4\" alt=\"1\" height=\"32\" src=\"systems/fallout/assets/dice/d4.webp\" /></td><td style=\"text-align:center\">Nothing</td></tr><tr><td style=\"text-align:center\">5</td><td style=\"text-align:center\"><img style=\"background-color:#3693D4\" alt=\"1\" height=\"32\" src=\"systems/fallout/assets/dice/d5.webp\" /></td><td style=\"text-align:center\">1 damage + damage effects trigger</td></tr><tr><td style=\"text-align:center\">6</td><td style=\"text-align:center\"><img style=\"background-color:#3693D4\" alt=\"1\" height=\"32\" src=\"systems/fallout/assets/dice/d6.webp\" /></td><td style=\"text-align:center\">1 damage + damage effects trigger</td></tr></tbody></table><p><strong>Example:</strong><em><strong> The laser gun has a damage rating of 4CD with the Piercing 1 damage effect. When the Sole Survivor hits with their laser gun, their player rolls 4 Combat Dice and totals up the result. They roll a 1, 1, 3, and a 5, inflicting 3 damage and ignoring 1 DR of their opponent’s armor.</strong></em></p><aside><p class=\"aside-title\">Sneak Attacks</p><p>If the enemy is unaware of you before you attack, the difficulty to attack them is reduced by 1 (to a minimum of 0), and your attack gains the Vicious damage effect if it did not have it already. If your attack already has the Vicious damage effect, then the damage is increased by +2CD.</p><p>If the difficulty to hit your opponent is 0, you do not need to roll to hit them, but you may still decide to do so, generating Action Points and complications as normal.</p></aside><h4>Increasing Damage</h4><p>You can increase the number of Combat Dice you roll to inflict damage with an attack by spending Action Points or ammunition, depending on the type of weapon you are using.</p><p><strong>For melee weapons (including unarmed attacks) and thrown weapons,</strong> each Action Point (AP) you spend adds +1CD to roll in your damage dice pool. You can spend up to 3 AP to increase your dice pool by up to +3CD. You can only spend AP you have saved in the group pool or generated with your attack: you cannot generate AP for the gamemaster to use this AP option.</p><p><strong>For ranged weapons,</strong> each unit of ammunition you spend adds +1CD to roll in your damage dice pool. You can spend ammunition up to the gun’s fire rate. For example, a 10mm pistol has a fire rate of 2, so you can spend 2 additional 10mm bullets to increase the Combat Dice pool. An Institute laser rifle has a fire rate of 3, so you can spend up to 3 charges from a fusion cell to increase its Combat Dice pool.</p><h3>Damage Types</h3><p>There are four damage types in <em><strong>Fallout</strong></em>: <strong>physical, energy, radiation,</strong> and <strong>poison</strong> damage.</p><p>Each weapon lists the type of damage it inflicts:</p><ul><li><p><strong>Physical:</strong> Unarmed attacks, blunt force, slashing and stabbing, ballistics.</p></li><li><p><strong>Energy:</strong> Laser, plasma, and flame weapons.</p></li><li><p><strong>Radiation:</strong> Exposure to RADs, or nuclear weaponry.</p></li><li><p><strong>Poison:</strong> Toxins, chemicals, and creatures’ stings and barbs.</p></li></ul><p>Each target has a Damage Resistance (DR) for each of these types, based on their clothing, armor, or naturally tough hides and chitin. While most forms of protection provide physical DR, energy DR is rarer, while radiation or poison protection are particularly rare.</p><h3>Damage Effects</h3><p>Damage effects augment how the damage you inflict to a target is applied. When you roll one or more CD symbols in your Combat Dice pool, all your weapon’s damage effects are triggered. Some damage effects are also based on the number of CD symbols appearing in your result, as described in each entry.</p><p>Each weapon lists its damage effects immediately after its damage rating.</p><ul><li><p><strong>Burst:</strong> The attack hits one additional target within Close range of the primary target for each Effect rolled. Each additional target spends 1 additional unit of ammunition from the weapon.</p></li><li><p><strong>Breaking:</strong> For each Effect rolled, reduce the number of DC a target’s cover provides by 1, permanently. If the target is not in cover, instead reduce the DR of the location struck by 1, according to the damage type of the weapon—physical damage only reduces physical DR, for example.</p></li><li><p><strong>Persistent:</strong> If one or more Effects are rolled, the target suffers the weapon’s damage again at the end of their next and subsequent turns, for a number of rounds equal to the number of Effects rolled. The target can spend a major action to make a test to stop persistent damage early, with the difficulty equal to the number of Effects rolled, and the attribute + skill chosen by the GM. Some Persistent weapons may inflict a different type of damage to the weapon, and where this is the case, it will be noted in brackets, for example: Persistent (Poison).</p></li><li><p><strong>Piercing X</strong>: Ignore X points of the target’s DR for each Effect rolled, where X is the rating of this damage effect.</p></li><li><p><strong>Radioactive</strong>: For every Effect rolled, the target also suffers 1 point of radiation damage. This radiation damage is totalled and applied separately, after a character has suffered the normal damage from the attack.</p></li><li><p><strong>Spread</strong>: For each Effect rolled, your attack inflicts one additional hit on the target. Each additional hit inflicts half the rolled damage (rounded down) and hits a random location even if a specific location was targeted for the initial attack.</p></li><li><p><strong>Stun</strong>: If one or more Effects are rolled, the target cannot take their normal actions on their next turn. A stunned character or creature can still spend AP to take additional actions as normal.</p></li><li><p><strong>Vicious</strong>: The attack inflicts +1 damage for each Effect rolled.</p></li></ul><h4>Radiation Damage</h4><p>Radiation damage is applied differently than other damage types. Each point of radiation damage, after reduction for the location’s radiation DR, reduces a character’s <strong>maximum health points</strong>, rather than their current health points. If a character’s health point maximum is reduced below their current health point total, then their current HP are reduced as well.</p><p>Radiation damage is only reduced by a target’s radiation Damage Resistance, according to the location hit. If the radiation would affect the whole body, like an environmental effect, then use the character or creature’s <strong>lowest</strong> locational radiation DR.</p><p>In all cases, where a character would suffer radiation damage and another type of damage at the same time, resolve the radiation damage after any other types of damage.</p><p><strong>Example:</strong><em><strong> Piper is attacked by a glowing feral ghoul, taking 3 CD radiation damage. The GM rolls their CD and totals 4 damage with an Effect, inflicting 4 physical damage and 1 radiation damage. Piper has 2 physical resistance, so she reduces her current health points by 2. Then, she reduces her maximum health points by 1 because of the radiation damage.</strong></em></p><p></p><aside><p class=\"aside-title\">Breaking Things</p><p>Inanimate objects can be damaged just like characters and creatures. Most of the time, the GM handles damage to your surroundings as part of the descriptions of the environment—stray bullets breaking glass, splintering wood, or ricocheting from steel—but there are times where breaking an object is the point, rather than purely descriptive.</p><p>Damaging an object works just the same as damaging a character: roll to hit, roll the weapon’s CD damage rating, subtract the object’s damage resistance, and reduce its health.</p><p>The GM provides damage resistance and health for the object you’re trying to break. If you inflict a critical hit on an object—by inflicting 5 or more damage at once—you’ve broken it. Especially large objects, like vehicles, may have multiple locations which can be hit and broken, and they are destroyed when all their locations are broken.</p></aside>",
+						"content": "<p>Combat encounters involve characters attacking their opponents and defending themselves and their allies, and are more structured than freeform play. Instead of freely taking actions, the encounter is broken down into rounds, and during each round, each character takes a single turn. A round represents a short amount of time—a few seconds, up to a minute at most—that allows all the characters present to complete their actions, and there are as many rounds in a combat encounter as are needed to resolve the conflict.</p><p>You can attempt one <strong>minor action</strong> and one <strong>major action</strong> in each turn. A minor action represents something quick or supportive of your major action, like aiming or drawing a weapon, while a major action represents something that involves more concentration or effort, like attacking an opponent, defending yourself, hacking a computer, or picking a lock.</p><aside><p class=\"aside-title\">Sequence of Play</p><ol><li><p><strong>INITIATE COMBAT:</strong> The character who initiated the combat takes a single turn before the first round.</p></li><li><p><strong>INITIATIVE:</strong> List all characters in order of their Initiative statistic, from highest to lowest.</p></li><li><p><strong>TAKE TURNS:</strong> Each character, in order from highest initiative to lowest, takes a turn.</p></li><li><p><strong>BEGIN NEW ROUND:</strong> Once every character has taken a turn, the round is over; begin a new round, repeating step 3 and step 4 as many times as needed to resolve the conflict.</p></li></ol></aside><h3>Initiative</h3><p>When combat begins, the player who initiated the combat takes a turn immediately. Once this is done, the gamemaster ranks the combatants in order of their initiative statistic, from highest to lowest, and the first round begins. In each round, the character with the highest initiative goes first, and then each character takes a turn in order of highest to lowest. If there is a tie, the GM decides which character or creature goes first. Once the last character has completed their turn, the round ends, and the character with the highest initiative takes the first turn of the next round. Repeat this sequence until the conflict ends.</p><h4>Initiative Statistics</h4><ul><li><p>Your character’s initiative is equal to their Perception plus their Agility, plus any bonuses from equipment or perks.</p></li><li><p>A Character NPC’s initiative is calculated in the same way as player characters, though some powerful NPCs add bonuses.</p></li></ul><h3>Actions</h3><p><strong>You can attempt one minor action on your turn in combat.</strong> You can take one additional minor action by spending 1 Action Point, and you can take one additional major action by spending 2 Action Points, but the difficulty of any test attempted on that second major action is increased by 1. You may take your actions in any order you wish during your turn.</p><p><strong>You cannot take more than two minor actions and two major actions on your turn by any means. You cannot take more than one movement action per turn.</strong></p><h4>Minor Actions</h4><ul><li><p><strong>Aim:</strong> Re-roll 1d20 on the first attack roll you make this turn.</p></li><li><p><strong>Draw Item:</strong> Draw one item carried on your person or pick up an object or item within your reach. You may put an item away as part of this action.</p></li><li><p><strong>Interact:</strong> Interact with your equipment or environment in a simple way, like opening a door, or pushing a button.</p></li><li><p><strong>Move:</strong> Movement action. Move up to one zone, to any position within Medium range. Alternatively, stand up from a prone position.</p></li><li><p><strong>Take Chem:</strong> Administer a dose of a chem that you are holding, targeting yourself or a willing character within your reach. If you’re not holding the chem, then you need to draw it first.</p></li></ul><aside><p class=\"aside-title\">Spending Luck to Act Faster</p><p>You can also spend <strong>Luck points</strong> (p.16) to interrupt the normal initiative order and take your turn earlier in the round. You must do this at the end of another character’s turn but before your turn in the initiative order—you cannot interrupt another player while it is their turn. Once you have taken your turn, you do not take another at your normal point in the initiative order, until the next round.</p><p>When you spend a Luck point to take your turn earlier, you take your turn immediately, can take one minor and one major action as normal, and can spend Action Points to take additional actions as normal. You are still limited to the number of actions you can take in a round, and can be interrupted by the Ready action as normal.</p></aside><aside><p class=\"aside-title\">Prone</p><ul><li>You may be knocked prone by attacks, hazards, or complications. You may also drop prone willingly, at the end of any movement action you perform. Being prone has the following effects:</li><li>When you’re prone, you crawl. The Move action becomes a major action, rather than a minor action, and you cannot take the Sprint action.</li><li>While you’re prone, enemies at Medium range or further add +1 to the difficulty of any attacks against you.</li><li>While you’re prone, enemies at Close range reduce the difficulty of attacks (including melee attacks) by 1, to a minimum of 0.</li><li>While you’re prone, you can re-roll any cover CD you have.</li></ul></aside><h4>Major Actions</h4><ul><li><strong>Assist:</strong> You assist another character with their next test. When the character you are assisting takes their turn and attempts their task, you provide assistance (p.12). If you have not yet acted this round, you may give up your turn later in the round to assist an ally when they attempt a skill test.</li><li><strong>Attack:</strong> Make a melee or ranged attack, as described in Making an Attack, p.21.</li><li><strong>Command an NPC:</strong> If you have an allied NPC under your command, choose a single major action for them to take. If the action requires a test, then you automatically assist using your <strong>CHA + Speech</strong> (if the NPC is a person), <strong>CHA + Survival</strong> (if the NPC is an animal), or <strong>INT + Science</strong> (if the NPC is a robot).</li><li><strong>Defend:</strong> You focus on protecting yourself. Make an <strong>AGI + Athletics</strong> test with a difficulty equal to your current Defense. If you succeed, add +1 to your Defense. For 2 AP, add an extra +1 to your Defense.</li><li><p><strong>First Aid:</strong> You try to quickly patch the wounds of yourself or an ally. Make an <strong>INT + Medicine</strong> test, with a difficulty equal to the number of injuries the patient has, and increase the difficulty by 1 if you are trying to perform first aid on yourself. If you succeed, you can either:</p><ul><li>Heal HP equal to your Medicine rating (p.28),</li><li>Treat one injury the patient is suffering from (p.28), or</li><li>Stabilize a dying patient (p.28)</li></ul></li><li><strong>Pass:</strong> You choose not to do anything.</li><li><strong>Rally:</strong> You grit your teeth, catch your breath, and prepare yourself. Make an <strong>END + Survival</strong> test with a difficulty of 0, and save any Action Points you generate. The GM may allow you to use a different ATT + skill for this action depending on how you describe it, such as <strong>CHA + Speech</strong> to inspire your allies.</li><li><strong>Ready:</strong> Describe a situation you expect to occur, and choose a major action you will perform when it does. If that action occurs before the start of your next turn, you may perform that major action immediately, interrupting other characters’ actions as necessary. If more than one character has readied an action for the same situation, their readied actions occur in initiative order.</li><li><strong>Sprint:</strong> Movement action. You move up to two zones, to anywhere within Long range.</li><li><strong>Test:</strong> Perform a skill test for an action not covered by the other actions, with the gamemaster’s permission.</li></ul><aside><p class=\"aside-title\">Action Points in Combat Encounters</p><p>During combat, you can spend Action Points to do the following:</p><ul><li><strong>Buy d20s (1–6 AP):</strong> Buy bonus d20s for a test, before the dice pool is rolled, but after the GM sets the difficulty. The cost increases for each die purchased: the first d20 costs 1 AP, the second costs 2, and the third costs 3. No more than three bonus d20s may be rolled for a single test, including any d20s from perks or traits.</li><li><strong>Obtain Information (1 AP):</strong> Ask the gamemaster a single question about the current situation, based on your test. The GM has to answer truthfully, but the answer might not be complete.</li><li><strong>Take Additional Minor Action (1 AP):</strong> Take 1 additional minor action in your turn. You can only take a total of 2 minor actions in a single round.</li><li><strong>Take Additional Major Action (2 AP):</strong> Take one additional major action on your turn. Any skill test you must attempt is increased in difficulty by +1. You can only take a total of two major actions in a single round.</li><li><strong>Add Extra Damage (1-3 AP):</strong> On a successful melee attack or thrown weapon attack you can spend AP to add 1 CD per AP spent, up to a maximum of +3 CD for 3 AP.</li></ul></aside><h3>Making an Attack</h3><ol><li><p><strong>CHOOSE WEAPON AND TARGET:</strong> Select one weapon you are currently wielding. Then, select a single character, creature, or object as the target. If you’re using a melee weapon, the target must be visible to you and within your reach. If you’re using a ranged weapon, the target must be visible to you.</p><ul><li><p><strong>Choose Hit Location:</strong> You may choose to target a specific part of a target creature or character. This increases the difficulty of the attack by 1.</p></li></ul></li><li><p><strong>ATTEMPT A TEST:</strong> The test is determined by the type of weapon used.</p><ul><li><p><strong>Melee Weapon:</strong> Roll a <strong>STR + Melee Weapons</strong> test, with a difficulty equal to your target’s Defense.</p></li><li><p><strong>Ranged Weapon:</strong> Roll an <strong>AGI + Small Guns</strong>, <strong>END + Big Guns</strong>, or <strong>PER + Energy Weapons</strong> test (based on the ranged weapon you’re using), with a difficulty equal to your target’s Defense. This is modified by the range to the target (see <em>Range</em>, p.22)</p></li><li><p><strong>Thrown Weapon:</strong> Roll a <strong>PER + Explosives</strong> or <strong>AGI + Throwing</strong> test, with a difficulty equal to the target’s Defense, modified by range.</p></li><li><p><strong>Unarmed:</strong> Roll a <strong>STR + Unarmed</strong> test, with a difficulty equal to your target’s Defense.</p></li></ul></li><li><p><strong>DETERMINE HIT LOCATION:</strong> If you passed your test, roll 1d20 or a hit location die to determine the part of the target you hit. If you chose a specific hit location already, you hit the chosen location instead.</p></li><li><p><strong>INFLICT DAMAGE:</strong> Roll a number of Combat Dice (CD) listed by the weapon’s damage rating, plus any bonuses from derived statistics, or from AP or ammo spent. Reduce the target’s health points by the total rolled.</p><ul><li><p><strong>Resistances:</strong> The target reduces the total damage inflicted by their Damage Resistance against the attack’s damage type, on the location hit. Characters and creatures have different DRs for different types of damage: physical, energy, radiation, and poison.</p></li></ul></li><li><p><strong>REDUCE AMMUNITION:</strong> If you made a ranged attack, remove one shot of ammunition, plus any additional shots of ammunition spent on the attack. If you made a thrown weapon attack, remove the thrown weapon from your inventory.</p></li></ol><h3>Hit Locations</h3><p>There are 6 body parts that you can target as <strong>hit locations</strong>: head, torso, left arm, right arm, left leg, and right leg. When you successfully hit an opponent with an attack, you either randomly determine which body part you hit, or hit the body part you chose before you made the test. Use the Hit Locations table for reference.</p><h4>Creatures With Other Hit Locations</h4><p>Some creatures in the wasteland may have other body parts—wings, claws, and tails—that do not appear on the hit location table. These locations will be listed in the creature’s statistics, replacing the Hit Locations table with its own.</p><table style=\"width:50%;text-align:center\"><caption>Hit Locations</caption><tbody><tr><td><p>D20 Roll</p></td><td><p>Hit Location</p></td></tr><tr><td><p>1-2</p></td><td><p>Head</p></td></tr><tr><td><p>3-8</p></td><td><p>Torso</p></td></tr><tr><td><p>9-11</p></td><td><p>Left Arm</p></td></tr><tr><td><p>12-14</p></td><td><p>Right Arm</p></td></tr><tr><td><p>15-17</p></td><td><p>Left Leg</p></td></tr><tr><td><p>18-20</p></td><td><p>Right Leg</p></td></tr></tbody></table><aside><p class=\"aside-title\">Ranged Attacks Within Reach</p><p>Being in reach of an enemy is disruptive to ranged attacks and tests, adding +2 to the difficulty of any test that isn’t a melee attack.</p></aside><h3>Range</h3><p>Ranged and thrown weapons can be used to attack any target you can see, but they vary in effectiveness depending on how far away the target is from you. Ranged weapons have an <strong>ideal range</strong> noted in their profile (just listed as Range), which is based on the relative distance between the attacker and the target, using the zones of the combat environment (see Distances and Ranges, p.31). A weapon’s ideal range is one of the following:</p><ul><li><p><strong>Close (C):</strong> The weapon is most effective against targets within the same zone.</p></li><li><p><strong>Medium (M):</strong> The weapon is most effective against targets in an adjacent zone.</p></li><li><p><strong>Long (L):</strong> The weapon is most effective against targets two zones away.</p></li><li><p><strong>Extreme (X):</strong> The weapon is most effective against targets three or more zones away.</p></li></ul><p>The difficulty of a ranged attack increases by one for each range band outside of the weapon’s ideal range, whether closer or further away—a long sniper’s rifle is deadly at Long ranges, but awkward and unwieldy in close quarters, while a pistol is great at Close range but less useful at longer distances.</p><p><strong>Example:</strong><em><strong> A scoped hunting rifle with a Long range will add +1 to the difficulty of its attacks at Medium range or Extreme range, and add +2 to the difficulty of attacks at Close range. A shotgun with a Close range adds +1 to the difficulty of attacks at Medium range, +2 at Long range, and +3 at Extreme range.</strong></em></p><table style=\"width:90%\"><caption>Weapon Range Difficulty</caption><tbody><tr><td>Range to Target</td><td style=\"text-align:center\">Close</td><td style=\"text-align:center\">Medium</td><td style=\"text-align:center\">Long</td><td style=\"text-align:center\">Extreme</td></tr><tr><td>Close (same zone)</td><td style=\"text-align:center\">0</td><td style=\"text-align:center\">+1</td><td style=\"text-align:center\">+2</td><td style=\"text-align:center\">+3</td></tr><tr><td>Medium (adjacent zone)</td><td style=\"text-align:center\">+1</td><td style=\"text-align:center\">0</td><td style=\"text-align:center\">+1</td><td style=\"text-align:center\">+2</td></tr><tr><td>Long (2 zones)</td><td style=\"text-align:center\">+2</td><td style=\"text-align:center\">+1</td><td style=\"text-align:center\">0</td><td style=\"text-align:center\">+1</td></tr><tr><td>Extreme (3+ zones)</td><td style=\"text-align:center\">+3</td><td style=\"text-align:center\">+2</td><td style=\"text-align:center\">+1</td><td style=\"text-align:center\">0</td></tr></tbody></table><h3>Combat Dice</h3><p>When your attack hits its target, you inflict an amount of damage determined by the weapon’s damage rating. This damage rating is described as a number of Combat Dice, abbreviated with the CD symbol throughout this rulebook.</p><p>Combat Dice are specially-designed six-sided dice, with four different results as shown on the Combat Dice Results table. If you don’t have any Combat Dice, you can simply use normal six-sided dice (d6) and compare the results to the table below.</p><p>When you hit, roll all the CD for the attack together as a single dice pool, and total up the result. This total is the amount of damage you inflict on your target. In addition, any effect symbols (the face showing the CD symbol) activates special abilities—called damage effects—listed for the weapon.</p><table style=\"width:80%\"><caption>Combat Dice Results</caption><tbody><tr><td style=\"text-align:center\">D6 Roll</td><td style=\"text-align:center\">Combat Dice Result</td><td style=\"text-align:center\">Damage and Effects</td></tr><tr><td style=\"text-align:center\">1</td><td style=\"text-align:center\"><img style=\"background-color:#3693D4\" alt=\"1\" height=\"32\" src=\"systems/falloutV12/assets/dice/d1.webp\" /></td><td style=\"text-align:center\">1 damage</td></tr><tr><td style=\"text-align:center\">2</td><td style=\"text-align:center\"><img style=\"background-color:#3693D4\" alt=\"1\" height=\"32\" src=\"systems/falloutV12/assets/dice/d2.webp\" /></td><td style=\"text-align:center\">2 damage</td></tr><tr><td style=\"text-align:center\">3</td><td style=\"text-align:center\"><img style=\"background-color:#3693D4\" alt=\"1\" height=\"32\" src=\"systems/falloutV12/assets/dice/d3.webp\" /></td><td style=\"text-align:center\">Nothing</td></tr><tr><td style=\"text-align:center\">4</td><td style=\"text-align:center\"><img style=\"background-color:#3693D4\" alt=\"1\" height=\"32\" src=\"systems/falloutV12/assets/dice/d4.webp\" /></td><td style=\"text-align:center\">Nothing</td></tr><tr><td style=\"text-align:center\">5</td><td style=\"text-align:center\"><img style=\"background-color:#3693D4\" alt=\"1\" height=\"32\" src=\"systems/falloutV12/assets/dice/d5.webp\" /></td><td style=\"text-align:center\">1 damage + damage effects trigger</td></tr><tr><td style=\"text-align:center\">6</td><td style=\"text-align:center\"><img style=\"background-color:#3693D4\" alt=\"1\" height=\"32\" src=\"systems/falloutV12/assets/dice/d6.webp\" /></td><td style=\"text-align:center\">1 damage + damage effects trigger</td></tr></tbody></table><p><strong>Example:</strong><em><strong> The laser gun has a damage rating of 4CD with the Piercing 1 damage effect. When the Sole Survivor hits with their laser gun, their player rolls 4 Combat Dice and totals up the result. They roll a 1, 1, 3, and a 5, inflicting 3 damage and ignoring 1 DR of their opponent’s armor.</strong></em></p><aside><p class=\"aside-title\">Sneak Attacks</p><p>If the enemy is unaware of you before you attack, the difficulty to attack them is reduced by 1 (to a minimum of 0), and your attack gains the Vicious damage effect if it did not have it already. If your attack already has the Vicious damage effect, then the damage is increased by +2CD.</p><p>If the difficulty to hit your opponent is 0, you do not need to roll to hit them, but you may still decide to do so, generating Action Points and complications as normal.</p></aside><h4>Increasing Damage</h4><p>You can increase the number of Combat Dice you roll to inflict damage with an attack by spending Action Points or ammunition, depending on the type of weapon you are using.</p><p><strong>For melee weapons (including unarmed attacks) and thrown weapons,</strong> each Action Point (AP) you spend adds +1CD to roll in your damage dice pool. You can spend up to 3 AP to increase your dice pool by up to +3CD. You can only spend AP you have saved in the group pool or generated with your attack: you cannot generate AP for the gamemaster to use this AP option.</p><p><strong>For ranged weapons,</strong> each unit of ammunition you spend adds +1CD to roll in your damage dice pool. You can spend ammunition up to the gun’s fire rate. For example, a 10mm pistol has a fire rate of 2, so you can spend 2 additional 10mm bullets to increase the Combat Dice pool. An Institute laser rifle has a fire rate of 3, so you can spend up to 3 charges from a fusion cell to increase its Combat Dice pool.</p><h3>Damage Types</h3><p>There are four damage types in <em><strong>Fallout</strong></em>: <strong>physical, energy, radiation,</strong> and <strong>poison</strong> damage.</p><p>Each weapon lists the type of damage it inflicts:</p><ul><li><p><strong>Physical:</strong> Unarmed attacks, blunt force, slashing and stabbing, ballistics.</p></li><li><p><strong>Energy:</strong> Laser, plasma, and flame weapons.</p></li><li><p><strong>Radiation:</strong> Exposure to RADs, or nuclear weaponry.</p></li><li><p><strong>Poison:</strong> Toxins, chemicals, and creatures’ stings and barbs.</p></li></ul><p>Each target has a Damage Resistance (DR) for each of these types, based on their clothing, armor, or naturally tough hides and chitin. While most forms of protection provide physical DR, energy DR is rarer, while radiation or poison protection are particularly rare.</p><h3>Damage Effects</h3><p>Damage effects augment how the damage you inflict to a target is applied. When you roll one or more CD symbols in your Combat Dice pool, all your weapon’s damage effects are triggered. Some damage effects are also based on the number of CD symbols appearing in your result, as described in each entry.</p><p>Each weapon lists its damage effects immediately after its damage rating.</p><ul><li><p><strong>Burst:</strong> The attack hits one additional target within Close range of the primary target for each Effect rolled. Each additional target spends 1 additional unit of ammunition from the weapon.</p></li><li><p><strong>Breaking:</strong> For each Effect rolled, reduce the number of DC a target’s cover provides by 1, permanently. If the target is not in cover, instead reduce the DR of the location struck by 1, according to the damage type of the weapon—physical damage only reduces physical DR, for example.</p></li><li><p><strong>Persistent:</strong> If one or more Effects are rolled, the target suffers the weapon’s damage again at the end of their next and subsequent turns, for a number of rounds equal to the number of Effects rolled. The target can spend a major action to make a test to stop persistent damage early, with the difficulty equal to the number of Effects rolled, and the attribute + skill chosen by the GM. Some Persistent weapons may inflict a different type of damage to the weapon, and where this is the case, it will be noted in brackets, for example: Persistent (Poison).</p></li><li><p><strong>Piercing X</strong>: Ignore X points of the target’s DR for each Effect rolled, where X is the rating of this damage effect.</p></li><li><p><strong>Radioactive</strong>: For every Effect rolled, the target also suffers 1 point of radiation damage. This radiation damage is totalled and applied separately, after a character has suffered the normal damage from the attack.</p></li><li><p><strong>Spread</strong>: For each Effect rolled, your attack inflicts one additional hit on the target. Each additional hit inflicts half the rolled damage (rounded down) and hits a random location even if a specific location was targeted for the initial attack.</p></li><li><p><strong>Stun</strong>: If one or more Effects are rolled, the target cannot take their normal actions on their next turn. A stunned character or creature can still spend AP to take additional actions as normal.</p></li><li><p><strong>Vicious</strong>: The attack inflicts +1 damage for each Effect rolled.</p></li></ul><h4>Radiation Damage</h4><p>Radiation damage is applied differently than other damage types. Each point of radiation damage, after reduction for the location’s radiation DR, reduces a character’s <strong>maximum health points</strong>, rather than their current health points. If a character’s health point maximum is reduced below their current health point total, then their current HP are reduced as well.</p><p>Radiation damage is only reduced by a target’s radiation Damage Resistance, according to the location hit. If the radiation would affect the whole body, like an environmental effect, then use the character or creature’s <strong>lowest</strong> locational radiation DR.</p><p>In all cases, where a character would suffer radiation damage and another type of damage at the same time, resolve the radiation damage after any other types of damage.</p><p><strong>Example:</strong><em><strong> Piper is attacked by a glowing feral ghoul, taking 3 CD radiation damage. The GM rolls their CD and totals 4 damage with an Effect, inflicting 4 physical damage and 1 radiation damage. Piper has 2 physical resistance, so she reduces her current health points by 2. Then, she reduces her maximum health points by 1 because of the radiation damage.</strong></em></p><p></p><aside><p class=\"aside-title\">Breaking Things</p><p>Inanimate objects can be damaged just like characters and creatures. Most of the time, the GM handles damage to your surroundings as part of the descriptions of the environment—stray bullets breaking glass, splintering wood, or ricocheting from steel—but there are times where breaking an object is the point, rather than purely descriptive.</p><p>Damaging an object works just the same as damaging a character: roll to hit, roll the weapon’s CD damage rating, subtract the object’s damage resistance, and reduce its health.</p><p>The GM provides damage resistance and health for the object you’re trying to break. If you inflict a critical hit on an object—by inflicting 5 or more damage at once—you’ve broken it. Especially large objects, like vehicles, may have multiple locations which can be hit and broken, and they are destroyed when all their locations are broken.</p></aside>",
 						"format": 1,
 						"markdown": ""
 					},

@@ -4,7 +4,7 @@
 	"effects": [
 	],
 	"folder": null,
-	"img": "systems/fallout/assets/icons/items/perk.svg",
+	"img": "systems/falloutV12/assets/icons/items/perk.svg",
 	"name": "Adrenalin Rush",
 	"system": {
 		"description": "<p>When your health is below its maximum value, you count your STR score as 10 for all purposes when attempting a STR-based skill test or melee attack.</p>\n<p><strong>Requirements</strong>: STR 7</p>",

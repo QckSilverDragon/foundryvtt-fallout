@@ -4,7 +4,7 @@
 	"effects": [
 	],
 	"folder": "zY0rwlqXY0Yb7tFp",
-	"img": "systems/fallout/assets/icons/items/perk.svg",
+	"img": "systems/falloutV12/assets/icons/items/perk.svg",
 	"name": "Tomorrow's Technology for Today's Super Soldiers",
 	"system": {
 		"description": "<p>After spending a fusion core charge, you may spend 1 Luck point: if you do so the charge is not spent</p>",

@@ -4,7 +4,7 @@
 	"effects": [
 	],
 	"folder": "dFCoGx8Inb2YiPBZ",
-	"img": "systems/fallout/assets/icons/items/perk.svg",
+	"img": "systems/falloutV12/assets/icons/items/perk.svg",
 	"name": "Farming the Wastes",
 	"system": {
 		"description": "<p>Consuming a fruit or vegetable food item heals twice as many HP</p>",

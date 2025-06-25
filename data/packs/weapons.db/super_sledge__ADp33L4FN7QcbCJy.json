@@ -4,7 +4,7 @@
 	"effects": [
 	],
 	"folder": "8HBxoFI4IGjaL6eX",
-	"img": "systems/fallout/assets/icons/items/weapon.svg",
+	"img": "systems/falloutV12/assets/icons/items/weapon.svg",
 	"name": "Super Sledge",
 	"system": {
 		"ammo": "",
@@ -212,7 +212,7 @@
 				"flags": {
 				},
 				"folder": "h90MorifUQMpngiI",
-				"img": "systems/fallout/assets/icons/items/weapon_mod.svg",
+				"img": "systems/falloutV12/assets/icons/items/weapon_mod.svg",
 				"name": "Stun Pack",
 				"ownership": {
 					"default": 0
@@ -432,7 +432,7 @@
 				"flags": {
 				},
 				"folder": "h90MorifUQMpngiI",
-				"img": "systems/fallout/assets/icons/items/weapon_mod.svg",
+				"img": "systems/falloutV12/assets/icons/items/weapon_mod.svg",
 				"name": "Heating Coil",
 				"ownership": {
 					"default": 0

@@ -4,7 +4,7 @@
 	"effects": [
 	],
 	"folder": "5yHGwteuEGVE1Vrk",
-	"img": "systems/fallout/assets/icons/items/weapon_mod.svg",
+	"img": "systems/falloutV12/assets/icons/items/weapon_mod.svg",
 	"name": "Stealth Blade",
 	"system": {
 		"attachable": true,

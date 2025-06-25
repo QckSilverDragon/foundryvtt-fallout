@@ -9,7 +9,7 @@ export default class FalloutLoading extends Application {
 	}
 
 	get template() {
-		return "systems/fallout/templates/apps/loading.hbs";
+		return "systems/falloutV12/templates/apps/loading.hbs";
 	}
 
 	get title() {

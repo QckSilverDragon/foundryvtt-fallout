@@ -4,7 +4,7 @@
 	"effects": [
 	],
 	"folder": null,
-	"img": "systems/fallout/assets/icons/items/addiction.svg",
+	"img": "systems/falloutV12/assets/icons/items/addiction.svg",
 	"name": "Overdrive",
 	"system": {
 		"description": "<p>You increase the difficulty of all <strong>STR</strong> and <strong>AGI</strong> tests by +1 whenever you are not under the effects of Overdrive.</p>",

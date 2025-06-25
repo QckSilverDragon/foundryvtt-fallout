@@ -4,7 +4,7 @@
 	"effects": [
 	],
 	"folder": "x1P0jevw8Gl185wf",
-	"img": "systems/fallout/assets/icons/items/weapon_mod.svg",
+	"img": "systems/falloutV12/assets/icons/items/weapon_mod.svg",
 	"name": "Quick-Eject Mag",
 	"system": {
 		"attachable": true,

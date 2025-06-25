@@ -4,7 +4,7 @@
 	"effects": [
 	],
 	"folder": null,
-	"img": "systems/fallout/assets/icons/items/perk.svg",
+	"img": "systems/falloutV12/assets/icons/items/perk.svg",
 	"name": "Robotics Expert",
 	"system": {
 		"description": "<p>At rank 1, you can modify robot armor, weapon mounts, and modules with rank 1 mods. At rank 2 you gain access to rank 2 mods, and the difficulty of tests to repair robots is permanently reduced by 1. At rank 3 you gain access to rank 3 mods, and you can reprogram robots to fulfil a different function or alter their behavior at the discretion of the GM.</p>\n<p>Each time you take this perk, the level requirement increases by 4.</p>\n<p><strong>Requirements</strong>: INT 8, Level 2+</p>",

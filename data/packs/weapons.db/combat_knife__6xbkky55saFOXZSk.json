@@ -4,7 +4,7 @@
 	"effects": [
 	],
 	"folder": "8HBxoFI4IGjaL6eX",
-	"img": "systems/fallout/assets/icons/items/weapon.svg",
+	"img": "systems/falloutV12/assets/icons/items/weapon.svg",
 	"name": "Combat Knife",
 	"system": {
 		"ammo": "",
@@ -212,7 +212,7 @@
 				"flags": {
 				},
 				"folder": "5yHGwteuEGVE1Vrk",
-				"img": "systems/fallout/assets/icons/items/weapon_mod.svg",
+				"img": "systems/falloutV12/assets/icons/items/weapon_mod.svg",
 				"name": "Serrated Blade",
 				"ownership": {
 					"default": 0
@@ -431,7 +431,7 @@
 				"flags": {
 				},
 				"folder": "5yHGwteuEGVE1Vrk",
-				"img": "systems/fallout/assets/icons/items/weapon_mod.svg",
+				"img": "systems/falloutV12/assets/icons/items/weapon_mod.svg",
 				"name": "Stealth Blade",
 				"ownership": {
 					"default": 0

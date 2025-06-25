@@ -4,7 +4,7 @@
 	"effects": [
 	],
 	"folder": null,
-	"img": "systems/fallout/assets/icons/items/perk.svg",
+	"img": "systems/falloutV12/assets/icons/items/perk.svg",
 	"name": "Heave Ho!",
 	"system": {
 		"description": "<p>When you make a thrown weapon attack, you may spend 1 AP to increase the Range of the weapon by one step&mdash;from Close to Medium, or from Medium to Long.</p>\n<p><strong>Requirements</strong>: STR 8</p>",

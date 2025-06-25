@@ -4,7 +4,7 @@
 	"effects": [
 	],
 	"folder": "sFnAMjOd2fTxG5bA",
-	"img": "systems/fallout/assets/icons/items/weapon_mod.svg",
+	"img": "systems/falloutV12/assets/icons/items/weapon_mod.svg",
 	"name": "Extra Heavy",
 	"system": {
 		"attachable": true,

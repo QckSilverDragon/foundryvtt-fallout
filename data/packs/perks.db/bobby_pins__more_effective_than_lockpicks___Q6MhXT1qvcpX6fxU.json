@@ -4,7 +4,7 @@
 	"effects": [
 	],
 	"folder": "lGOBRrvW0XU5E6o8",
-	"img": "systems/fallout/assets/icons/items/perk.svg",
+	"img": "systems/falloutV12/assets/icons/items/perk.svg",
 	"name": "Bobby Pins: More Effective Than Lockpicks?",
 	"system": {
 		"description": "<p>When using a Bobby Pin, reduce the difficulty of a Lockpicking test by a further 1 (minimum 0)</p>",

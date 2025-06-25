@@ -4,7 +4,7 @@
 	"effects": [
 	],
 	"folder": "IoEvCm1c8TK0ekL7",
-	"img": "systems/fallout/assets/icons/items/perk.svg",
+	"img": "systems/falloutV12/assets/icons/items/perk.svg",
 	"name": "Tales of a Junktown Jerky Vendor",
 	"system": {
 		"description": "<p>Once, when you succeed or fail at a Barter test to haggle on the price of a trade, you may spend 1 Luck point to shift the price 10% in your favor.</p>",

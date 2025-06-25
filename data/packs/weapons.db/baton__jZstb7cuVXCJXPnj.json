@@ -4,7 +4,7 @@
 	"effects": [
 	],
 	"folder": "8HBxoFI4IGjaL6eX",
-	"img": "systems/fallout/assets/icons/items/weapon.svg",
+	"img": "systems/falloutV12/assets/icons/items/weapon.svg",
 	"name": "Baton",
 	"system": {
 		"ammo": "",
@@ -212,7 +212,7 @@
 				"flags": {
 				},
 				"folder": "pzodZYsC8tEPTWGH",
-				"img": "systems/fallout/assets/icons/items/weapon_mod.svg",
+				"img": "systems/falloutV12/assets/icons/items/weapon_mod.svg",
 				"name": "Stun Pack",
 				"ownership": {
 					"default": 0
@@ -436,7 +436,7 @@
 				"flags": {
 				},
 				"folder": "pzodZYsC8tEPTWGH",
-				"img": "systems/fallout/assets/icons/items/weapon_mod.svg",
+				"img": "systems/falloutV12/assets/icons/items/weapon_mod.svg",
 				"name": "Electrified",
 				"ownership": {
 					"default": 0

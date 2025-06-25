@@ -4,7 +4,7 @@
 	"effects": [
 	],
 	"folder": null,
-	"img": "systems/fallout/assets/icons/items/perk.svg",
+	"img": "systems/falloutV12/assets/icons/items/perk.svg",
 	"name": "Quick Hands",
 	"system": {
 		"description": "<p>You can reload firearms faster. When you make a ranged attack, you may spend 2 AP to increase the Fire Rate of your gun by +2 for that attack.</p>\n<p><strong>Requirements</strong>: AGI 8</p>",

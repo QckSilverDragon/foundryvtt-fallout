@@ -4,7 +4,7 @@
 	"effects": [
 	],
 	"folder": "ScE7hQRRuS1o4Kau",
-	"img": "systems/fallout/assets/icons/items/weapon.svg",
+	"img": "systems/falloutV12/assets/icons/items/weapon.svg",
 	"name": "Laser Musket",
 	"system": {
 		"ammo": "Fusion Cell",
@@ -212,7 +212,7 @@
 				"flags": {
 				},
 				"folder": "BGxwoJXEELKGsKXk",
-				"img": "systems/fallout/assets/icons/items/weapon_mod.svg",
+				"img": "systems/falloutV12/assets/icons/items/weapon_mod.svg",
 				"name": "Four-Crank Capacitor",
 				"ownership": {
 					"default": 0
@@ -431,7 +431,7 @@
 				"flags": {
 				},
 				"folder": "hLOWqs3EQrgXutZr",
-				"img": "systems/fallout/assets/icons/items/weapon_mod.svg",
+				"img": "systems/falloutV12/assets/icons/items/weapon_mod.svg",
 				"name": "Bracketed Short Barrel",
 				"ownership": {
 					"default": 0
@@ -650,7 +650,7 @@
 				"flags": {
 				},
 				"folder": "vnStsIp1P4oNrgWt",
-				"img": "systems/fallout/assets/icons/items/weapon_mod.svg",
+				"img": "systems/falloutV12/assets/icons/items/weapon_mod.svg",
 				"name": "Full Stock",
 				"ownership": {
 					"default": 0
@@ -869,7 +869,7 @@
 				"flags": {
 				},
 				"folder": "o6k96ORDTHXKtOxM",
-				"img": "systems/fallout/assets/icons/items/weapon_mod.svg",
+				"img": "systems/falloutV12/assets/icons/items/weapon_mod.svg",
 				"name": "Beam Splitter",
 				"ownership": {
 					"default": 0
@@ -1088,7 +1088,7 @@
 				"flags": {
 				},
 				"folder": "hLOWqs3EQrgXutZr",
-				"img": "systems/fallout/assets/icons/items/weapon_mod.svg",
+				"img": "systems/falloutV12/assets/icons/items/weapon_mod.svg",
 				"name": "Bracketed Long Barrel",
 				"ownership": {
 					"default": 0
@@ -1307,7 +1307,7 @@
 				"flags": {
 				},
 				"folder": "hLOWqs3EQrgXutZr",
-				"img": "systems/fallout/assets/icons/items/weapon_mod.svg",
+				"img": "systems/falloutV12/assets/icons/items/weapon_mod.svg",
 				"name": "Long Barrel",
 				"ownership": {
 					"default": 0
@@ -1526,7 +1526,7 @@
 				"flags": {
 				},
 				"folder": "o6k96ORDTHXKtOxM",
-				"img": "systems/fallout/assets/icons/items/weapon_mod.svg",
+				"img": "systems/falloutV12/assets/icons/items/weapon_mod.svg",
 				"name": "Gyro Compensating Lens",
 				"ownership": {
 					"default": 0
@@ -1745,7 +1745,7 @@
 				"flags": {
 				},
 				"folder": "fMIRovgs2p0cBYIe",
-				"img": "systems/fallout/assets/icons/items/weapon_mod.svg",
+				"img": "systems/falloutV12/assets/icons/items/weapon_mod.svg",
 				"name": "Long Scope",
 				"ownership": {
 					"default": 0
@@ -1965,7 +1965,7 @@
 				"flags": {
 				},
 				"folder": "fMIRovgs2p0cBYIe",
-				"img": "systems/fallout/assets/icons/items/weapon_mod.svg",
+				"img": "systems/falloutV12/assets/icons/items/weapon_mod.svg",
 				"name": "Recon Scope",
 				"ownership": {
 					"default": 0
@@ -2184,7 +2184,7 @@
 				"flags": {
 				},
 				"folder": "fMIRovgs2p0cBYIe",
-				"img": "systems/fallout/assets/icons/items/weapon_mod.svg",
+				"img": "systems/falloutV12/assets/icons/items/weapon_mod.svg",
 				"name": "Short Scope",
 				"ownership": {
 					"default": 0
@@ -2403,7 +2403,7 @@
 				"flags": {
 				},
 				"folder": "BGxwoJXEELKGsKXk",
-				"img": "systems/fallout/assets/icons/items/weapon_mod.svg",
+				"img": "systems/falloutV12/assets/icons/items/weapon_mod.svg",
 				"name": "Five-Crank Capacitor",
 				"ownership": {
 					"default": 0
@@ -2626,7 +2626,7 @@
 				"flags": {
 				},
 				"folder": "o6k96ORDTHXKtOxM",
-				"img": "systems/fallout/assets/icons/items/weapon_mod.svg",
+				"img": "systems/falloutV12/assets/icons/items/weapon_mod.svg",
 				"name": "Beam Focuser",
 				"ownership": {
 					"default": 0
@@ -2845,7 +2845,7 @@
 				"flags": {
 				},
 				"folder": "fMIRovgs2p0cBYIe",
-				"img": "systems/fallout/assets/icons/items/weapon_mod.svg",
+				"img": "systems/falloutV12/assets/icons/items/weapon_mod.svg",
 				"name": "Long Night Vision Scope",
 				"ownership": {
 					"default": 0
@@ -3064,7 +3064,7 @@
 				"flags": {
 				},
 				"folder": "fMIRovgs2p0cBYIe",
-				"img": "systems/fallout/assets/icons/items/weapon_mod.svg",
+				"img": "systems/falloutV12/assets/icons/items/weapon_mod.svg",
 				"name": "Reflex Sight",
 				"ownership": {
 					"default": 0
@@ -3283,7 +3283,7 @@
 				"flags": {
 				},
 				"folder": "BGxwoJXEELKGsKXk",
-				"img": "systems/fallout/assets/icons/items/weapon_mod.svg",
+				"img": "systems/falloutV12/assets/icons/items/weapon_mod.svg",
 				"name": "Three-Crank Capacitor",
 				"ownership": {
 					"default": 0
@@ -3502,7 +3502,7 @@
 				"flags": {
 				},
 				"folder": "fMIRovgs2p0cBYIe",
-				"img": "systems/fallout/assets/icons/items/weapon_mod.svg",
+				"img": "systems/falloutV12/assets/icons/items/weapon_mod.svg",
 				"name": "Short Night Vision Scope",
 				"ownership": {
 					"default": 0
@@ -3721,7 +3721,7 @@
 				"flags": {
 				},
 				"folder": "BGxwoJXEELKGsKXk",
-				"img": "systems/fallout/assets/icons/items/weapon_mod.svg",
+				"img": "systems/falloutV12/assets/icons/items/weapon_mod.svg",
 				"name": "Six-Crank Capacitor",
 				"ownership": {
 					"default": 0

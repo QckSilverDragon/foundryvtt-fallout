@@ -4,7 +4,7 @@
 	"effects": [
 	],
 	"folder": "IoEvCm1c8TK0ekL7",
-	"img": "systems/fallout/assets/icons/items/perk.svg",
+	"img": "systems/falloutV12/assets/icons/items/perk.svg",
 	"name": "¡La Fantoma!",
 	"system": {
 		"description": "<p>When you succeed at a <strong>Sneak</strong> test to avoid notice, you may spend 1 AP to create a distraction somewhere within Medium range; the character who failed the opposed test to detect you heads towards the distraction you created. If you learn this perk, you may use it once per scene.</p>",

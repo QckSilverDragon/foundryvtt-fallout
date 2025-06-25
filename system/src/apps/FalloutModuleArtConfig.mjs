@@ -18,7 +18,7 @@ export class FalloutModuleArtConfig extends FormApplication {
 	static get defaultOptions() {
 		return foundry.utils.mergeObject(super.defaultOptions, {
 			title: game.i18n.localize("FALLOUT.APP.ModuleArtConfig.title"),
-			template: "systems/fallout/templates/apps/module-art-config.hbs",
+			template: "systems/falloutV12/templates/apps/module-art-config.hbs",
 			popOut: true,
 			width: 600,
 			height: "auto",

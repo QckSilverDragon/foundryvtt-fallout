@@ -4,7 +4,7 @@
 	"effects": [
 	],
 	"folder": "OvlGhKtZemOqxcAN",
-	"img": "systems/fallout/assets/icons/items/apparel_mod.svg",
+	"img": "systems/falloutV12/assets/icons/items/apparel_mod.svg",
 	"name": "T-60d Arm",
 	"system": {
 		"apparelType": "powerArmor",

@@ -4,7 +4,7 @@
 	"effects": [
 	],
 	"folder": "W28sa1G86XSoOGE3",
-	"img": "systems/fallout/assets/icons/items/weapon_mod.svg",
+	"img": "systems/falloutV12/assets/icons/items/weapon_mod.svg",
 	"name": "Electric Signal Carrier Antennae",
 	"system": {
 		"attachable": true,

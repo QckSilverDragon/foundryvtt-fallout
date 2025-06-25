@@ -4,7 +4,7 @@
 	"effects": [
 	],
 	"folder": "8HBxoFI4IGjaL6eX",
-	"img": "systems/fallout/assets/icons/items/weapon.svg",
+	"img": "systems/falloutV12/assets/icons/items/weapon.svg",
 	"name": "Knuckles",
 	"system": {
 		"ammo": "",
@@ -212,7 +212,7 @@
 				"flags": {
 				},
 				"folder": "6nnTrN2wU5QvWzgG",
-				"img": "systems/fallout/assets/icons/items/weapon_mod.svg",
+				"img": "systems/falloutV12/assets/icons/items/weapon_mod.svg",
 				"name": "Puncturing",
 				"ownership": {
 					"default": 0
@@ -431,7 +431,7 @@
 				"flags": {
 				},
 				"folder": "6nnTrN2wU5QvWzgG",
-				"img": "systems/fallout/assets/icons/items/weapon_mod.svg",
+				"img": "systems/falloutV12/assets/icons/items/weapon_mod.svg",
 				"name": "Bladed",
 				"ownership": {
 					"default": 0
@@ -651,7 +651,7 @@
 				"flags": {
 				},
 				"folder": "6nnTrN2wU5QvWzgG",
-				"img": "systems/fallout/assets/icons/items/weapon_mod.svg",
+				"img": "systems/falloutV12/assets/icons/items/weapon_mod.svg",
 				"name": "Spiked",
 				"ownership": {
 					"default": 0
@@ -870,7 +870,7 @@
 				"flags": {
 				},
 				"folder": "6nnTrN2wU5QvWzgG",
-				"img": "systems/fallout/assets/icons/items/weapon_mod.svg",
+				"img": "systems/falloutV12/assets/icons/items/weapon_mod.svg",
 				"name": "Sharp",
 				"ownership": {
 					"default": 0

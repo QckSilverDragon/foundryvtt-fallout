@@ -4,7 +4,7 @@
 	"effects": [
 	],
 	"folder": "Brw4U78MHdGIsy7A",
-	"img": "systems/fallout/assets/icons/items/weapon_mod.svg",
+	"img": "systems/falloutV12/assets/icons/items/weapon_mod.svg",
 	"name": "Long Scope",
 	"system": {
 		"attachable": true,

@@ -4,7 +4,7 @@
 	"effects": [
 	],
 	"folder": "RwWkQc5BwplK8JXh",
-	"img": "systems/fallout/assets/icons/items/weapon.svg",
+	"img": "systems/falloutV12/assets/icons/items/weapon.svg",
 	"name": "Plasma Grenade",
 	"system": {
 		"ammo": "Plasma Grenade",

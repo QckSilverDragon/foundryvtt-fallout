@@ -27,7 +27,7 @@ export default class SalvageJunk extends FormApplication {
 
 	/** @inheritdoc */
 	get template() {
-		return "systems/fallout/templates/apps/salvage-junk.hbs";
+		return "systems/falloutV12/templates/apps/salvage-junk.hbs";
 	}
 
 	/** @inheritdoc */
@@ -182,7 +182,7 @@ export default class SalvageJunk extends FormApplication {
 
 		// Send a chat message
 		const content = await renderTemplate(
-			"systems/fallout/templates/chat/salvage-results.hbs",
+			"systems/falloutV12/templates/chat/salvage-results.hbs",
 			rollData
 		);
 

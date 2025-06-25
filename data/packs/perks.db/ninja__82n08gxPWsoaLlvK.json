@@ -4,7 +4,7 @@
 	"effects": [
 	],
 	"folder": null,
-	"img": "systems/fallout/assets/icons/items/perk.svg",
+	"img": "systems/falloutV12/assets/icons/items/perk.svg",
 	"name": "Ninja",
 	"system": {
 		"description": "<p>When you make a sneak attack with a melee weapon or unarmed attack, the damage is increased by +2 CD. You cannot gain this benefit while in Power Armor.</p>\n<p><strong>Requirements</strong>: AGI 8</p>",

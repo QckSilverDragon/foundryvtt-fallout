@@ -4,7 +4,7 @@
 	"effects": [
 	],
 	"folder": "mtR30GikhQq9bCZw",
-	"img": "systems/fallout/assets/icons/items/apparel.svg",
+	"img": "systems/falloutV12/assets/icons/items/apparel.svg",
 	"name": "Vault Jumpsuit",
 	"system": {
 		"apparelType": "clothing",
@@ -47,7 +47,7 @@
 				"flags": {
 				},
 				"folder": "nFPmNkzi1jEUkhZm",
-				"img": "systems/fallout/assets/icons/items/apparel_mod.svg",
+				"img": "systems/falloutV12/assets/icons/items/apparel_mod.svg",
 				"name": "Resistant Lining",
 				"ownership": {
 					"default": 0
@@ -101,7 +101,7 @@
 				"flags": {
 				},
 				"folder": "zV91jOW1G58krnbG",
-				"img": "systems/fallout/assets/icons/items/apparel_mod.svg",
+				"img": "systems/falloutV12/assets/icons/items/apparel_mod.svg",
 				"name": "Ballistic Weave Mk II",
 				"ownership": {
 					"default": 0
@@ -155,7 +155,7 @@
 				"flags": {
 				},
 				"folder": "zV91jOW1G58krnbG",
-				"img": "systems/fallout/assets/icons/items/apparel_mod.svg",
+				"img": "systems/falloutV12/assets/icons/items/apparel_mod.svg",
 				"name": "Ballistic Weave",
 				"ownership": {
 					"default": 0
@@ -209,7 +209,7 @@
 				"flags": {
 				},
 				"folder": "nFPmNkzi1jEUkhZm",
-				"img": "systems/fallout/assets/icons/items/apparel_mod.svg",
+				"img": "systems/falloutV12/assets/icons/items/apparel_mod.svg",
 				"name": "Shielded Lining",
 				"ownership": {
 					"default": 0
@@ -264,7 +264,7 @@
 				"flags": {
 				},
 				"folder": "nFPmNkzi1jEUkhZm",
-				"img": "systems/fallout/assets/icons/items/apparel_mod.svg",
+				"img": "systems/falloutV12/assets/icons/items/apparel_mod.svg",
 				"name": "Treated Lining",
 				"ownership": {
 					"default": 0
@@ -318,7 +318,7 @@
 				"flags": {
 				},
 				"folder": "zV91jOW1G58krnbG",
-				"img": "systems/fallout/assets/icons/items/apparel_mod.svg",
+				"img": "systems/falloutV12/assets/icons/items/apparel_mod.svg",
 				"name": "Ballistic Weave Mk V",
 				"ownership": {
 					"default": 0
@@ -372,7 +372,7 @@
 				"flags": {
 				},
 				"folder": "zV91jOW1G58krnbG",
-				"img": "systems/fallout/assets/icons/items/apparel_mod.svg",
+				"img": "systems/falloutV12/assets/icons/items/apparel_mod.svg",
 				"name": "Ballistic Weave Mk IV",
 				"ownership": {
 					"default": 0
@@ -426,7 +426,7 @@
 				"flags": {
 				},
 				"folder": "nFPmNkzi1jEUkhZm",
-				"img": "systems/fallout/assets/icons/items/apparel_mod.svg",
+				"img": "systems/falloutV12/assets/icons/items/apparel_mod.svg",
 				"name": "Protective Lining",
 				"ownership": {
 					"default": 0
@@ -481,7 +481,7 @@
 				"flags": {
 				},
 				"folder": "zV91jOW1G58krnbG",
-				"img": "systems/fallout/assets/icons/items/apparel_mod.svg",
+				"img": "systems/falloutV12/assets/icons/items/apparel_mod.svg",
 				"name": "Ballistic Weave Mk III",
 				"ownership": {
 					"default": 0
@@ -538,7 +538,7 @@
 				"flags": {
 				},
 				"folder": "nFPmNkzi1jEUkhZm",
-				"img": "systems/fallout/assets/icons/items/apparel_mod.svg",
+				"img": "systems/falloutV12/assets/icons/items/apparel_mod.svg",
 				"name": "Insulated Lining",
 				"ownership": {
 					"default": 0

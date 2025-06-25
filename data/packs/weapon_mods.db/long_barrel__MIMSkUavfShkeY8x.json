@@ -4,7 +4,7 @@
 	"effects": [
 	],
 	"folder": "hLOWqs3EQrgXutZr",
-	"img": "systems/fallout/assets/icons/items/weapon_mod.svg",
+	"img": "systems/falloutV12/assets/icons/items/weapon_mod.svg",
 	"name": "Long Barrel",
 	"system": {
 		"attachable": true,
