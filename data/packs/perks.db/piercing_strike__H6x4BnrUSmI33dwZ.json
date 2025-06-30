@@ -4,7 +4,7 @@
 	"effects": [
 	],
 	"folder": null,
-	"img": "systems/fallout/assets/icons/items/perk.svg",
+	"img": "systems/falloutV12/assets/icons/items/perk.svg",
 	"name": "Piercing Strike",
 	"system": {
 		"description": "<p>Your attacks using unarmed attacks and bladed melee weapons gain the Piercing 1 damage effect, or add +1 to the rating of any Piercing X damage effect they already had.</p>\n<p><strong>Requirements</strong>: STR 7</p>",

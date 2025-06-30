@@ -31,42 +31,42 @@ export default class FalloutChat {
 
 	static async renderGeneralMessage(actor, data, mode) {
 		this._renderChatMessage(actor, data,
-			"systems/fallout/templates/chat/general.hbs",
+			"systems/falloutV12/templates/chat/general.hbs",
 			mode
 		);
 	}
 
 	static async renderConditionChangeMessage(actor, data, mode) {
 		this._renderChatMessage(actor, data,
-			"systems/fallout/templates/chat/condition-change.hbs",
+			"systems/falloutV12/templates/chat/condition-change.hbs",
 			mode
 		);
 	}
 
 	static async renderConsumptionMessage(actor, data, mode) {
 		this._renderChatMessage(actor, data,
-			"systems/fallout/templates/chat/consumption.hbs",
+			"systems/falloutV12/templates/chat/consumption.hbs",
 			mode
 		);
 	}
 
 	static async renderPartySleepMessage(data, mode) {
 		this._renderChatMessage(null, data,
-			"systems/fallout/templates/chat/party-sleep.hbs",
+			"systems/falloutV12/templates/chat/party-sleep.hbs",
 			mode
 		);
 	}
 
 	static async renderReadMagazineMessage(actor, data, mode) {
 		this._renderChatMessage(actor, data,
-			"systems/fallout/templates/chat/read-magazine.hbs",
+			"systems/falloutV12/templates/chat/read-magazine.hbs",
 			mode
 		);
 	}
 
 	static async renderResetLuckPointsMessage(data, mode) {
 		this._renderChatMessage(null, data,
-			"systems/fallout/templates/chat/reset-luck-points.hbs",
+			"systems/falloutV12/templates/chat/reset-luck-points.hbs",
 			mode
 		);
 	}

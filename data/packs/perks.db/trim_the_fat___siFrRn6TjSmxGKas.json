@@ -4,7 +4,7 @@
 	"effects": [
 	],
 	"folder": "254i0e4Wc0Rhv6gc",
-	"img": "systems/fallout/assets/icons/items/perk.svg",
+	"img": "systems/falloutV12/assets/icons/items/perk.svg",
 	"name": "Trim the Fat!",
 	"system": {
 		"description": "<p>Regain twice as many HP from fruit or vegetables eaten in one scene</p>",

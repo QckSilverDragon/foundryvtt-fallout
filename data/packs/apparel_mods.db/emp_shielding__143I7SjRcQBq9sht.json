@@ -4,7 +4,7 @@
 	"effects": [
 	],
 	"folder": "mMrg0X7SR8UJDXyE",
-	"img": "systems/fallout/assets/icons/items/apparel_mod.svg",
+	"img": "systems/falloutV12/assets/icons/items/apparel_mod.svg",
 	"name": "EMP Shielding",
 	"system": {
 		"apparelType": "powerArmor",

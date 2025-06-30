@@ -4,7 +4,7 @@
 	"effects": [
 	],
 	"folder": null,
-	"img": "systems/fallout/assets/icons/items/perk.svg",
+	"img": "systems/falloutV12/assets/icons/items/perk.svg",
 	"name": "Grim Reaper's Sprint",
 	"system": {
 		"description": "<p>When you make an attack which kills one or more enemies, roll 1DCD. If you roll an Effect, add 2 AP to the group&rsquo;s pool.</p>\n<p><strong>Requirements</strong>: LCK 8</p>",

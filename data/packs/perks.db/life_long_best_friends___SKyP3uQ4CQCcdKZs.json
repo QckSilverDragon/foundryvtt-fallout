@@ -4,7 +4,7 @@
 	"effects": [
 	],
 	"folder": "254i0e4Wc0Rhv6gc",
-	"img": "systems/fallout/assets/icons/items/perk.svg",
+	"img": "systems/falloutV12/assets/icons/items/perk.svg",
 	"name": "Life Long Best Friends!",
 	"system": {
 		"description": "<p>+1 Maximum Health Points to all party members for one scene</p>",

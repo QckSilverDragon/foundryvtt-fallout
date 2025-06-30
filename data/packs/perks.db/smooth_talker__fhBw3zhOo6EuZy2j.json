@@ -4,7 +4,7 @@
 	"effects": [
 	],
 	"folder": null,
-	"img": "systems/fallout/assets/icons/items/perk.svg",
+	"img": "systems/falloutV12/assets/icons/items/perk.svg",
 	"name": "Smooth Talker",
 	"system": {
 		"description": "<p>When you make a Barter or Speech test as part of an opposed test, you may re-roll 1d20.</p>\n<p><strong>Requirements</strong>: CHA 6</p>",

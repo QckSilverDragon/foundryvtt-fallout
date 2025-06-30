@@ -4,7 +4,7 @@
 	"effects": [
 	],
 	"folder": null,
-	"img": "systems/fallout/assets/icons/items/perk.svg",
+	"img": "systems/falloutV12/assets/icons/items/perk.svg",
 	"name": "Healer",
 	"system": {
 		"description": "<p>When you heal a patient&rsquo;s HP using the First Aid action, increase the amount of HP healed by +1 per rank in this perk. Each time you take this perk, the level requirement increases by 5.</p>\n<p><strong>Requirements</strong>: INT 7, Level 1+</p>",

@@ -4,7 +4,7 @@
 	"effects": [
 	],
 	"folder": null,
-	"img": "systems/fallout/assets/icons/items/perk.svg",
+	"img": "systems/falloutV12/assets/icons/items/perk.svg",
 	"name": "Hacker",
 	"system": {
 		"description": "<p>The difficulty of skill tests to hack computers is decreased by 1, to a minimum of 0.</p>\n<p><strong>Requirements</strong>: INT 8</p>",

@@ -4,7 +4,7 @@
 	"effects": [
 	],
 	"folder": "Fvz7mUEk61qB057V",
-	"img": "systems/fallout/assets/icons/items/weapon.svg",
+	"img": "systems/falloutV12/assets/icons/items/weapon.svg",
 	"name": "Gauss Rifle",
 	"system": {
 		"ammo": "2mm Electromagnetic Cartridge",
@@ -212,7 +212,7 @@
 				"flags": {
 				},
 				"folder": "FsftjyUpE5iKkHY3",
-				"img": "systems/fallout/assets/icons/items/weapon_mod.svg",
+				"img": "systems/falloutV12/assets/icons/items/weapon_mod.svg",
 				"name": "Capacitor Boosting Coil",
 				"ownership": {
 					"default": 0
@@ -431,7 +431,7 @@
 				"flags": {
 				},
 				"folder": "Brw4U78MHdGIsy7A",
-				"img": "systems/fallout/assets/icons/items/weapon_mod.svg",
+				"img": "systems/falloutV12/assets/icons/items/weapon_mod.svg",
 				"name": "Recon Scope",
 				"ownership": {
 					"LbffuJGmFEdJvA7X": 3,
@@ -651,7 +651,7 @@
 				"flags": {
 				},
 				"folder": "Brw4U78MHdGIsy7A",
-				"img": "systems/fallout/assets/icons/items/weapon_mod.svg",
+				"img": "systems/falloutV12/assets/icons/items/weapon_mod.svg",
 				"name": "Short Scope",
 				"ownership": {
 					"default": 0
@@ -870,7 +870,7 @@
 				"flags": {
 				},
 				"folder": "FsftjyUpE5iKkHY3",
-				"img": "systems/fallout/assets/icons/items/weapon_mod.svg",
+				"img": "systems/falloutV12/assets/icons/items/weapon_mod.svg",
 				"name": "Full Capacitors",
 				"ownership": {
 					"default": 0
@@ -1090,7 +1090,7 @@
 				"flags": {
 				},
 				"folder": "KFg4RIFxfyGL2Afb",
-				"img": "systems/fallout/assets/icons/items/weapon_mod.svg",
+				"img": "systems/falloutV12/assets/icons/items/weapon_mod.svg",
 				"name": "Suppressor",
 				"ownership": {
 					"default": 0
@@ -1309,7 +1309,7 @@
 				"flags": {
 				},
 				"folder": "FyM7apyr7UNUi2nF",
-				"img": "systems/fallout/assets/icons/items/weapon_mod.svg",
+				"img": "systems/falloutV12/assets/icons/items/weapon_mod.svg",
 				"name": "Shielded Barrel",
 				"ownership": {
 					"default": 0
@@ -1532,7 +1532,7 @@
 				"flags": {
 				},
 				"folder": "DNGfd7QeFaSwX9WC",
-				"img": "systems/fallout/assets/icons/items/weapon_mod.svg",
+				"img": "systems/falloutV12/assets/icons/items/weapon_mod.svg",
 				"name": "Recoil Compensating Stock",
 				"ownership": {
 					"default": 0
@@ -1751,7 +1751,7 @@
 				"flags": {
 				},
 				"folder": "Brw4U78MHdGIsy7A",
-				"img": "systems/fallout/assets/icons/items/weapon_mod.svg",
+				"img": "systems/falloutV12/assets/icons/items/weapon_mod.svg",
 				"name": "Reflex Sight",
 				"ownership": {
 					"default": 0
@@ -1970,7 +1970,7 @@
 				"flags": {
 				},
 				"folder": "Brw4U78MHdGIsy7A",
-				"img": "systems/fallout/assets/icons/items/weapon_mod.svg",
+				"img": "systems/falloutV12/assets/icons/items/weapon_mod.svg",
 				"name": "Long Scope",
 				"ownership": {
 					"LbffuJGmFEdJvA7X": 3,
@@ -2190,7 +2190,7 @@
 				"flags": {
 				},
 				"folder": "Brw4U78MHdGIsy7A",
-				"img": "systems/fallout/assets/icons/items/weapon_mod.svg",
+				"img": "systems/falloutV12/assets/icons/items/weapon_mod.svg",
 				"name": "Short Night Vision Scope",
 				"ownership": {
 					"default": 0
@@ -2409,7 +2409,7 @@
 				"flags": {
 				},
 				"folder": "Brw4U78MHdGIsy7A",
-				"img": "systems/fallout/assets/icons/items/weapon_mod.svg",
+				"img": "systems/falloutV12/assets/icons/items/weapon_mod.svg",
 				"name": "Long Night Vision Scope",
 				"ownership": {
 					"default": 0

@@ -4,7 +4,7 @@
 	"effects": [
 	],
 	"folder": "CP7J0KktKe7LOSyQ",
-	"img": "systems/fallout/assets/icons/items/apparel.svg",
+	"img": "systems/falloutV12/assets/icons/items/apparel.svg",
 	"name": "Light Dog Armor",
 	"system": {
 		"apparelType": "armor",

@@ -4,7 +4,7 @@
 	"effects": [
 	],
 	"folder": "3txykwrcDDfTdRcH",
-	"img": "systems/fallout/assets/icons/items/apparel_mod.svg",
+	"img": "systems/falloutV12/assets/icons/items/apparel_mod.svg",
 	"name": "Fiberglass (Torso)",
 	"system": {
 		"apparelType": "armor",

@@ -4,7 +4,7 @@
 	"effects": [
 	],
 	"folder": "dBQ4u6XRzzhELaHq",
-	"img": "systems/fallout/assets/icons/items/apparel.svg",
+	"img": "systems/falloutV12/assets/icons/items/apparel.svg",
 	"name": "Heavy Metal Helmet",
 	"system": {
 		"apparelType": "armor",
@@ -47,7 +47,7 @@
 				"flags": {
 				},
 				"folder": "3PYKStGfDNV2sWN9",
-				"img": "systems/fallout/assets/icons/items/apparel_mod.svg",
+				"img": "systems/falloutV12/assets/icons/items/apparel_mod.svg",
 				"name": "Shadowed Metal",
 				"ownership": {
 					"default": 0
@@ -101,7 +101,7 @@
 				"flags": {
 				},
 				"folder": "4o4WqT1kVgccjvmx",
-				"img": "systems/fallout/assets/icons/items/apparel_mod.svg",
+				"img": "systems/falloutV12/assets/icons/items/apparel_mod.svg",
 				"name": "Deep Pocketed",
 				"ownership": {
 					"default": 0
@@ -155,7 +155,7 @@
 				"flags": {
 				},
 				"folder": "4o4WqT1kVgccjvmx",
-				"img": "systems/fallout/assets/icons/items/apparel_mod.svg",
+				"img": "systems/falloutV12/assets/icons/items/apparel_mod.svg",
 				"name": "Pocketed",
 				"ownership": {
 					"default": 0
@@ -210,7 +210,7 @@
 				"flags": {
 				},
 				"folder": "3PYKStGfDNV2sWN9",
-				"img": "systems/fallout/assets/icons/items/apparel_mod.svg",
+				"img": "systems/falloutV12/assets/icons/items/apparel_mod.svg",
 				"name": "Enameled Metal",
 				"ownership": {
 					"default": 0
@@ -264,7 +264,7 @@
 				"flags": {
 				},
 				"folder": "3PYKStGfDNV2sWN9",
-				"img": "systems/fallout/assets/icons/items/apparel_mod.svg",
+				"img": "systems/falloutV12/assets/icons/items/apparel_mod.svg",
 				"name": "Polished Metal",
 				"ownership": {
 					"default": 0
@@ -318,7 +318,7 @@
 				"flags": {
 				},
 				"folder": "4o4WqT1kVgccjvmx",
-				"img": "systems/fallout/assets/icons/items/apparel_mod.svg",
+				"img": "systems/falloutV12/assets/icons/items/apparel_mod.svg",
 				"name": "Ultra Light Build",
 				"ownership": {
 					"default": 0
@@ -373,7 +373,7 @@
 				"flags": {
 				},
 				"folder": "3PYKStGfDNV2sWN9",
-				"img": "systems/fallout/assets/icons/items/apparel_mod.svg",
+				"img": "systems/falloutV12/assets/icons/items/apparel_mod.svg",
 				"name": "Painted Metal",
 				"ownership": {
 					"default": 0
@@ -427,7 +427,7 @@
 				"flags": {
 				},
 				"folder": "4o4WqT1kVgccjvmx",
-				"img": "systems/fallout/assets/icons/items/apparel_mod.svg",
+				"img": "systems/falloutV12/assets/icons/items/apparel_mod.svg",
 				"name": "Lead Lined",
 				"ownership": {
 					"default": 0
@@ -484,7 +484,7 @@
 				"flags": {
 				},
 				"folder": "3PYKStGfDNV2sWN9",
-				"img": "systems/fallout/assets/icons/items/apparel_mod.svg",
+				"img": "systems/falloutV12/assets/icons/items/apparel_mod.svg",
 				"name": "Alloyed Metal",
 				"ownership": {
 					"default": 0
@@ -538,7 +538,7 @@
 				"flags": {
 				},
 				"folder": "4o4WqT1kVgccjvmx",
-				"img": "systems/fallout/assets/icons/items/apparel_mod.svg",
+				"img": "systems/falloutV12/assets/icons/items/apparel_mod.svg",
 				"name": "Lighter Build",
 				"ownership": {
 					"default": 0

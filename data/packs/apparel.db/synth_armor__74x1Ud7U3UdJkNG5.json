@@ -4,7 +4,7 @@
 	"effects": [
 	],
 	"folder": "176Oq05QvOKBoPuA",
-	"img": "systems/fallout/assets/icons/items/apparel.svg",
+	"img": "systems/falloutV12/assets/icons/items/apparel.svg",
 	"name": "Synth Armor",
 	"system": {
 		"apparelType": "armor",
@@ -47,7 +47,7 @@
 				"flags": {
 				},
 				"folder": "sZsnd4w6meoCfPDE",
-				"img": "systems/fallout/assets/icons/items/apparel_mod.svg",
+				"img": "systems/falloutV12/assets/icons/items/apparel_mod.svg",
 				"name": "Laminated",
 				"ownership": {
 					"default": 0
@@ -101,7 +101,7 @@
 				"flags": {
 				},
 				"folder": "4o4WqT1kVgccjvmx",
-				"img": "systems/fallout/assets/icons/items/apparel_mod.svg",
+				"img": "systems/falloutV12/assets/icons/items/apparel_mod.svg",
 				"name": "Deep Pocketed",
 				"ownership": {
 					"default": 0
@@ -155,7 +155,7 @@
 				"flags": {
 				},
 				"folder": "4o4WqT1kVgccjvmx",
-				"img": "systems/fallout/assets/icons/items/apparel_mod.svg",
+				"img": "systems/falloutV12/assets/icons/items/apparel_mod.svg",
 				"name": "Pocketed",
 				"ownership": {
 					"default": 0
@@ -210,7 +210,7 @@
 				"flags": {
 				},
 				"folder": "sZsnd4w6meoCfPDE",
-				"img": "systems/fallout/assets/icons/items/apparel_mod.svg",
+				"img": "systems/falloutV12/assets/icons/items/apparel_mod.svg",
 				"name": "Resin",
 				"ownership": {
 					"default": 0
@@ -264,7 +264,7 @@
 				"flags": {
 				},
 				"folder": "4o4WqT1kVgccjvmx",
-				"img": "systems/fallout/assets/icons/items/apparel_mod.svg",
+				"img": "systems/falloutV12/assets/icons/items/apparel_mod.svg",
 				"name": "Ultra Light Build",
 				"ownership": {
 					"default": 0
@@ -319,7 +319,7 @@
 				"flags": {
 				},
 				"folder": "4o4WqT1kVgccjvmx",
-				"img": "systems/fallout/assets/icons/items/apparel_mod.svg",
+				"img": "systems/falloutV12/assets/icons/items/apparel_mod.svg",
 				"name": "Lead Lined",
 				"ownership": {
 					"default": 0
@@ -373,7 +373,7 @@
 				"flags": {
 				},
 				"folder": "sZsnd4w6meoCfPDE",
-				"img": "systems/fallout/assets/icons/items/apparel_mod.svg",
+				"img": "systems/falloutV12/assets/icons/items/apparel_mod.svg",
 				"name": "Microcarbon",
 				"ownership": {
 					"default": 0
@@ -430,7 +430,7 @@
 				"flags": {
 				},
 				"folder": "sZsnd4w6meoCfPDE",
-				"img": "systems/fallout/assets/icons/items/apparel_mod.svg",
+				"img": "systems/falloutV12/assets/icons/items/apparel_mod.svg",
 				"name": "Nanofilament",
 				"ownership": {
 					"default": 0
@@ -484,7 +484,7 @@
 				"flags": {
 				},
 				"folder": "4o4WqT1kVgccjvmx",
-				"img": "systems/fallout/assets/icons/items/apparel_mod.svg",
+				"img": "systems/falloutV12/assets/icons/items/apparel_mod.svg",
 				"name": "Lighter Build",
 				"ownership": {
 					"default": 0

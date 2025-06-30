@@ -4,7 +4,7 @@
 	"effects": [
 	],
 	"folder": "fMIRovgs2p0cBYIe",
-	"img": "systems/fallout/assets/icons/items/weapon_mod.svg",
+	"img": "systems/falloutV12/assets/icons/items/weapon_mod.svg",
 	"name": "Short Night Vision Scope",
 	"system": {
 		"attachable": true,

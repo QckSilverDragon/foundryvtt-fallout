@@ -4,7 +4,7 @@
 	"effects": [
 	],
 	"folder": null,
-	"img": "systems/fallout/assets/icons/items/perk.svg",
+	"img": "systems/falloutV12/assets/icons/items/perk.svg",
 	"name": "Laser Commander",
 	"system": {
 		"description": "<p>When you make an attack with a ranged energy weapon, the damage is increased by +1DDCD per rank in this perk. Each time you take this perk, the level requirement increases by 4.</p>\n<p><strong>Requirements</strong>: PER 8, Level 2+</p>",

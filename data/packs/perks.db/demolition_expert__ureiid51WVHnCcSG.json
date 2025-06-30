@@ -4,7 +4,7 @@
 	"effects": [
 	],
 	"folder": null,
-	"img": "systems/fallout/assets/icons/items/perk.svg",
+	"img": "systems/falloutV12/assets/icons/items/perk.svg",
 	"name": "Demolition Expert",
 	"system": {
 		"description": "<p>When you make an attack using a weapon with the Blast quality, the attack gains the Vicious damage effect. In addition, you unlock explosives recipes which have this perk as a requirement.</p>\n<p><strong>Requirements</strong>: PER 6, LCK 6</p>",

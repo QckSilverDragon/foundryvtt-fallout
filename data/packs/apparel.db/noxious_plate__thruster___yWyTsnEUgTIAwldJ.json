@@ -4,7 +4,7 @@
 	"effects": [
 	],
 	"folder": "EuwJBny4aaF8eMIv",
-	"img": "systems/fallout/assets/icons/items/apparel.svg",
+	"img": "systems/falloutV12/assets/icons/items/apparel.svg",
 	"name": "Noxious Plate (Thruster)",
 	"system": {
 		"apparelType": "plating",

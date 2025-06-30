@@ -4,7 +4,7 @@
 	"effects": [
 	],
 	"folder": "yqwsUbSI5liyBtpj",
-	"img": "systems/fallout/assets/icons/items/perk.svg",
+	"img": "systems/falloutV12/assets/icons/items/perk.svg",
 	"name": "FH 5-09 Look Better in Black",
 	"system": {
 		"description": "<p>Once, when using a Stealth Boy, it lasts for one additional turn</p>",

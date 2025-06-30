@@ -4,7 +4,7 @@
 	"effects": [
 	],
 	"folder": "IoEvCm1c8TK0ekL7",
-	"img": "systems/fallout/assets/icons/items/perk.svg",
+	"img": "systems/falloutV12/assets/icons/items/perk.svg",
 	"name": "Meeting People",
 	"system": {
 		"description": "<p>Once, when you roll one or more complications on a Speech test, you may ignore those complications.</p>",

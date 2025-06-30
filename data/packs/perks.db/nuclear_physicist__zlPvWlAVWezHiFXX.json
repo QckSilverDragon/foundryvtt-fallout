@@ -4,7 +4,7 @@
 	"effects": [
 	],
 	"folder": null,
-	"img": "systems/fallout/assets/icons/items/perk.svg",
+	"img": "systems/falloutV12/assets/icons/items/perk.svg",
 	"name": "Nuclear Physicist",
 	"system": {
 		"description": "<p>Whenever you use a weapon that inflicts radiation damage, or has the Radioactive damage effect, each Effect you roll inflicts one additional point of radiation damage.</p>\n<p>In addition, fusion cores you use have 3 additional charges.</p>\n<p><strong>Requirements</strong>: INT 9</p>",

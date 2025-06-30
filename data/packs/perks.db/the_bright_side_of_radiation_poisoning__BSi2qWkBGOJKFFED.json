@@ -4,7 +4,7 @@
 	"effects": [
 	],
 	"folder": "dFCoGx8Inb2YiPBZ",
-	"img": "systems/fallout/assets/icons/items/perk.svg",
+	"img": "systems/falloutV12/assets/icons/items/perk.svg",
 	"name": "The Bright Side of Radiation Poisoning",
 	"system": {
 		"description": "<p>When you consume irradiated food or drink, heal additional HP equal to the roll on the @fos[DC]</p>",

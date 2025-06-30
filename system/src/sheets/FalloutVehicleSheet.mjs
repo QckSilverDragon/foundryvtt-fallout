@@ -36,7 +36,7 @@ export default class FalloutVehicleSheet extends FalloutBaseActorSheet {
 
 	/** @override */
 	get template() {
-		return "systems/fallout/templates/actor/vehicle-sheet.hbs";
+		return "systems/falloutV12/templates/actor/vehicle-sheet.hbs";
 	}
 
 

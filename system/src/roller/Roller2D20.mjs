@@ -194,7 +194,7 @@ export class Roller2D20 {
 			successTreshold,
 		};
 
-		const html = await renderTemplate("systems/fallout/templates/chat/roll2d20.hbs", rollData);
+		const html = await renderTemplate("systems/falloutV12/templates/chat/roll2d20.hbs", rollData);
 
 		let falloutRoll = {};
 		falloutRoll.complicationTreshold = complicationTreshold;
@@ -408,7 +408,7 @@ export class Roller2D20 {
 		};
 
 		const html = await renderTemplate(
-			"systems/fallout/templates/chat/rollD6.hbs",
+			"systems/falloutV12/templates/chat/rollD6.hbs",
 			rollData
 		);
 

@@ -4,7 +4,7 @@
 	"effects": [
 	],
 	"folder": "rBxwC4kGr3U3mShx",
-	"img": "systems/fallout/assets/icons/items/weapon_mod.svg",
+	"img": "systems/falloutV12/assets/icons/items/weapon_mod.svg",
 	"name": "Reflex Sight",
 	"system": {
 		"attachable": true,

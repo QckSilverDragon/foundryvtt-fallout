@@ -4,7 +4,7 @@
 	"effects": [
 	],
 	"folder": "wLlEWSMEFaVWTQ5E",
-	"img": "systems/fallout/assets/icons/items/perk.svg",
+	"img": "systems/falloutV12/assets/icons/items/perk.svg",
 	"name": "Jungle of the Bat-Babies",
 	"system": {
 		"description": "<p>When you suffer Poison damage, gain +3 Poison damage resistance</p>",

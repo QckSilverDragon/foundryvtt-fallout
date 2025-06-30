@@ -4,7 +4,7 @@
 	"effects": [
 	],
 	"folder": "h90MorifUQMpngiI",
-	"img": "systems/fallout/assets/icons/items/weapon_mod.svg",
+	"img": "systems/falloutV12/assets/icons/items/weapon_mod.svg",
 	"name": "Heating Coil",
 	"system": {
 		"attachable": true,

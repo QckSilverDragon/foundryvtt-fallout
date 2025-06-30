@@ -4,7 +4,7 @@
 	"effects": [
 	],
 	"folder": "sZsnd4w6meoCfPDE",
-	"img": "systems/fallout/assets/icons/items/apparel_mod.svg",
+	"img": "systems/falloutV12/assets/icons/items/apparel_mod.svg",
 	"name": "Resin",
 	"system": {
 		"apparelType": "armor",

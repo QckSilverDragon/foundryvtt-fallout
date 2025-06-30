@@ -4,7 +4,7 @@
 	"effects": [
 	],
 	"folder": null,
-	"img": "systems/fallout/assets/icons/items/perk.svg",
+	"img": "systems/falloutV12/assets/icons/items/perk.svg",
 	"name": "Fast Metabolism",
 	"system": {
 		"description": "<p>When you regain one or more HP from any source other than rest, increase the total HP regained by +1 per rank in this perk. Each time you take this perk, the level requirement increases by 3.</p>\n<p><strong>Requirements</strong>: END 6, Level 1+, not a robot</p>",

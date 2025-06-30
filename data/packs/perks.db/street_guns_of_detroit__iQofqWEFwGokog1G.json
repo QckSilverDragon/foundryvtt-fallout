@@ -4,7 +4,7 @@
 	"effects": [
 	],
 	"folder": "hleTGvh4Mq1pZALV",
-	"img": "systems/fallout/assets/icons/items/perk.svg",
+	"img": "systems/falloutV12/assets/icons/items/perk.svg",
 	"name": "Street Guns of Detroit",
 	"system": {
 		"description": "<p>Gain an extra 2 AP after one successful attack. This AP must be spent immediately: it cannot be saved</p>",

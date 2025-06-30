@@ -9,7 +9,7 @@ export default class SourceFilterSettings extends FormApplication {
 	static get defaultOptions() {
 		return foundry.utils.mergeObject(super.defaultOptions, {
 			title: game.i18n.localize("FALLOUT.Form.SourceFilters.title"),
-			template: "systems/fallout/templates/apps/source-filter.hbs",
+			template: "systems/falloutV12/templates/apps/source-filter.hbs",
 			width: 450,
 			height: "auto",
 			resizable: false,

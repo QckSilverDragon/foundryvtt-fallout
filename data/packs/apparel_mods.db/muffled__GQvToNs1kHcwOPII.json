@@ -4,7 +4,7 @@
 	"effects": [
 	],
 	"folder": "a6NtcgmV821A7tRN",
-	"img": "systems/fallout/assets/icons/items/apparel_mod.svg",
+	"img": "systems/falloutV12/assets/icons/items/apparel_mod.svg",
 	"name": "Muffled",
 	"system": {
 		"apparelType": "armor",

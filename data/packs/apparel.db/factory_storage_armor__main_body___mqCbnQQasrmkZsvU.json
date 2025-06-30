@@ -4,7 +4,7 @@
 	"effects": [
 	],
 	"folder": "flViDepzio5SAZsR",
-	"img": "systems/fallout/assets/icons/items/apparel.svg",
+	"img": "systems/falloutV12/assets/icons/items/apparel.svg",
 	"name": "Factory Storage Armor (Main Body)",
 	"system": {
 		"apparelType": "armor",

@@ -4,7 +4,7 @@
 	"effects": [
 	],
 	"folder": "6nnTrN2wU5QvWzgG",
-	"img": "systems/fallout/assets/icons/items/weapon_mod.svg",
+	"img": "systems/falloutV12/assets/icons/items/weapon_mod.svg",
 	"name": "Spiked",
 	"system": {
 		"attachable": true,

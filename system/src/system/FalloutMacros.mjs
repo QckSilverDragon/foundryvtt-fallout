@@ -83,7 +83,7 @@ export default class FalloutMacros {
 		}
 
 		renderTemplate(
-			"systems/fallout/templates/dialogs/are-you-sure.hbs"
+			"systems/falloutV12/templates/dialogs/are-you-sure.hbs"
 		).then(html => {
 			new Dialog({
 				title: `${game.i18n.localize("FALLOUT.MACRO.DrinkDirtyWater.name")}`,

@@ -4,7 +4,7 @@
 	"effects": [
 	],
 	"folder": null,
-	"img": "systems/fallout/assets/icons/items/perk.svg",
+	"img": "systems/falloutV12/assets/icons/items/perk.svg",
 	"name": "Finesse",
 	"system": {
 		"description": "<p>Once per combat encounter, you may re-roll all the DCD on a single damage roll without spending any Luck points.</p>\n<p><strong>Requirements</strong>: AGI 9</p>",

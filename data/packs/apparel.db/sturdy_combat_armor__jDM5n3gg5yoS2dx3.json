@@ -4,7 +4,7 @@
 	"effects": [
 	],
 	"folder": "Hfs10fscarmrcuOV",
-	"img": "systems/fallout/assets/icons/items/apparel.svg",
+	"img": "systems/falloutV12/assets/icons/items/apparel.svg",
 	"name": "Sturdy Combat Armor",
 	"system": {
 		"apparelType": "armor",
@@ -47,7 +47,7 @@
 				"flags": {
 				},
 				"folder": "3txykwrcDDfTdRcH",
-				"img": "systems/fallout/assets/icons/items/apparel_mod.svg",
+				"img": "systems/falloutV12/assets/icons/items/apparel_mod.svg",
 				"name": "Reinforced",
 				"ownership": {
 					"default": 0
@@ -101,7 +101,7 @@
 				"flags": {
 				},
 				"folder": "3txykwrcDDfTdRcH",
-				"img": "systems/fallout/assets/icons/items/apparel_mod.svg",
+				"img": "systems/falloutV12/assets/icons/items/apparel_mod.svg",
 				"name": "Shadowed",
 				"ownership": {
 					"default": 0
@@ -155,7 +155,7 @@
 				"flags": {
 				},
 				"folder": "3txykwrcDDfTdRcH",
-				"img": "systems/fallout/assets/icons/items/apparel_mod.svg",
+				"img": "systems/falloutV12/assets/icons/items/apparel_mod.svg",
 				"name": "Polymer",
 				"ownership": {
 					"default": 0
@@ -209,7 +209,7 @@
 				"flags": {
 				},
 				"folder": "4o4WqT1kVgccjvmx",
-				"img": "systems/fallout/assets/icons/items/apparel_mod.svg",
+				"img": "systems/falloutV12/assets/icons/items/apparel_mod.svg",
 				"name": "Deep Pocketed",
 				"ownership": {
 					"default": 0
@@ -263,7 +263,7 @@
 				"flags": {
 				},
 				"folder": "4o4WqT1kVgccjvmx",
-				"img": "systems/fallout/assets/icons/items/apparel_mod.svg",
+				"img": "systems/falloutV12/assets/icons/items/apparel_mod.svg",
 				"name": "Pocketed",
 				"ownership": {
 					"default": 0
@@ -318,7 +318,7 @@
 				"flags": {
 				},
 				"folder": "3txykwrcDDfTdRcH",
-				"img": "systems/fallout/assets/icons/items/apparel_mod.svg",
+				"img": "systems/falloutV12/assets/icons/items/apparel_mod.svg",
 				"name": "Fiberglass",
 				"ownership": {
 					"default": 0
@@ -372,7 +372,7 @@
 				"flags": {
 				},
 				"folder": "4o4WqT1kVgccjvmx",
-				"img": "systems/fallout/assets/icons/items/apparel_mod.svg",
+				"img": "systems/falloutV12/assets/icons/items/apparel_mod.svg",
 				"name": "Ultra Light Build",
 				"ownership": {
 					"default": 0
@@ -427,7 +427,7 @@
 				"flags": {
 				},
 				"folder": "4o4WqT1kVgccjvmx",
-				"img": "systems/fallout/assets/icons/items/apparel_mod.svg",
+				"img": "systems/falloutV12/assets/icons/items/apparel_mod.svg",
 				"name": "Lead Lined",
 				"ownership": {
 					"default": 0
@@ -484,7 +484,7 @@
 				"flags": {
 				},
 				"folder": "4o4WqT1kVgccjvmx",
-				"img": "systems/fallout/assets/icons/items/apparel_mod.svg",
+				"img": "systems/falloutV12/assets/icons/items/apparel_mod.svg",
 				"name": "Lighter Build",
 				"ownership": {
 					"default": 0

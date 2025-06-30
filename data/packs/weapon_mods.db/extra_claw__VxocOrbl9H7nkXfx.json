@@ -4,7 +4,7 @@
 	"effects": [
 	],
 	"folder": "wvK8aoD30P5a8IN6",
-	"img": "systems/fallout/assets/icons/items/weapon_mod.svg",
+	"img": "systems/falloutV12/assets/icons/items/weapon_mod.svg",
 	"name": "Extra Claw",
 	"system": {
 		"attachable": true,

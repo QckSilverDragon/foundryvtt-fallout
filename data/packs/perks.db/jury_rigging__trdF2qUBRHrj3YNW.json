@@ -4,7 +4,7 @@
 	"effects": [
 	],
 	"folder": null,
-	"img": "systems/fallout/assets/icons/items/perk.svg",
+	"img": "systems/falloutV12/assets/icons/items/perk.svg",
 	"name": "Jury Rigging",
 	"system": {
 		"description": "<p>You can repair an item without needing to expend any components. However, the repair is temporary, and the item will break again on the next complication you suffer while using it. The complication range of all skill tests to use the item increases by 1, to the roll of a 19&ndash;20.</p>\n<p><strong>Requirements</strong>: None</p>",

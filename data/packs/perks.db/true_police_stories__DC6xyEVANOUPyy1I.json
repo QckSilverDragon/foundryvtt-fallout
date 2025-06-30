@@ -4,7 +4,7 @@
 	"effects": [
 	],
 	"folder": "IoEvCm1c8TK0ekL7",
-	"img": "systems/fallout/assets/icons/items/perk.svg",
+	"img": "systems/falloutV12/assets/icons/items/perk.svg",
 	"name": "True Police Stories",
 	"system": {
 		"description": "<p>Once, when you roll the damage of an attack, you may spend a Luck point to turn up to three @fos[DC] to any face, rather than rolling them.</p>",

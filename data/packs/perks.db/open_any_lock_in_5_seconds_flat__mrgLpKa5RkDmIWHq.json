@@ -4,7 +4,7 @@
 	"effects": [
 	],
 	"folder": "lGOBRrvW0XU5E6o8",
-	"img": "systems/fallout/assets/icons/items/perk.svg",
+	"img": "systems/falloutV12/assets/icons/items/perk.svg",
 	"name": "Open Any Lock in 5 Seconds Flat",
 	"system": {
 		"description": "<p>When you successfully pick a lock, you may use the Reduce Time AP option without spending AP</p>",
