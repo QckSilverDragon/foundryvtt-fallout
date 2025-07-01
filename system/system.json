@@ -2,9 +2,9 @@
 	"id": "falloutV12",
 	"title": "Fallout: The Roleplaying Game V12",
 	"description": "An unofficial system for playing the Fallout RPG from Modiphius Entertainment Ltd.",
-	"version": "11.15.10",
+	"version": "11.15.11",
 	"compatibility": {
-		"maximum": "12",
+		"maximum": "13",
 		"minimum": "12",
 		"verified": "12"
 	},
