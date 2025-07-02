@@ -1,12 +1,12 @@
 export default class FalloutPerkManager {
-	constructor(actor, options={}) {
+	constructor(actor, options = {}) {
 		this.actor = actor;
 		this.actorOwnedPerksLut = {};
 		this.actorAttributes = [];
 		this.actorReadMagazines = [];
 	}
 
-	async getAvailablePerks(nextLevel=true) {
+	async getAvailablePerks(nextLevel = true) {
 		this.actorAttributes = foundry.utils.duplicate(
 			this.actor.system.attributes
 		);
@@ -40,7 +40,7 @@ export default class FalloutPerkManager {
 					rank = current + 1;
 				}
 
-				selectedPerks.set(perk._id, {item: perk, rank});
+				selectedPerks.set(perk._id, { item: perk, rank });
 			}
 		}
 

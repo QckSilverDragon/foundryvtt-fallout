@@ -32,17 +32,10 @@
 	</div>
 	<ul>
 		{{#each availablePerks}}
-			{{> apps/perk-selector/perk
+		{{> apps/perk-selector/perk
 					item=this
-			}}
+		}}
 		{{/each}}
 	</ul>
-
-	<img class="profile-img"
-		 data-edit="img"
-		 height="100"
-		 src="{{actor.img}}"
-		 title="{{actor.name}}"
-		 width="100" />
 
 </section>

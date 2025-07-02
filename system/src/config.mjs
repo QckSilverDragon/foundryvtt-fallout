@@ -3,7 +3,7 @@ export const SYSTEM_NAME = "Fallout RPG";
 
 export const FALLOUT = {};
 
-FALLOUT.LEVEL_UP_TOOL_ENABLED = false;
+FALLOUT.LEVEL_UP_TOOL_ENABLED = true;
 
 // Some consts used for timing purposes
 //

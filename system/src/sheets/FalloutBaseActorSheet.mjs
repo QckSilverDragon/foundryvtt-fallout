@@ -199,7 +199,7 @@ export default class FalloutBaseActorSheet extends ActorSheet {
 		}
 	}
 
-	_getFilteredApparelSections(context) {}
+	_getFilteredApparelSections(context) { }
 
 	/* -------------------------------------------- */
 
@@ -339,7 +339,7 @@ export default class FalloutBaseActorSheet extends ActorSheet {
 			const li = $(ev.currentTarget).parents(".item");
 			const item = this.actor.items.get(li.data("item-id"));
 
-			item.update({"system.favorite": !item.system.favorite});
+			item.update({ "system.favorite": !item.system.favorite });
 		});
 
 		// * Toggle Stash Inventory Item
@@ -376,7 +376,7 @@ export default class FalloutBaseActorSheet extends ActorSheet {
 					});
 				}
 
-				await Item.updateDocuments(updateData, {parent: this.actor});
+				await Item.updateDocuments(updateData, { parent: this.actor });
 
 				if (item.type === "apparel") {
 					this.actor._calculateCharacterBodyResistance();
@@ -453,7 +453,12 @@ export default class FalloutBaseActorSheet extends ActorSheet {
 	async _onFindFromCompendium(event) {
 		event.preventDefault();
 		const itemType = event.currentTarget.dataset.type;
-		new fallout.apps.ItemSelector(this.actor, {itemType}).render(true);
+		if (itemType === "perk") {
+			new fallout.apps.FalloutAddPerk(this.actor).render(true);
+		}
+		else {
+			new fallout.apps.add(this.actor, { itemType }).render(true);
+		}
 	}
 
 	/**
@@ -490,7 +495,7 @@ export default class FalloutBaseActorSheet extends ActorSheet {
 		if (item.type === "apparel" && item.system.powerArmor.isFrame) {
 			const attachedItems = this.actor.items.filter(
 				i => i.type === "apparel"
-						&& i.system.powerArmor.frameId === item.id
+					&& i.system.powerArmor.frameId === item.id
 			);
 
 			const updateData = [];
@@ -503,7 +508,7 @@ export default class FalloutBaseActorSheet extends ActorSheet {
 			}
 
 			if (updateData.length > 0) {
-				await Item.updateDocuments(updateData, {parent: this.actor});
+				await Item.updateDocuments(updateData, { parent: this.actor });
 
 				if (this.actor.type === "character") {
 					this.actor._calculateCharacterBodyResistance();
@@ -515,8 +520,8 @@ export default class FalloutBaseActorSheet extends ActorSheet {
 
 		const frames = this.actor.items.filter(i =>
 			i.type === "apparel"
-					&& i.system.apparelType === "powerArmor"
-					&& i.system.powerArmor.isFrame
+			&& i.system.apparelType === "powerArmor"
+			&& i.system.powerArmor.isFrame
 		);
 
 		for (const frame of frames) {
@@ -670,7 +675,7 @@ export default class FalloutBaseActorSheet extends ActorSheet {
 				skill = skillItem.system;
 			}
 			else {
-				skill = { value: 0, tag: false, defaultAttribute: "str"};
+				skill = { value: 0, tag: false, defaultAttribute: "str" };
 			}
 
 			const attributeOverride = CONFIG.FALLOUT.WEAPON_ATTRIBUTE_OVERRIDE[

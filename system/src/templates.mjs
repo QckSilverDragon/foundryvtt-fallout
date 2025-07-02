@@ -100,6 +100,7 @@ export default async function preloadHandlebarsTemplates() {
 		"systems/falloutV12/templates/actor/vehicle/tabs/abilities.hbs",
 		"systems/falloutV12/templates/actor/vehicle/tabs/cargo.hbs",
 		"systems/falloutV12/templates/actor/vehicle/tabs/weapons.hbs",
+		"systems/falloutV12/templates/apps/perk-selector/perk.hbs",
 		"systems/falloutV12/templates/item/_shared-partials/choice-selector.hbs",
 		"systems/falloutV12/templates/item/_shared-partials/description-tab.hbs",
 		"systems/falloutV12/templates/item/_shared-partials/effects-tab.hbs",

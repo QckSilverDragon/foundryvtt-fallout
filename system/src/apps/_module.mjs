@@ -1,3 +1,4 @@
+export {default as FalloutAddPerk } from "./FalloutAddPerk.mjs";
 export {default as FalloutChemDoses} from "./FalloutChemDoses.mjs";
 export {default as FalloutLevelUp} from "./FalloutLevelUp.mjs";
 export {default as FalloutPartySleep} from "./FalloutPartySleep.mjs";

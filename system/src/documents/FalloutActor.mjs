@@ -897,7 +897,7 @@ export default class FalloutActor extends Actor {
 
 			if (!alreadyHasSkills) {
 				let packSkills =
-					await game.packs.get("fallout.skills").getDocuments();
+					await game.packs.get("falloutV12.skills").getDocuments();
 
 				update.items = this.items.map(i => i.toObject());
 

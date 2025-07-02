@@ -23,6 +23,7 @@ FALLOUT.Actor.Warnings.DerivedValue: This is an auto-calculated value that canno
 FALLOUT.Actor.Warnings.NpcAlreadyResident: That NPC is already a resident of {settlementName}
 FALLOUT.Actor.Warnings.NpcMissing: A settler with Actor UUID {uuid} could not be found so it has been removed from {settlementName}
 FALLOUT.Add: Add
+FALLOUT.APP.AddPerk.title: Add Perk
 FALLOUT.APP.ChemDoseManager.ResetAllButton: Reset All
 FALLOUT.APP.ChemDoseManager.ResetAllHeader: Reset All Chem Doses
 FALLOUT.APP.ChemDoseManager.title: Chem Doses
@@ -677,6 +678,7 @@ FALLOUT.UI.DeleteOrJunk.message: Would you like to Delete or Junk this Item?
 FALLOUT.UI.DeleteOrJunk.title: Delete or Junk?
 FALLOUT.UI.DISEASES: Diseases
 FALLOUT.UI.favorite: Favorite
+FALLOUT.UI.filter: Filter
 FALLOUT.UI.INVENTORY: Inventory
 FALLOUT.UI.MISCELLANY: Miscellany
 FALLOUT.UI.Modify: Modify
@@ -691,6 +693,7 @@ FALLOUT.UI.Rarity: Rarity
 FALLOUT.UI.Read: Read
 FALLOUT.UI.ROBOT_MODULES: Robot Modules
 FALLOUT.UI.SaveChanges: Save Changes
+FALLOUT.UI.Sort: Sort
 FALLOUT.UI.Special_Abilities: Special Abilities
 FALLOUT.UI.SPECIAL_ABILITY: Special Ability
 FALLOUT.UI.speed: Speed
