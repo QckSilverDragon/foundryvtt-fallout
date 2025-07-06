@@ -4,7 +4,7 @@
 	"effects": [
 	],
 	"folder": "o6k96ORDTHXKtOxM",
-	"img": "systems/falloutV12/assets/icons/items/weapon_mod.svg",
+	"img": "systems/fallout/assets/icons/items/weapon_mod.svg",
 	"name": "Gyro Compensating Lens",
 	"system": {
 		"attachable": true,

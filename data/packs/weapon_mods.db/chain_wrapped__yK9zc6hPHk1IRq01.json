@@ -4,7 +4,7 @@
 	"effects": [
 	],
 	"folder": "gRas49gTV8CDZ4hJ",
-	"img": "systems/falloutV12/assets/icons/items/weapon_mod.svg",
+	"img": "systems/fallout/assets/icons/items/weapon_mod.svg",
 	"name": "Chain-Wrapped",
 	"system": {
 		"attachable": true,

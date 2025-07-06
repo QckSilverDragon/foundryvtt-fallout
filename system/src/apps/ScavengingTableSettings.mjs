@@ -9,7 +9,7 @@ export default class ScavengingTableSettings extends FormApplication {
 	static get defaultOptions() {
 		return foundry.utils.mergeObject(super.defaultOptions, {
 			title: game.i18n.localize("FALLOUT.Form.ScavengingSettings.title"),
-			template: "systems/falloutV12/templates/apps/scavenging-settings.hbs",
+			template: "systems/fallout/templates/apps/scavenging-settings.hbs",
 			width: 450,
 			height: "auto",
 			resizable: false,

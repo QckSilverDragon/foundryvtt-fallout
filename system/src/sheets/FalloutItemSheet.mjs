@@ -26,7 +26,7 @@ export default class FalloutItemSheet extends ItemSheet {
 
 	/** @override */
 	get template() {
-		const path = "systems/falloutV12/templates/item";
+		const path = "systems/fallout/templates/item";
 		return `${path}/${this.item.type}-sheet.hbs`;
 	}
 
@@ -1421,7 +1421,7 @@ export default class FalloutItemSheet extends ItemSheet {
 
 
 		const content = await renderTemplate(
-			"systems/falloutV12/templates/dialogs/roll-quantity.hbs"
+			"systems/fallout/templates/dialogs/roll-quantity.hbs"
 		);
 
 		const dialogData = {

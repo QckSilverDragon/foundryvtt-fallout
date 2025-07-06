@@ -4,7 +4,7 @@
 	"effects": [
 	],
 	"folder": "CX42aHQ083WuWVzF",
-	"img": "systems/falloutV12/assets/icons/items/weapon_mod.svg",
+	"img": "systems/fallout/assets/icons/items/weapon_mod.svg",
 	"name": "Gunner Sight",
 	"system": {
 		"attachable": true,

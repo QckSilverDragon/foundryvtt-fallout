@@ -4,7 +4,7 @@
 	"effects": [
 	],
 	"folder": null,
-	"img": "systems/falloutV12/assets/icons/items/perk.svg",
+	"img": "systems/fallout/assets/icons/items/perk.svg",
 	"name": "Ricochet",
 	"system": {
 		"description": "<p>If an enemy makes a ranged attack against you and rolls a complication, you may spend one Luck point to have their ricochet hit them. Resolve the damage roll against the attacking enemy instead.</p>\n<p><strong>Requirements</strong>: LCK 10, Level 5+</p>",

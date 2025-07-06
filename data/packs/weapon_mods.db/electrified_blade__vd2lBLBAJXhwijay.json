@@ -4,7 +4,7 @@
 	"effects": [
 	],
 	"folder": "36UsRm4n8Pr0UaUy",
-	"img": "systems/falloutV12/assets/icons/items/weapon_mod.svg",
+	"img": "systems/fallout/assets/icons/items/weapon_mod.svg",
 	"name": "Electrified Blade",
 	"system": {
 		"attachable": true,

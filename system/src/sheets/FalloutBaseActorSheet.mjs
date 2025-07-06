@@ -39,7 +39,7 @@ export default class FalloutBaseActorSheet extends ActorSheet {
 
 	/** @override */
 	get template() {
-		return `systems/falloutV12/templates/actor/${this.actor.type}-sheet.hbs`;
+		return `systems/fallout/templates/actor/${this.actor.type}-sheet.hbs`;
 	}
 
 	/** @inheritdoc */
@@ -163,7 +163,7 @@ export default class FalloutBaseActorSheet extends ActorSheet {
 				i.shotsAvailable = weapon.shotsAvailable;
 
 				i.damageTooltip = await renderTemplate(
-					"systems/falloutV12/templates/ui/weapon-damage-tooltip.hbs",
+					"systems/fallout/templates/ui/weapon-damage-tooltip.hbs",
 					{
 						actor: this.actor,
 						item: i,
@@ -298,7 +298,7 @@ export default class FalloutBaseActorSheet extends ActorSheet {
 
 			if (item.canBeScrapped) {
 				const html = await renderTemplate(
-					"systems/falloutV12/templates/dialogs/delete-or-junk.hbs"
+					"systems/fallout/templates/dialogs/delete-or-junk.hbs"
 				);
 
 				const dialog = new Dialog({

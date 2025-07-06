@@ -4,7 +4,7 @@
 	"effects": [
 	],
 	"folder": null,
-	"img": "systems/falloutV12/assets/icons/items/perk.svg",
+	"img": "systems/fallout/assets/icons/items/perk.svg",
 	"name": "Quick Draw",
 	"system": {
 		"description": "<p>Each turn, you may draw a single weapon or item carried on your person without using a minor action.</p>\n<p><strong>Requirements</strong>: AGI 6</p>",

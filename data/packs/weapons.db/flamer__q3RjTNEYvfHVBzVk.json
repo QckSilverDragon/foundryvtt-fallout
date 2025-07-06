@@ -4,7 +4,7 @@
 	"effects": [
 	],
 	"folder": "zXkvl0ffMYUzEMkw",
-	"img": "systems/falloutV12/assets/icons/items/weapon.svg",
+	"img": "systems/fallout/assets/icons/items/weapon.svg",
 	"name": "Flamer",
 	"system": {
 		"ammo": "Flamer Fuel",
@@ -212,7 +212,7 @@
 				"flags": {
 				},
 				"folder": "XK2wSRm6vu2u2hu2",
-				"img": "systems/falloutV12/assets/icons/items/weapon_mod.svg",
+				"img": "systems/fallout/assets/icons/items/weapon_mod.svg",
 				"name": "Long Barrel",
 				"ownership": {
 					"default": 0
@@ -431,7 +431,7 @@
 				"flags": {
 				},
 				"folder": "GVZOjd69FugxmDl0",
-				"img": "systems/falloutV12/assets/icons/items/weapon_mod.svg",
+				"img": "systems/fallout/assets/icons/items/weapon_mod.svg",
 				"name": "Napalm",
 				"ownership": {
 					"default": 0
@@ -655,7 +655,7 @@
 				"flags": {
 				},
 				"folder": "RcTaeHsZ8OmwAn5P",
-				"img": "systems/falloutV12/assets/icons/items/weapon_mod.svg",
+				"img": "systems/fallout/assets/icons/items/weapon_mod.svg",
 				"name": "Compression Nozzle",
 				"ownership": {
 					"default": 0
@@ -874,7 +874,7 @@
 				"flags": {
 				},
 				"folder": "tlpxRn1lrDjGWNDh",
-				"img": "systems/falloutV12/assets/icons/items/weapon_mod.svg",
+				"img": "systems/fallout/assets/icons/items/weapon_mod.svg",
 				"name": "Large Tank",
 				"ownership": {
 					"default": 0
@@ -1093,7 +1093,7 @@
 				"flags": {
 				},
 				"folder": "RcTaeHsZ8OmwAn5P",
-				"img": "systems/falloutV12/assets/icons/items/weapon_mod.svg",
+				"img": "systems/fallout/assets/icons/items/weapon_mod.svg",
 				"name": "Vaporization Nozzle",
 				"ownership": {
 					"default": 0
@@ -1312,7 +1312,7 @@
 				"flags": {
 				},
 				"folder": "tlpxRn1lrDjGWNDh",
-				"img": "systems/falloutV12/assets/icons/items/weapon_mod.svg",
+				"img": "systems/fallout/assets/icons/items/weapon_mod.svg",
 				"name": "Huge Tank",
 				"ownership": {
 					"default": 0

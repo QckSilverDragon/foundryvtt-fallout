@@ -4,7 +4,7 @@
 	"effects": [
 	],
 	"folder": "xPcGgoBMaLSZ2Rxg",
-	"img": "systems/falloutV12/assets/icons/items/apparel_mod.svg",
+	"img": "systems/fallout/assets/icons/items/apparel_mod.svg",
 	"name": "Shadowed Leather (Torso)",
 	"system": {
 		"apparelType": "armor",

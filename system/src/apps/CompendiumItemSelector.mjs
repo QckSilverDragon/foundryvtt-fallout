@@ -33,7 +33,7 @@ export default class CompendiumItemSelector extends FormApplication {
 	}
 
 	get template() {
-		return "systems/falloutV12/templates/apps/compendium-item-selector.hbs";
+		return "systems/fallout/templates/apps/compendium-item-selector.hbs";
 	}
 
 	get title() {

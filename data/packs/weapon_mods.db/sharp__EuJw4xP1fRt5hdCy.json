@@ -4,7 +4,7 @@
 	"effects": [
 	],
 	"folder": "5xnlOjZqwEDGq9KM",
-	"img": "systems/falloutV12/assets/icons/items/weapon_mod.svg",
+	"img": "systems/fallout/assets/icons/items/weapon_mod.svg",
 	"name": "Sharp",
 	"system": {
 		"attachable": true,

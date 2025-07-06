@@ -4,7 +4,7 @@
 	"effects": [
 	],
 	"folder": null,
-	"img": "systems/falloutV12/assets/icons/items/addiction.svg",
+	"img": "systems/fallout/assets/icons/items/addiction.svg",
 	"name": "Calmex",
 	"system": {
 		"description": "<p>You suffer complications on <strong>AGI</strong> tests on all rolls of 18 or higher whenever you are not under the effects of Calmex.</p>",

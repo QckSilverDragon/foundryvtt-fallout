@@ -4,7 +4,7 @@
 	"effects": [
 	],
 	"folder": null,
-	"img": "systems/falloutV12/assets/icons/items/perk.svg",
+	"img": "systems/fallout/assets/icons/items/perk.svg",
 	"name": "Inspirational",
 	"system": {
 		"description": "<p>Because you lead by example, the maximum number of AP the group may save is increased by 1.</p>\n<p><strong>Requirements</strong>: CHA 8</p>",

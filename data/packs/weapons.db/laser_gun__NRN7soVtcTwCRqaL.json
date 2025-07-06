@@ -4,7 +4,7 @@
 	"effects": [
 	],
 	"folder": "ScE7hQRRuS1o4Kau",
-	"img": "systems/falloutV12/assets/icons/items/weapon.svg",
+	"img": "systems/fallout/assets/icons/items/weapon.svg",
 	"name": "Laser Gun",
 	"system": {
 		"ammo": "Fusion Cell",
@@ -212,7 +212,7 @@
 				"flags": {
 				},
 				"folder": "enLFbKZ7j9OhhYoD",
-				"img": "systems/falloutV12/assets/icons/items/weapon_mod.svg",
+				"img": "systems/fallout/assets/icons/items/weapon_mod.svg",
 				"name": "Sharpshooter's Grip",
 				"ownership": {
 					"default": 0
@@ -431,7 +431,7 @@
 				"flags": {
 				},
 				"folder": "o6k96ORDTHXKtOxM",
-				"img": "systems/falloutV12/assets/icons/items/weapon_mod.svg",
+				"img": "systems/fallout/assets/icons/items/weapon_mod.svg",
 				"name": "Beam Splitter",
 				"ownership": {
 					"default": 0
@@ -650,7 +650,7 @@
 				"flags": {
 				},
 				"folder": "vnStsIp1P4oNrgWt",
-				"img": "systems/falloutV12/assets/icons/items/weapon_mod.svg",
+				"img": "systems/fallout/assets/icons/items/weapon_mod.svg",
 				"name": "Recoil Compensating Stock",
 				"ownership": {
 					"default": 0
@@ -869,7 +869,7 @@
 				"flags": {
 				},
 				"folder": "hLOWqs3EQrgXutZr",
-				"img": "systems/falloutV12/assets/icons/items/weapon_mod.svg",
+				"img": "systems/fallout/assets/icons/items/weapon_mod.svg",
 				"name": "Long Barrel",
 				"ownership": {
 					"default": 0
@@ -1088,7 +1088,7 @@
 				"flags": {
 				},
 				"folder": "o6k96ORDTHXKtOxM",
-				"img": "systems/falloutV12/assets/icons/items/weapon_mod.svg",
+				"img": "systems/fallout/assets/icons/items/weapon_mod.svg",
 				"name": "Gyro Compensating Lens",
 				"ownership": {
 					"default": 0
@@ -1307,7 +1307,7 @@
 				"flags": {
 				},
 				"folder": "hLOWqs3EQrgXutZr",
-				"img": "systems/falloutV12/assets/icons/items/weapon_mod.svg",
+				"img": "systems/fallout/assets/icons/items/weapon_mod.svg",
 				"name": "Improved Barrel",
 				"ownership": {
 					"default": 0
@@ -1526,7 +1526,7 @@
 				"flags": {
 				},
 				"folder": "fMIRovgs2p0cBYIe",
-				"img": "systems/falloutV12/assets/icons/items/weapon_mod.svg",
+				"img": "systems/fallout/assets/icons/items/weapon_mod.svg",
 				"name": "Long Scope",
 				"ownership": {
 					"default": 0
@@ -1745,7 +1745,7 @@
 				"flags": {
 				},
 				"folder": "YtRXRKCnP8THWkTL",
-				"img": "systems/falloutV12/assets/icons/items/weapon_mod.svg",
+				"img": "systems/fallout/assets/icons/items/weapon_mod.svg",
 				"name": "Photon Agitator",
 				"ownership": {
 					"default": 0
@@ -1965,7 +1965,7 @@
 				"flags": {
 				},
 				"folder": "fMIRovgs2p0cBYIe",
-				"img": "systems/falloutV12/assets/icons/items/weapon_mod.svg",
+				"img": "systems/fallout/assets/icons/items/weapon_mod.svg",
 				"name": "Recon Scope",
 				"ownership": {
 					"default": 0
@@ -2184,7 +2184,7 @@
 				"flags": {
 				},
 				"folder": "fMIRovgs2p0cBYIe",
-				"img": "systems/falloutV12/assets/icons/items/weapon_mod.svg",
+				"img": "systems/fallout/assets/icons/items/weapon_mod.svg",
 				"name": "Short Scope",
 				"ownership": {
 					"default": 0
@@ -2403,7 +2403,7 @@
 				"flags": {
 				},
 				"folder": "YtRXRKCnP8THWkTL",
-				"img": "systems/falloutV12/assets/icons/items/weapon_mod.svg",
+				"img": "systems/fallout/assets/icons/items/weapon_mod.svg",
 				"name": "Beta Wave Tuner",
 				"ownership": {
 					"default": 0
@@ -2622,7 +2622,7 @@
 				"flags": {
 				},
 				"folder": "YtRXRKCnP8THWkTL",
-				"img": "systems/falloutV12/assets/icons/items/weapon_mod.svg",
+				"img": "systems/fallout/assets/icons/items/weapon_mod.svg",
 				"name": "Photon Exciter",
 				"ownership": {
 					"default": 0
@@ -2842,7 +2842,7 @@
 				"flags": {
 				},
 				"folder": "hLOWqs3EQrgXutZr",
-				"img": "systems/falloutV12/assets/icons/items/weapon_mod.svg",
+				"img": "systems/fallout/assets/icons/items/weapon_mod.svg",
 				"name": "Sniper Barrel",
 				"ownership": {
 					"default": 0
@@ -3064,7 +3064,7 @@
 				"flags": {
 				},
 				"folder": "o6k96ORDTHXKtOxM",
-				"img": "systems/falloutV12/assets/icons/items/weapon_mod.svg",
+				"img": "systems/fallout/assets/icons/items/weapon_mod.svg",
 				"name": "Beam Focuser",
 				"ownership": {
 					"default": 0
@@ -3283,7 +3283,7 @@
 				"flags": {
 				},
 				"folder": "fMIRovgs2p0cBYIe",
-				"img": "systems/falloutV12/assets/icons/items/weapon_mod.svg",
+				"img": "systems/fallout/assets/icons/items/weapon_mod.svg",
 				"name": "Long Night Vision Scope",
 				"ownership": {
 					"default": 0
@@ -3502,7 +3502,7 @@
 				"flags": {
 				},
 				"folder": "YtRXRKCnP8THWkTL",
-				"img": "systems/falloutV12/assets/icons/items/weapon_mod.svg",
+				"img": "systems/fallout/assets/icons/items/weapon_mod.svg",
 				"name": "Boosted Capacitor",
 				"ownership": {
 					"LbffuJGmFEdJvA7X": 3,
@@ -3722,7 +3722,7 @@
 				"flags": {
 				},
 				"folder": "vnStsIp1P4oNrgWt",
-				"img": "systems/falloutV12/assets/icons/items/weapon_mod.svg",
+				"img": "systems/fallout/assets/icons/items/weapon_mod.svg",
 				"name": "Standard Stock",
 				"ownership": {
 					"default": 0
@@ -3941,7 +3941,7 @@
 				"flags": {
 				},
 				"folder": "fMIRovgs2p0cBYIe",
-				"img": "systems/falloutV12/assets/icons/items/weapon_mod.svg",
+				"img": "systems/fallout/assets/icons/items/weapon_mod.svg",
 				"name": "Reflex Sight",
 				"ownership": {
 					"default": 0
@@ -4160,7 +4160,7 @@
 				"flags": {
 				},
 				"folder": "fMIRovgs2p0cBYIe",
-				"img": "systems/falloutV12/assets/icons/items/weapon_mod.svg",
+				"img": "systems/fallout/assets/icons/items/weapon_mod.svg",
 				"name": "Short Night Vision Scope",
 				"ownership": {
 					"default": 0
@@ -4379,7 +4379,7 @@
 				"flags": {
 				},
 				"folder": "hLOWqs3EQrgXutZr",
-				"img": "systems/falloutV12/assets/icons/items/weapon_mod.svg",
+				"img": "systems/fallout/assets/icons/items/weapon_mod.svg",
 				"name": "Automatic Barrel",
 				"ownership": {
 					"default": 0
@@ -4598,7 +4598,7 @@
 				"flags": {
 				},
 				"folder": "vnStsIp1P4oNrgWt",
-				"img": "systems/falloutV12/assets/icons/items/weapon_mod.svg",
+				"img": "systems/fallout/assets/icons/items/weapon_mod.svg",
 				"name": "Marksman's Stock",
 				"ownership": {
 					"default": 0

@@ -4,7 +4,7 @@
 	"effects": [
 	],
 	"folder": "y6eI37QhWZMaqeyZ",
-	"img": "systems/falloutV12/assets/icons/items/perk.svg",
+	"img": "systems/fallout/assets/icons/items/perk.svg",
 	"name": "Visit the Ux-Ron Galaxy!",
 	"system": {
 		"description": "<p>Spend 1 Luck point to avoid all Energy damage from a single attack</p>",

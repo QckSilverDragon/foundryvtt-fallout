@@ -4,7 +4,7 @@
 	"effects": [
 	],
 	"folder": "OvlGhKtZemOqxcAN",
-	"img": "systems/falloutV12/assets/icons/items/apparel_mod.svg",
+	"img": "systems/fallout/assets/icons/items/apparel_mod.svg",
 	"name": "T-60c Chest Piece",
 	"system": {
 		"apparelType": "powerArmor",

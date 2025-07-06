@@ -4,7 +4,7 @@
 	"effects": [
 	],
 	"folder": "wLlEWSMEFaVWTQ5E",
-	"img": "systems/falloutV12/assets/icons/items/perk.svg",
+	"img": "systems/fallout/assets/icons/items/perk.svg",
 	"name": "Enter Maula: War Maiden of Mars",
 	"system": {
 		"description": "<p>When you make a melee attack with a Two-Handed melee weapon, gain the Piercing 1 damage effect (or +1 to any existing Piercing effect)</p>",

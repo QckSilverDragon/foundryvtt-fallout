@@ -4,7 +4,7 @@
 	"effects": [
 	],
 	"folder": "dFCoGx8Inb2YiPBZ",
-	"img": "systems/falloutV12/assets/icons/items/perk.svg",
+	"img": "systems/fallout/assets/icons/items/perk.svg",
 	"name": "Hunting in the Wastes",
 	"system": {
 		"description": "<p>When you butcher an animal you&rsquo;ve killed, and the amount of meat found can be increased by spending AP, you gain 1 bonus AP for that purpose (this AP is lost if not used)</p>",

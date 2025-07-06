@@ -4,7 +4,7 @@
 	"effects": [
 	],
 	"folder": "yqwsUbSI5liyBtpj",
-	"img": "systems/falloutV12/assets/icons/items/perk.svg",
+	"img": "systems/fallout/assets/icons/items/perk.svg",
 	"name": "FH 5-01 Whistling in the Dark",
 	"system": {
 		"description": "<p>If you are detected while sneaking, you add +2 to Physical damage resistance against the first attack you receive after being detected</p>",

@@ -4,7 +4,7 @@
 	"effects": [
 	],
 	"folder": "254i0e4Wc0Rhv6gc",
-	"img": "systems/falloutV12/assets/icons/items/perk.svg",
+	"img": "systems/fallout/assets/icons/items/perk.svg",
 	"name": "Nuke-the-Man!",
 	"system": {
 		"description": "<p>+1CD damage to attacks from all party members for one scene</p>",

@@ -4,7 +4,7 @@
 	"effects": [
 	],
 	"folder": "yqwsUbSI5liyBtpj",
-	"img": "systems/falloutV12/assets/icons/items/perk.svg",
+	"img": "systems/fallout/assets/icons/items/perk.svg",
 	"name": "FH 5-02 Urban Camouflage",
 	"system": {
 		"description": "<p>Enemies suffer +1 difficulty on tests to detect you; this does not stack with any difficulty increases for poor light or darkness</p>",

@@ -4,7 +4,7 @@
 	"effects": [
 	],
 	"folder": null,
-	"img": "systems/falloutV12/assets/icons/items/ammo.svg",
+	"img": "systems/fallout/assets/icons/items/ammo.svg",
 	"name": "Molotov Cocktail",
 	"system": {
 		"charges": {

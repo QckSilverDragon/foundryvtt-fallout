@@ -4,7 +4,7 @@
 	"effects": [
 	],
 	"folder": "U9QdR1SJ8Q85o6wa",
-	"img": "systems/falloutV12/assets/icons/items/apparel_mod.svg",
+	"img": "systems/fallout/assets/icons/items/apparel_mod.svg",
 	"name": "T-45c Arm",
 	"system": {
 		"apparelType": "powerArmor",

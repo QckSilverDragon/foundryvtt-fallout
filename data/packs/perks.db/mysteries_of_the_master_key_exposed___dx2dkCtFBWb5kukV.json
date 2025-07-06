@@ -4,7 +4,7 @@
 	"effects": [
 	],
 	"folder": "lGOBRrvW0XU5E6o8",
-	"img": "systems/falloutV12/assets/icons/items/perk.svg",
+	"img": "systems/fallout/assets/icons/items/perk.svg",
 	"name": "Mysteries of the Master Key Exposed!",
 	"system": {
 		"description": "<p>You may re-roll 1d20 on a single Lockpicking test</p>",

@@ -35,7 +35,7 @@ export default class FalloutPcSheet extends FalloutBaseActorSheet {
 
 	/** @override */
 	get template() {
-		return "systems/falloutV12/templates/actor/pc-sheet.hbs";
+		return "systems/fallout/templates/actor/pc-sheet.hbs";
 	}
 
 	/** @override */

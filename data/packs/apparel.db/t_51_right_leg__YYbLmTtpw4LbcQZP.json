@@ -4,7 +4,7 @@
 	"effects": [
 	],
 	"folder": "UGeb9nemZUKiYgJJ",
-	"img": "systems/falloutV12/assets/icons/items/apparel.svg",
+	"img": "systems/fallout/assets/icons/items/apparel.svg",
 	"name": "T-51 Right Leg",
 	"system": {
 		"apparelType": "powerArmor",
@@ -47,7 +47,7 @@
 				"flags": {
 				},
 				"folder": "lLsTAfSqwrufEQub",
-				"img": "systems/falloutV12/assets/icons/items/apparel_mod.svg",
+				"img": "systems/fallout/assets/icons/items/apparel_mod.svg",
 				"name": "T-51c Leg",
 				"ownership": {
 					"default": 0
@@ -101,7 +101,7 @@
 				"flags": {
 				},
 				"folder": "0sZTfWE1J7mKvvnK",
-				"img": "systems/falloutV12/assets/icons/items/apparel_mod.svg",
+				"img": "systems/fallout/assets/icons/items/apparel_mod.svg",
 				"name": "Explosive Shielding",
 				"ownership": {
 					"LbffuJGmFEdJvA7X": 3,
@@ -156,7 +156,7 @@
 				"flags": {
 				},
 				"folder": "0sZTfWE1J7mKvvnK",
-				"img": "systems/falloutV12/assets/icons/items/apparel_mod.svg",
+				"img": "systems/fallout/assets/icons/items/apparel_mod.svg",
 				"name": "Lead Plating",
 				"ownership": {
 					"default": 0
@@ -210,7 +210,7 @@
 				"flags": {
 				},
 				"folder": "0sZTfWE1J7mKvvnK",
-				"img": "systems/falloutV12/assets/icons/items/apparel_mod.svg",
+				"img": "systems/fallout/assets/icons/items/apparel_mod.svg",
 				"name": "Photovoltaic Plating",
 				"ownership": {
 					"default": 0
@@ -264,7 +264,7 @@
 				"flags": {
 				},
 				"folder": "lLsTAfSqwrufEQub",
-				"img": "systems/falloutV12/assets/icons/items/apparel_mod.svg",
+				"img": "systems/fallout/assets/icons/items/apparel_mod.svg",
 				"name": "T-51b Leg",
 				"ownership": {
 					"default": 0
@@ -318,7 +318,7 @@
 				"flags": {
 				},
 				"folder": "JpQJNevV3gGYvAgY",
-				"img": "systems/falloutV12/assets/icons/items/apparel_mod.svg",
+				"img": "systems/fallout/assets/icons/items/apparel_mod.svg",
 				"name": "Explosive Vent",
 				"ownership": {
 					"default": 0
@@ -372,7 +372,7 @@
 				"flags": {
 				},
 				"folder": "lLsTAfSqwrufEQub",
-				"img": "systems/falloutV12/assets/icons/items/apparel_mod.svg",
+				"img": "systems/fallout/assets/icons/items/apparel_mod.svg",
 				"name": "T-51e Leg",
 				"ownership": {
 					"default": 0
@@ -426,7 +426,7 @@
 				"flags": {
 				},
 				"folder": "JpQJNevV3gGYvAgY",
-				"img": "systems/falloutV12/assets/icons/items/apparel_mod.svg",
+				"img": "systems/fallout/assets/icons/items/apparel_mod.svg",
 				"name": "Calibrated Shocks",
 				"ownership": {
 					"default": 0
@@ -480,7 +480,7 @@
 				"flags": {
 				},
 				"folder": "0sZTfWE1J7mKvvnK",
-				"img": "systems/falloutV12/assets/icons/items/apparel_mod.svg",
+				"img": "systems/fallout/assets/icons/items/apparel_mod.svg",
 				"name": "Prism Shielding",
 				"ownership": {
 					"default": 0
@@ -534,7 +534,7 @@
 				"flags": {
 				},
 				"folder": "lLsTAfSqwrufEQub",
-				"img": "systems/falloutV12/assets/icons/items/apparel_mod.svg",
+				"img": "systems/fallout/assets/icons/items/apparel_mod.svg",
 				"name": "T-51f Leg",
 				"ownership": {
 					"default": 0
@@ -590,7 +590,7 @@
 				"flags": {
 				},
 				"folder": "0sZTfWE1J7mKvvnK",
-				"img": "systems/falloutV12/assets/icons/items/apparel_mod.svg",
+				"img": "systems/fallout/assets/icons/items/apparel_mod.svg",
 				"name": "Titanium Plating",
 				"ownership": {
 					"default": 0
@@ -646,7 +646,7 @@
 				"flags": {
 				},
 				"folder": "0sZTfWE1J7mKvvnK",
-				"img": "systems/falloutV12/assets/icons/items/apparel_mod.svg",
+				"img": "systems/fallout/assets/icons/items/apparel_mod.svg",
 				"name": "Winterized Coating",
 				"ownership": {
 					"default": 0
@@ -701,7 +701,7 @@
 				"flags": {
 				},
 				"folder": "JpQJNevV3gGYvAgY",
-				"img": "systems/falloutV12/assets/icons/items/apparel_mod.svg",
+				"img": "systems/fallout/assets/icons/items/apparel_mod.svg",
 				"name": "Overdrive Servos",
 				"ownership": {
 					"default": 0
@@ -755,7 +755,7 @@
 				"flags": {
 				},
 				"folder": "lLsTAfSqwrufEQub",
-				"img": "systems/falloutV12/assets/icons/items/apparel_mod.svg",
+				"img": "systems/fallout/assets/icons/items/apparel_mod.svg",
 				"name": "T-51d Leg",
 				"ownership": {
 					"default": 0

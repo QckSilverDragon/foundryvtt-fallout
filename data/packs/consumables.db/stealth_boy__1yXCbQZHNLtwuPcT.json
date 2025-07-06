@@ -4,7 +4,7 @@
 	"effects": [
 	],
 	"folder": "SI3ySgcRWajbytaR",
-	"img": "systems/falloutV12/assets/icons/items/consumable.svg",
+	"img": "systems/fallout/assets/icons/items/consumable.svg",
 	"name": "Stealth Boy",
 	"system": {
 		"addiction": 0,

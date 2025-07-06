@@ -4,7 +4,7 @@
 	"effects": [
 	],
 	"folder": "254i0e4Wc0Rhv6gc",
-	"img": "systems/falloutV12/assets/icons/items/perk.svg",
+	"img": "systems/fallout/assets/icons/items/perk.svg",
 	"name": "I Married a Robot",
 	"system": {
 		"description": "<p>+2 to all damage resistances against Robots for one scene</p>",

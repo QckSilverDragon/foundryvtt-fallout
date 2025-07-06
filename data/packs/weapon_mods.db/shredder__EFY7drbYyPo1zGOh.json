@@ -4,7 +4,7 @@
 	"effects": [
 	],
 	"folder": "quPD1XhueUUyV28a",
-	"img": "systems/falloutV12/assets/icons/items/weapon_mod.svg",
+	"img": "systems/fallout/assets/icons/items/weapon_mod.svg",
 	"name": "Shredder",
 	"system": {
 		"attachable": true,

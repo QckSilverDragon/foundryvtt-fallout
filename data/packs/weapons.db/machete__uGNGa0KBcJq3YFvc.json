@@ -4,7 +4,7 @@
 	"effects": [
 	],
 	"folder": "8HBxoFI4IGjaL6eX",
-	"img": "systems/falloutV12/assets/icons/items/weapon.svg",
+	"img": "systems/fallout/assets/icons/items/weapon.svg",
 	"name": "Machete",
 	"system": {
 		"ammo": "",
@@ -212,7 +212,7 @@
 				"flags": {
 				},
 				"folder": "SzIlY1yfHnorPM9b",
-				"img": "systems/falloutV12/assets/icons/items/weapon_mod.svg",
+				"img": "systems/fallout/assets/icons/items/weapon_mod.svg",
 				"name": "Serrated Blade",
 				"ownership": {
 					"default": 0

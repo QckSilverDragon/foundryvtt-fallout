@@ -4,7 +4,7 @@
 	"effects": [
 	],
 	"folder": "254i0e4Wc0Rhv6gc",
-	"img": "systems/falloutV12/assets/icons/items/perk.svg",
+	"img": "systems/fallout/assets/icons/items/perk.svg",
 	"name": "Beware the Man Handler",
 	"system": {
 		"description": "<p>The group AP pool may contain 1 AP more than normal for one scene</p>",

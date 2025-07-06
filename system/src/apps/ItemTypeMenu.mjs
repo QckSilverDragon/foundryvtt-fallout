@@ -28,7 +28,7 @@ export default class ItemTypeMenu extends Application {
 	}
 
 	get template() {
-		return "systems/falloutV12/templates/apps/item-type-menu.hbs";
+		return "systems/fallout/templates/apps/item-type-menu.hbs";
 	}
 
 	get title() {

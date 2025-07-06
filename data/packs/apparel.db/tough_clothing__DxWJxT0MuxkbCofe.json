@@ -4,7 +4,7 @@
 	"effects": [
 	],
 	"folder": "mtR30GikhQq9bCZw",
-	"img": "systems/falloutV12/assets/icons/items/apparel.svg",
+	"img": "systems/fallout/assets/icons/items/apparel.svg",
 	"name": "Tough Clothing",
 	"system": {
 		"apparelType": "clothing",
@@ -47,7 +47,7 @@
 				"flags": {
 				},
 				"folder": "zV91jOW1G58krnbG",
-				"img": "systems/falloutV12/assets/icons/items/apparel_mod.svg",
+				"img": "systems/fallout/assets/icons/items/apparel_mod.svg",
 				"name": "Ballistic Weave Mk II",
 				"ownership": {
 					"default": 0
@@ -101,7 +101,7 @@
 				"flags": {
 				},
 				"folder": "zV91jOW1G58krnbG",
-				"img": "systems/falloutV12/assets/icons/items/apparel_mod.svg",
+				"img": "systems/fallout/assets/icons/items/apparel_mod.svg",
 				"name": "Ballistic Weave",
 				"ownership": {
 					"default": 0
@@ -156,7 +156,7 @@
 				"flags": {
 				},
 				"folder": "zV91jOW1G58krnbG",
-				"img": "systems/falloutV12/assets/icons/items/apparel_mod.svg",
+				"img": "systems/fallout/assets/icons/items/apparel_mod.svg",
 				"name": "Ballistic Weave Mk V",
 				"ownership": {
 					"default": 0
@@ -210,7 +210,7 @@
 				"flags": {
 				},
 				"folder": "zV91jOW1G58krnbG",
-				"img": "systems/falloutV12/assets/icons/items/apparel_mod.svg",
+				"img": "systems/fallout/assets/icons/items/apparel_mod.svg",
 				"name": "Ballistic Weave Mk IV",
 				"ownership": {
 					"default": 0
@@ -265,7 +265,7 @@
 				"flags": {
 				},
 				"folder": "zV91jOW1G58krnbG",
-				"img": "systems/falloutV12/assets/icons/items/apparel_mod.svg",
+				"img": "systems/fallout/assets/icons/items/apparel_mod.svg",
 				"name": "Ballistic Weave Mk III",
 				"ownership": {
 					"default": 0

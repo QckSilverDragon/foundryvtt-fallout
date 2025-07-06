@@ -4,7 +4,7 @@
 	"effects": [
 	],
 	"folder": null,
-	"img": "systems/falloutV12/assets/icons/items/perk.svg",
+	"img": "systems/fallout/assets/icons/items/perk.svg",
 	"name": "Scrapper",
 	"system": {
 		"description": "<p>When you scrap an item, you can salvage uncommon component materials as well as common ones (see p.208). At rank 2, you can also salvage rare materials. Each time you take this perk, the level requirement increases by 5.</p>\n<p><strong>Requirements</strong>: Level 3+</p>",

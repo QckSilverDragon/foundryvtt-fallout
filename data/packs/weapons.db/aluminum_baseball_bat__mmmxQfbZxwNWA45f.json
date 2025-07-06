@@ -4,7 +4,7 @@
 	"effects": [
 	],
 	"folder": "8HBxoFI4IGjaL6eX",
-	"img": "systems/falloutV12/assets/icons/items/weapon.svg",
+	"img": "systems/fallout/assets/icons/items/weapon.svg",
 	"name": "Aluminum Baseball Bat",
 	"system": {
 		"ammo": "",
@@ -212,7 +212,7 @@
 				"flags": {
 				},
 				"folder": "Pq7KJHHyHnmMte4R",
-				"img": "systems/falloutV12/assets/icons/items/weapon_mod.svg",
+				"img": "systems/fallout/assets/icons/items/weapon_mod.svg",
 				"name": "Spiked",
 				"ownership": {
 					"VPaZZj6iFrBVseNS": 3,
@@ -432,7 +432,7 @@
 				"flags": {
 				},
 				"folder": "Pq7KJHHyHnmMte4R",
-				"img": "systems/falloutV12/assets/icons/items/weapon_mod.svg",
+				"img": "systems/fallout/assets/icons/items/weapon_mod.svg",
 				"name": "Bladed",
 				"ownership": {
 					"VPaZZj6iFrBVseNS": 3,
@@ -652,7 +652,7 @@
 				"flags": {
 				},
 				"folder": "Pq7KJHHyHnmMte4R",
-				"img": "systems/falloutV12/assets/icons/items/weapon_mod.svg",
+				"img": "systems/fallout/assets/icons/items/weapon_mod.svg",
 				"name": "Barbed",
 				"ownership": {
 					"VPaZZj6iFrBVseNS": 3,
@@ -873,7 +873,7 @@
 				"flags": {
 				},
 				"folder": "Pq7KJHHyHnmMte4R",
-				"img": "systems/falloutV12/assets/icons/items/weapon_mod.svg",
+				"img": "systems/fallout/assets/icons/items/weapon_mod.svg",
 				"name": "Chain-Wrapped",
 				"ownership": {
 					"VPaZZj6iFrBVseNS": 3,
@@ -1097,7 +1097,7 @@
 				"flags": {
 				},
 				"folder": "Pq7KJHHyHnmMte4R",
-				"img": "systems/falloutV12/assets/icons/items/weapon_mod.svg",
+				"img": "systems/fallout/assets/icons/items/weapon_mod.svg",
 				"name": "Sharp",
 				"ownership": {
 					"VPaZZj6iFrBVseNS": 3,

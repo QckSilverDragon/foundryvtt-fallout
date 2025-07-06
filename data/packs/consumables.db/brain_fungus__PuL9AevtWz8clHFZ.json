@@ -4,7 +4,7 @@
 	"effects": [
 	],
 	"folder": "9QCCOyxmiCDBRWbX",
-	"img": "systems/falloutV12/assets/icons/items/consumable.svg",
+	"img": "systems/fallout/assets/icons/items/consumable.svg",
 	"name": "Brain Fungus",
 	"system": {
 		"addiction": 0,

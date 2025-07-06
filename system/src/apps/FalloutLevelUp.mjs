@@ -37,13 +37,13 @@ export default class FalloutLevelUp extends HandlebarsApplicationMixin(Applicati
 	/** @override */
 	static PARTS = {
 		newLevel: {
-			template: "systems/falloutV12/templates/apps/level-up/new-level.hbs",
+			template: "systems/fallout/templates/apps/level-up/new-level.hbs",
 		},
 		maxHP: {
-			template: "systems/falloutV12/templates/apps/level-up/max-hp.hbs",
+			template: "systems/fallout/templates/apps/level-up/max-hp.hbs",
 		},
 		perkSelection: {
-			template: "systems/falloutV12/templates/apps/level-up/perk-selection.hbs",
+			template: "systems/fallout/templates/apps/level-up/perk-selection.hbs",
 		},
 		footer: {
 			template: "templates/generic/form-footer.hbs",

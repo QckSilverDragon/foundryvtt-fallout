@@ -4,7 +4,7 @@
 	"effects": [
 	],
 	"folder": null,
-	"img": "systems/falloutV12/assets/icons/items/miscellany.svg",
+	"img": "systems/fallout/assets/icons/items/miscellany.svg",
 	"name": "Flashlight",
 	"system": {
 		"canBeScrapped": true,

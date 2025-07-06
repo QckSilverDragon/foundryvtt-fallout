@@ -4,7 +4,7 @@
 	"effects": [
 	],
 	"folder": "8HBxoFI4IGjaL6eX",
-	"img": "systems/falloutV12/assets/icons/items/weapon.svg",
+	"img": "systems/fallout/assets/icons/items/weapon.svg",
 	"name": "Walking Cane",
 	"system": {
 		"ammo": "",
@@ -212,7 +212,7 @@
 				"flags": {
 				},
 				"folder": "tKXXYXVZLrhcX4yZ",
-				"img": "systems/falloutV12/assets/icons/items/weapon_mod.svg",
+				"img": "systems/fallout/assets/icons/items/weapon_mod.svg",
 				"name": "Spiked",
 				"ownership": {
 					"default": 0
@@ -431,7 +431,7 @@
 				"flags": {
 				},
 				"folder": "tKXXYXVZLrhcX4yZ",
-				"img": "systems/falloutV12/assets/icons/items/weapon_mod.svg",
+				"img": "systems/fallout/assets/icons/items/weapon_mod.svg",
 				"name": "Barbed",
 				"ownership": {
 					"default": 0

@@ -4,7 +4,7 @@
 	"effects": [
 	],
 	"folder": "DagwwzOUnltpJ4eB",
-	"img": "systems/falloutV12/assets/icons/items/apparel.svg",
+	"img": "systems/fallout/assets/icons/items/apparel.svg",
 	"name": "Vault-Tec Security Helmet",
 	"system": {
 		"apparelType": "armor",

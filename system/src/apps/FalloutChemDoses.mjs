@@ -20,7 +20,7 @@ export default class FalloutChemDoses extends FormApplication {
 
 	/** @inheritdoc */
 	get template() {
-		return "systems/falloutV12/templates/apps/chem-doses.hbs";
+		return "systems/fallout/templates/apps/chem-doses.hbs";
 	}
 
 	/** @inheritdoc */
@@ -77,7 +77,7 @@ export default class FalloutChemDoses extends FormApplication {
 		event.preventDefault();
 
 		renderTemplate(
-			"systems/falloutV12/templates/dialogs/are-you-sure.hbs"
+			"systems/fallout/templates/dialogs/are-you-sure.hbs"
 		).then(html => {
 			new Dialog({
 				title: `${game.i18n.localize("FALLOUT.UI.ChemDoses.ConfirmReset")}`,

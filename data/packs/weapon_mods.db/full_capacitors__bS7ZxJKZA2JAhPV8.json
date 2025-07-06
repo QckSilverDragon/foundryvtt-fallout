@@ -4,7 +4,7 @@
 	"effects": [
 	],
 	"folder": "FsftjyUpE5iKkHY3",
-	"img": "systems/falloutV12/assets/icons/items/weapon_mod.svg",
+	"img": "systems/fallout/assets/icons/items/weapon_mod.svg",
 	"name": "Full Capacitors",
 	"system": {
 		"attachable": true,

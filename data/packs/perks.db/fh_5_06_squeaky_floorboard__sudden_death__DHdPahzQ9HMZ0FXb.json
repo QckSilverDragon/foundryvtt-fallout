@@ -4,7 +4,7 @@
 	"effects": [
 	],
 	"folder": "yqwsUbSI5liyBtpj",
-	"img": "systems/falloutV12/assets/icons/items/perk.svg",
+	"img": "systems/fallout/assets/icons/items/perk.svg",
 	"name": "FH 5-06 Squeaky Floorboard, Sudden Death",
 	"system": {
 		"description": "<p>Once, when you suffer one or more Complications on a Sneak test, ignore the complications</p>",

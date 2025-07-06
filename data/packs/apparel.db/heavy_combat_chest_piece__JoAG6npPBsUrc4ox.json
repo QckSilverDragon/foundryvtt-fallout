@@ -4,7 +4,7 @@
 	"effects": [
 	],
 	"folder": "Hfs10fscarmrcuOV",
-	"img": "systems/falloutV12/assets/icons/items/apparel.svg",
+	"img": "systems/fallout/assets/icons/items/apparel.svg",
 	"name": "Heavy Combat Chest Piece",
 	"system": {
 		"apparelType": "armor",
@@ -47,7 +47,7 @@
 				"flags": {
 				},
 				"folder": "4o4WqT1kVgccjvmx",
-				"img": "systems/falloutV12/assets/icons/items/apparel_mod.svg",
+				"img": "systems/fallout/assets/icons/items/apparel_mod.svg",
 				"name": "Deep Pocketed (Torso)",
 				"ownership": {
 					"default": 0
@@ -101,7 +101,7 @@
 				"flags": {
 				},
 				"folder": "4o4WqT1kVgccjvmx",
-				"img": "systems/falloutV12/assets/icons/items/apparel_mod.svg",
+				"img": "systems/fallout/assets/icons/items/apparel_mod.svg",
 				"name": "Pocketed (Torso)",
 				"ownership": {
 					"default": 0
@@ -155,7 +155,7 @@
 				"flags": {
 				},
 				"folder": "4o4WqT1kVgccjvmx",
-				"img": "systems/falloutV12/assets/icons/items/apparel_mod.svg",
+				"img": "systems/fallout/assets/icons/items/apparel_mod.svg",
 				"name": "Lighter Build (Torso)",
 				"ownership": {
 					"default": 0
@@ -209,7 +209,7 @@
 				"flags": {
 				},
 				"folder": "hX1IhpilWGz9MjVG",
-				"img": "systems/falloutV12/assets/icons/items/apparel_mod.svg",
+				"img": "systems/fallout/assets/icons/items/apparel_mod.svg",
 				"name": "Pneumatic",
 				"ownership": {
 					"default": 0
@@ -263,7 +263,7 @@
 				"flags": {
 				},
 				"folder": "3txykwrcDDfTdRcH",
-				"img": "systems/falloutV12/assets/icons/items/apparel_mod.svg",
+				"img": "systems/fallout/assets/icons/items/apparel_mod.svg",
 				"name": "Polymer (Torso)",
 				"ownership": {
 					"default": 0
@@ -317,7 +317,7 @@
 				"flags": {
 				},
 				"folder": "hX1IhpilWGz9MjVG",
-				"img": "systems/falloutV12/assets/icons/items/apparel_mod.svg",
+				"img": "systems/fallout/assets/icons/items/apparel_mod.svg",
 				"name": "BioCommMesh",
 				"ownership": {
 					"default": 0
@@ -371,7 +371,7 @@
 				"flags": {
 				},
 				"folder": "4o4WqT1kVgccjvmx",
-				"img": "systems/falloutV12/assets/icons/items/apparel_mod.svg",
+				"img": "systems/fallout/assets/icons/items/apparel_mod.svg",
 				"name": "Lead Lined (Torso)",
 				"ownership": {
 					"default": 0
@@ -425,7 +425,7 @@
 				"flags": {
 				},
 				"folder": "3txykwrcDDfTdRcH",
-				"img": "systems/falloutV12/assets/icons/items/apparel_mod.svg",
+				"img": "systems/fallout/assets/icons/items/apparel_mod.svg",
 				"name": "Reinforced (Torso)",
 				"ownership": {
 					"default": 0
@@ -479,7 +479,7 @@
 				"flags": {
 				},
 				"folder": "hX1IhpilWGz9MjVG",
-				"img": "systems/falloutV12/assets/icons/items/apparel_mod.svg",
+				"img": "systems/fallout/assets/icons/items/apparel_mod.svg",
 				"name": "Dense",
 				"ownership": {
 					"default": 0
@@ -533,7 +533,7 @@
 				"flags": {
 				},
 				"folder": "3txykwrcDDfTdRcH",
-				"img": "systems/falloutV12/assets/icons/items/apparel_mod.svg",
+				"img": "systems/fallout/assets/icons/items/apparel_mod.svg",
 				"name": "Fiberglass (Torso)",
 				"ownership": {
 					"default": 0
@@ -588,7 +588,7 @@
 				"flags": {
 				},
 				"folder": "hX1IhpilWGz9MjVG",
-				"img": "systems/falloutV12/assets/icons/items/apparel_mod.svg",
+				"img": "systems/fallout/assets/icons/items/apparel_mod.svg",
 				"name": "Asbestos Lining",
 				"ownership": {
 					"default": 0
@@ -642,7 +642,7 @@
 				"flags": {
 				},
 				"folder": "3txykwrcDDfTdRcH",
-				"img": "systems/falloutV12/assets/icons/items/apparel_mod.svg",
+				"img": "systems/fallout/assets/icons/items/apparel_mod.svg",
 				"name": "Shadowed (Torso)",
 				"ownership": {
 					"default": 0
@@ -700,7 +700,7 @@
 				"flags": {
 				},
 				"folder": "hX1IhpilWGz9MjVG",
-				"img": "systems/falloutV12/assets/icons/items/apparel_mod.svg",
+				"img": "systems/fallout/assets/icons/items/apparel_mod.svg",
 				"name": "Padded",
 				"ownership": {
 					"default": 0
@@ -754,7 +754,7 @@
 				"flags": {
 				},
 				"folder": "4o4WqT1kVgccjvmx",
-				"img": "systems/falloutV12/assets/icons/items/apparel_mod.svg",
+				"img": "systems/fallout/assets/icons/items/apparel_mod.svg",
 				"name": "Ultra Light Build (Torso)",
 				"ownership": {
 					"default": 0

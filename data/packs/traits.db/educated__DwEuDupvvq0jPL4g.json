@@ -4,7 +4,7 @@
 	"effects": [
 	],
 	"folder": null,
-	"img": "systems/falloutV12/assets/icons/items/trait.svg",
+	"img": "systems/fallout/assets/icons/items/trait.svg",
 	"name": "Educated",
 	"system": {
 		"description": "<p>You have one additional tag skill.</p>\n<p>When you fail a skill test using a skill other than a tag skill, the GM gains 1 AP.</p>",

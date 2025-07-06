@@ -4,7 +4,7 @@
 	"effects": [
 	],
 	"folder": null,
-	"img": "systems/falloutV12/assets/icons/items/perk.svg",
+	"img": "systems/fallout/assets/icons/items/perk.svg",
 	"name": "Lead Belly",
 	"system": {
 		"description": "<p>At rank 1, you may re-roll the CD to determine if you suffer radiation damage from irradiated food or drink. At rank 2, you are immune to radiation damage from consuming irradiated food or drink. Each time you take this perk, the level requirement increases by 4.</p>\n<p><strong>Requirements</strong>: END 6, Level 1+</p>",

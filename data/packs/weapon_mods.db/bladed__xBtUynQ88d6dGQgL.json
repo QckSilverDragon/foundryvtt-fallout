@@ -4,7 +4,7 @@
 	"effects": [
 	],
 	"folder": "m5KqewESbGVXLyJc",
-	"img": "systems/falloutV12/assets/icons/items/weapon_mod.svg",
+	"img": "systems/fallout/assets/icons/items/weapon_mod.svg",
 	"name": "Bladed",
 	"system": {
 		"attachable": true,

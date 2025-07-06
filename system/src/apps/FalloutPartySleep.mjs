@@ -13,7 +13,7 @@ export default class FalloutPartySleep extends Application {
 		return foundry.utils.mergeObject(super.defaultOptions, {
 			id: "party-sleep",
 			classes: ["fallout", "party-sleep"],
-			template: "systems/falloutV12/templates/apps/party-sleep.hbs",
+			template: "systems/fallout/templates/apps/party-sleep.hbs",
 			width: 300,
 			height: "auto",
 			// width: "auto",

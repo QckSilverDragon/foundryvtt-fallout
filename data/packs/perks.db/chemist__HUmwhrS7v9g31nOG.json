@@ -4,7 +4,7 @@
 	"effects": [
 	],
 	"folder": null,
-	"img": "systems/falloutV12/assets/icons/items/perk.svg",
+	"img": "systems/fallout/assets/icons/items/perk.svg",
 	"name": "Chemist",
 	"system": {
 		"description": "<p>Chems you create last twice as long as normal (see p.164). In addition, you unlock chems recipes that have this perk as a requirement.</p>\n<p><strong>Requirements</strong>: INT 7</p>",

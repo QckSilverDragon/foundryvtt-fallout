@@ -4,7 +4,7 @@
 	"effects": [
 	],
 	"folder": null,
-	"img": "systems/falloutV12/assets/icons/items/perk.svg",
+	"img": "systems/fallout/assets/icons/items/perk.svg",
 	"name": "Bloody Mess",
 	"system": {
 		"description": "<p>When you inflict a critical hit, roll 1DCD; if you roll an Effect, you inflict one additional injury to a random location.</p>\n<p><strong>Requirements</strong>: LCK 6</p>",

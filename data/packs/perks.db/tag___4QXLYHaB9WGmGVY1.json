@@ -4,7 +4,7 @@
 	"effects": [
 	],
 	"folder": null,
-	"img": "systems/falloutV12/assets/icons/items/perk.svg",
+	"img": "systems/fallout/assets/icons/items/perk.svg",
 	"name": "Tag!",
 	"system": {
 		"description": "<p>You may select one additional Tag skill. Increase the skill&rsquo;s rank by 2, to a maximum of 6, and mark it as a Tag skill, allowing you to roll a critical success with a d20 result equal or under the skill&rsquo;s rank.</p>\n<p><strong>Requirements</strong>: Level 5+</p>",

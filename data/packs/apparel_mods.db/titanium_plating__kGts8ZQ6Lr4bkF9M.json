@@ -4,7 +4,7 @@
 	"effects": [
 	],
 	"folder": "0sZTfWE1J7mKvvnK",
-	"img": "systems/falloutV12/assets/icons/items/apparel_mod.svg",
+	"img": "systems/fallout/assets/icons/items/apparel_mod.svg",
 	"name": "Titanium Plating",
 	"system": {
 		"apparelType": "powerArmor",

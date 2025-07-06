@@ -8,7 +8,7 @@ export const renderSidebarSettingsTab = {
 			if (object instanceof Settings) {
 				const gameDetails = html.find("#game-details");
 
-				const template = "systems/falloutV12/templates/ui/system-details.hbs";
+				const template = "systems/fallout/templates/ui/system-details.hbs";
 				const rendered = await renderTemplate(template);
 
 				gameDetails.find(".system").append(rendered);

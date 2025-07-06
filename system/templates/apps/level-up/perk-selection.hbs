@@ -1,48 +1,10 @@
-<!--Perk filter: Show All, Show Available
-	Perk Sort: Alphabetical, SPECIAL
-	-->
-<!-- Perks List
-	Image	| SPECIALS						| Add(button)
-			| Ranks			Level, next lvl	| *Remove(button)*
-			| Limitations					|
-			| Description					|
-	-->
 <section>
-	<h3>{{localize 'FALLOUT.UI.Perks'}}</h3>
-	<div class="flexrow">
-		<div>
-			<label class="field-label">
-				{{localize "FALLOUT.UI.filter"}}
-			</label>
-			<select name="filter">
-				<option value="available">Show Available</option>
-				<option value="all">Show All</option>
-			</select>
-		</div>
-		&nbsp;
-		<div>
-			<label class="field-label">
-				{{localize "FALLOUT.UI.Sort"}}
-			</label>
-			<select name="sort">
-				<option value="alphabetical">Alphabetical</option>
-				<!--<option value="special">S.P.E.C.I.A.L.</option>-->
-			</select>
-		</div>
-	</div>
+	<h3>Available Perks</h3>
 	<ul>
 		{{#each availablePerks}}
-			{{> apps/perk-selector/perk
-					item=this
-			}}
+		<li>
+			{{this.item.name}}
+		</li>
 		{{/each}}
 	</ul>
-
-	<img class="profile-img"
-		 data-edit="img"
-		 height="100"
-		 src="{{actor.img}}"
-		 title="{{actor.name}}"
-		 width="100" />
-
 </section>

@@ -4,7 +4,7 @@
 	"effects": [
 	],
 	"folder": null,
-	"img": "systems/falloutV12/assets/icons/items/perk.svg",
+	"img": "systems/fallout/assets/icons/items/perk.svg",
 	"name": "Sniper",
 	"system": {
 		"description": "<p>When you take the Aim minor action, and then make a ranged attack with a two-handed weapon with the Accurate quality, you can specify a hit location to target without increasing the difficulty of the attack.</p>\n<p><strong>Requirements</strong>: PER 8, AGI 6</p>",

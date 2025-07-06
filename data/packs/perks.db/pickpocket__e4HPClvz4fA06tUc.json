@@ -4,7 +4,7 @@
 	"effects": [
 	],
 	"folder": null,
-	"img": "systems/falloutV12/assets/icons/items/perk.svg",
+	"img": "systems/fallout/assets/icons/items/perk.svg",
 	"name": "Pickpocket",
 	"system": {
 		"description": "<p>At rank 1, you can ignore the first complication you roll when you make an AGI + Sneak test to steal an object from someone else&rsquo;s person or to plant something on them.</p>\n<p>At rank 2, you can re-roll 1d20 in your dice pool when attempting to pick someone&rsquo;s pocket.</p>\n<p>At rank 3, you reduce the difficulty of attempts to pick someone&rsquo;s pocket by 1.</p>\n<p>Each time you take this perk, the level requirement increases by 3.</p>\n<p><strong>Requirements</strong>: PER 8, AGI 8, Level 1+</p>",

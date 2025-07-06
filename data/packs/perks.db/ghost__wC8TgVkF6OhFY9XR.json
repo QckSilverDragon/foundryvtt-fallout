@@ -4,7 +4,7 @@
 	"effects": [
 	],
 	"folder": null,
-	"img": "systems/falloutV12/assets/icons/items/perk.svg",
+	"img": "systems/fallout/assets/icons/items/perk.svg",
 	"name": "Ghost",
 	"system": {
 		"description": "<p>Whenever you attempt an AGI + Sneak test in shadows or darkness, the first additional d20 you buy is free. The normal maximum of 5d20 still applies.</p>\n<p><strong>Requirements</strong>: PER, AGI 6</p>",

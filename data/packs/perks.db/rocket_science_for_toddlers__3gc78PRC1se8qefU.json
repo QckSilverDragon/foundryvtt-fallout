@@ -4,7 +4,7 @@
 	"effects": [
 	],
 	"folder": "zY0rwlqXY0Yb7tFp",
-	"img": "systems/falloutV12/assets/icons/items/perk.svg",
+	"img": "systems/fallout/assets/icons/items/perk.svg",
 	"name": "Rocket Science for Toddlers",
 	"system": {
 		"description": "<p>+2CD damage inflicted by one attack with a Blast weapon</p>",

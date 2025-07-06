@@ -4,7 +4,7 @@
 	"effects": [
 	],
 	"folder": null,
-	"img": "systems/falloutV12/assets/icons/items/perk.svg",
+	"img": "systems/fallout/assets/icons/items/perk.svg",
 	"name": "Action Boy / Girl",
 	"system": {
 		"description": "<p>When you spend AP to take an additional major action, you do not suffer the increased skill test difficulty during your second action.</p>",

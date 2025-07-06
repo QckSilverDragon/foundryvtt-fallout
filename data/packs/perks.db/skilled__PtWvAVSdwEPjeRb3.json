@@ -4,7 +4,7 @@
 	"effects": [
 	],
 	"folder": null,
-	"img": "systems/falloutV12/assets/icons/items/perk.svg",
+	"img": "systems/fallout/assets/icons/items/perk.svg",
 	"name": "Skilled",
 	"system": {
 		"description": "<p>Add +1 rank to two skills or add +2 ranks to one skill. No skill may have more than 6 ranks. Each time you take this perk, the level requirement increases by 3.</p>\n<p><strong>Requirements</strong>: Level 3+</p>",

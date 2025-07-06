@@ -4,7 +4,7 @@
 	"effects": [
 	],
 	"folder": "Htqdrwq1W92U4qPP",
-	"img": "systems/falloutV12/assets/icons/items/weapon_mod.svg",
+	"img": "systems/fallout/assets/icons/items/weapon_mod.svg",
 	"name": "Stabilizer",
 	"system": {
 		"attachable": true,

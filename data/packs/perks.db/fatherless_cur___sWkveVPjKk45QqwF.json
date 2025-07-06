@@ -4,7 +4,7 @@
 	"effects": [
 	],
 	"folder": "wLlEWSMEFaVWTQ5E",
-	"img": "systems/falloutV12/assets/icons/items/perk.svg",
+	"img": "systems/fallout/assets/icons/items/perk.svg",
 	"name": "Fatherless Cur!",
 	"system": {
 		"description": "<p>Ignore one complication on a melee attack</p>",

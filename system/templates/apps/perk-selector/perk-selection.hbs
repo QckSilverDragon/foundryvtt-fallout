@@ -2,13 +2,14 @@
 	Perk Sort: Alphabetical, SPECIAL
 	-->
 <!-- Perks List
-	Image	| SPECIALS						| Add(button)
+	Image	| Perk Name						|
+			| SPECIALS						| Add(button)
 			| Ranks			Level, next lvl	| *Remove(button)*
 			| Limitations					|
 			| Description					|
 	-->
 <section>
-	<h3>{{localize 'FALLOUT.UI.Perks'}}</h3>
+	<h2>{{localize 'FALLOUT.UI.Perks'}}</h2>
 	<div class="flexrow">
 		<div>
 			<label class="field-label">
@@ -30,12 +31,12 @@
 			</select>
 		</div>
 	</div>
-	<ul>
+	<ol class="items-list scrollable" style="list-style: none; padding-top: 10px; max-height: 74vh;">
 		{{#each availablePerks}}
 		{{> apps/perk-selector/perk
 					item=this
 		}}
 		{{/each}}
-	</ul>
-
+	</ol>
+	&nbsp;
 </section>

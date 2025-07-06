@@ -1,13 +1,19 @@
-<li class="item perk">
-	<img class="profile-img"
-		 data-edit="img"
-		 height="100"
-		 src="{{this.item.img}}"
-		 title="{{this.item.name}}"
-		 width="100" />
-	<label class="field-label">
-		this.item.name
-	</label>
+<li class="item perk" data-item-id="{{item.item._id}}">
+	<h3 class="field-label" style="margin: 0;">
+		{{item.item.name}}
+	</h3>
+	<div class="flexrow" style="flex-wrap: nowrap; align-items: flex-start;">
+		<img class="item-image flexshrink"
+			 data-edit="img"
+			 height="100"
+			 src="{{item.item.img}}"
+			 title="{{item.item.name}}"
+			 width="100" />
+
+		<div class="item-description" style="padding-left: 5px; ">
+			{{{item.item.system.description}}}
+		</div>
+	</div>
 </li>
 
 <!--<li class="item weapon_mod" data-item-id="{{item._id}}">

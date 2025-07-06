@@ -4,7 +4,7 @@
 	"effects": [
 	],
 	"folder": "3txykwrcDDfTdRcH",
-	"img": "systems/falloutV12/assets/icons/items/apparel_mod.svg",
+	"img": "systems/fallout/assets/icons/items/apparel_mod.svg",
 	"name": "Reinforced",
 	"system": {
 		"apparelType": "armor",

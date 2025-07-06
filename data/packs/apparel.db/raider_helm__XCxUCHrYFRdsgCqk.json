@@ -4,7 +4,7 @@
 	"effects": [
 	],
 	"folder": "fwE0tDCbJx6ih6Wv",
-	"img": "systems/falloutV12/assets/icons/items/apparel.svg",
+	"img": "systems/fallout/assets/icons/items/apparel.svg",
 	"name": "Raider Helm",
 	"system": {
 		"apparelType": "powerArmor",
@@ -47,7 +47,7 @@
 				"flags": {
 				},
 				"folder": "JpQJNevV3gGYvAgY",
-				"img": "systems/falloutV12/assets/icons/items/apparel_mod.svg",
+				"img": "systems/fallout/assets/icons/items/apparel_mod.svg",
 				"name": "Rad Scrubber",
 				"ownership": {
 					"default": 0
@@ -101,7 +101,7 @@
 				"flags": {
 				},
 				"folder": "JpQJNevV3gGYvAgY",
-				"img": "systems/falloutV12/assets/icons/items/apparel_mod.svg",
+				"img": "systems/fallout/assets/icons/items/apparel_mod.svg",
 				"name": "Targeting HUD",
 				"ownership": {
 					"default": 0
@@ -155,7 +155,7 @@
 				"flags": {
 				},
 				"folder": "0sZTfWE1J7mKvvnK",
-				"img": "systems/falloutV12/assets/icons/items/apparel_mod.svg",
+				"img": "systems/fallout/assets/icons/items/apparel_mod.svg",
 				"name": "Explosive Shielding",
 				"ownership": {
 					"LbffuJGmFEdJvA7X": 3,
@@ -210,7 +210,7 @@
 				"flags": {
 				},
 				"folder": "0sZTfWE1J7mKvvnK",
-				"img": "systems/falloutV12/assets/icons/items/apparel_mod.svg",
+				"img": "systems/fallout/assets/icons/items/apparel_mod.svg",
 				"name": "Photovoltaic Plating",
 				"ownership": {
 					"default": 0
@@ -264,7 +264,7 @@
 				"flags": {
 				},
 				"folder": "JpQJNevV3gGYvAgY",
-				"img": "systems/falloutV12/assets/icons/items/apparel_mod.svg",
+				"img": "systems/fallout/assets/icons/items/apparel_mod.svg",
 				"name": "Sensor Array",
 				"ownership": {
 					"default": 0
@@ -318,7 +318,7 @@
 				"flags": {
 				},
 				"folder": "0sZTfWE1J7mKvvnK",
-				"img": "systems/falloutV12/assets/icons/items/apparel_mod.svg",
+				"img": "systems/fallout/assets/icons/items/apparel_mod.svg",
 				"name": "Prism Shielding",
 				"ownership": {
 					"default": 0
@@ -373,7 +373,7 @@
 				"flags": {
 				},
 				"folder": "0DHZb3YEpdbFcvX7",
-				"img": "systems/falloutV12/assets/icons/items/apparel_mod.svg",
+				"img": "systems/fallout/assets/icons/items/apparel_mod.svg",
 				"name": "Raider II Helm",
 				"ownership": {
 					"default": 0
@@ -428,7 +428,7 @@
 				"flags": {
 				},
 				"folder": "0sZTfWE1J7mKvvnK",
-				"img": "systems/falloutV12/assets/icons/items/apparel_mod.svg",
+				"img": "systems/fallout/assets/icons/items/apparel_mod.svg",
 				"name": "Titanium Plating",
 				"ownership": {
 					"default": 0
@@ -484,7 +484,7 @@
 				"flags": {
 				},
 				"folder": "0sZTfWE1J7mKvvnK",
-				"img": "systems/falloutV12/assets/icons/items/apparel_mod.svg",
+				"img": "systems/fallout/assets/icons/items/apparel_mod.svg",
 				"name": "Winterized Coating",
 				"ownership": {
 					"default": 0
@@ -539,7 +539,7 @@
 				"flags": {
 				},
 				"folder": "JpQJNevV3gGYvAgY",
-				"img": "systems/falloutV12/assets/icons/items/apparel_mod.svg",
+				"img": "systems/fallout/assets/icons/items/apparel_mod.svg",
 				"name": "Internal Database",
 				"ownership": {
 					"default": 0

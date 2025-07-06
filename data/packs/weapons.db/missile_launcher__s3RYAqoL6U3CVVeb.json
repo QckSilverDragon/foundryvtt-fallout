@@ -4,7 +4,7 @@
 	"effects": [
 	],
 	"folder": "zXkvl0ffMYUzEMkw",
-	"img": "systems/falloutV12/assets/icons/items/weapon.svg",
+	"img": "systems/fallout/assets/icons/items/weapon.svg",
 	"name": "Missile Launcher",
 	"system": {
 		"ammo": "Missile",
@@ -212,7 +212,7 @@
 				"flags": {
 				},
 				"folder": "NFL68qcVw45xA7h0",
-				"img": "systems/falloutV12/assets/icons/items/weapon_mod.svg",
+				"img": "systems/fallout/assets/icons/items/weapon_mod.svg",
 				"name": "Quad Barrel",
 				"ownership": {
 					"default": 0
@@ -431,7 +431,7 @@
 				"flags": {
 				},
 				"folder": "Htqdrwq1W92U4qPP",
-				"img": "systems/falloutV12/assets/icons/items/weapon_mod.svg",
+				"img": "systems/fallout/assets/icons/items/weapon_mod.svg",
 				"name": "Stabilizer",
 				"ownership": {
 					"default": 0
@@ -650,7 +650,7 @@
 				"flags": {
 				},
 				"folder": "NFL68qcVw45xA7h0",
-				"img": "systems/falloutV12/assets/icons/items/weapon_mod.svg",
+				"img": "systems/fallout/assets/icons/items/weapon_mod.svg",
 				"name": "Triple Barrel",
 				"ownership": {
 					"default": 0
@@ -869,7 +869,7 @@
 				"flags": {
 				},
 				"folder": "8Uav0KQF8s6bGnC5",
-				"img": "systems/falloutV12/assets/icons/items/weapon_mod.svg",
+				"img": "systems/fallout/assets/icons/items/weapon_mod.svg",
 				"name": "Scope",
 				"ownership": {
 					"default": 0
@@ -1089,7 +1089,7 @@
 				"flags": {
 				},
 				"folder": "8Uav0KQF8s6bGnC5",
-				"img": "systems/falloutV12/assets/icons/items/weapon_mod.svg",
+				"img": "systems/fallout/assets/icons/items/weapon_mod.svg",
 				"name": "Night Vision Scope",
 				"ownership": {
 					"default": 0
@@ -1312,7 +1312,7 @@
 				"flags": {
 				},
 				"folder": "Htqdrwq1W92U4qPP",
-				"img": "systems/falloutV12/assets/icons/items/weapon_mod.svg",
+				"img": "systems/fallout/assets/icons/items/weapon_mod.svg",
 				"name": "Bayonet",
 				"ownership": {
 					"default": 0
@@ -1531,7 +1531,7 @@
 				"flags": {
 				},
 				"folder": "8Uav0KQF8s6bGnC5",
-				"img": "systems/falloutV12/assets/icons/items/weapon_mod.svg",
+				"img": "systems/fallout/assets/icons/items/weapon_mod.svg",
 				"name": "Targeting Computer",
 				"ownership": {
 					"default": 0

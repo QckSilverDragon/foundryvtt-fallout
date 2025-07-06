@@ -4,7 +4,7 @@
 	"effects": [
 	],
 	"folder": "d5zExHtwM2EBYNfH",
-	"img": "systems/falloutV12/assets/icons/items/weapon_mod.svg",
+	"img": "systems/fallout/assets/icons/items/weapon_mod.svg",
 	"name": "Electrification Module",
 	"system": {
 		"attachable": true,

@@ -4,7 +4,7 @@
 	"effects": [
 	],
 	"folder": null,
-	"img": "systems/falloutV12/assets/icons/items/perk.svg",
+	"img": "systems/fallout/assets/icons/items/perk.svg",
 	"name": "Nerd Rage!",
 	"system": {
 		"description": "<p>While your health is reduced to less than &frac14; of your maximum, you add +1 to your physical DR, +1 to your energy DR, and +1 CD to the damage of all your attacks.</p>\n<p>At rank 2, this increases to +2 DR, and +2 CD damage. At rank 3, this increases to +3 DR and +3 CD damage.</p>\n<p>Each time you take this perk, the level requirement increases by 5.</p>\n<p><strong>Requirements</strong>: INT 8, Level 2+</p>",

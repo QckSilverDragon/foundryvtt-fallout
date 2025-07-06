@@ -4,7 +4,7 @@
 	"effects": [
 	],
 	"folder": "tECAlH9Iqv1vJ3i6",
-	"img": "systems/falloutV12/assets/icons/items/weapon_mod.svg",
+	"img": "systems/fallout/assets/icons/items/weapon_mod.svg",
 	"name": "Extended Blade",
 	"system": {
 		"attachable": true,

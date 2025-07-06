@@ -4,7 +4,7 @@
 	"effects": [
 	],
 	"folder": "yqwsUbSI5liyBtpj",
-	"img": "systems/falloutV12/assets/icons/items/perk.svg",
+	"img": "systems/fallout/assets/icons/items/perk.svg",
 	"name": "FH 5-05 Who Goes There?",
 	"system": {
 		"description": "<p>When you spend a Luck point to re-roll a d20 on a PER test, instead count that die as if it had rolled a 1</p>",

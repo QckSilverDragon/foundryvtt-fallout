@@ -4,7 +4,7 @@
 	"effects": [
 	],
 	"folder": null,
-	"img": "systems/falloutV12/assets/icons/items/perk.svg",
+	"img": "systems/fallout/assets/icons/items/perk.svg",
 	"name": "Slayer",
 	"system": {
 		"description": "<p>When you inflict any damage with an unarmed attack or melee weapon, you may spend 1 Luck point to immediately inflict a critical hit&mdash;and therefore an injury&mdash;on the location hit.</p>\n<p><strong>Requirements</strong>: STR 8</p>",

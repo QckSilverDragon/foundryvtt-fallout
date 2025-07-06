@@ -4,7 +4,7 @@
 	"effects": [
 	],
 	"folder": null,
-	"img": "systems/falloutV12/assets/icons/items/perk.svg",
+	"img": "systems/fallout/assets/icons/items/perk.svg",
 	"name": "Refractor",
 	"system": {
 		"description": "<p>Your energy Damage Resistance to all hit locations increases by +1 per rank in this perk. Each time you take this perk, the level requirement increases by 4.</p>\n<p><strong>Requirements</strong>: PER 6, LCK 7, Level 1+</p>",

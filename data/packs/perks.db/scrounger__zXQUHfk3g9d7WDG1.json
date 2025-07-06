@@ -4,7 +4,7 @@
 	"effects": [
 	],
 	"folder": null,
-	"img": "systems/falloutV12/assets/icons/items/perk.svg",
+	"img": "systems/fallout/assets/icons/items/perk.svg",
 	"name": "Scrounger",
 	"system": {
 		"description": "<p>Whenever you roll to determine how much ammunition you find, you find more.</p>\n<p>At rank 1, you find +3CD additional shots. At rank 2, you find +6CCD additional shots. At rank 3, you find +10 CD additional shots. The additional ammo you find is the same as initially found, for example, if you find 10mm ammunition, this perk increases how much 10mm ammo you find. If you find multiple types of ammunition, Scrounger applies to the ammunition with the lowest rarity (GM&rsquo;s choice if there is a tie).</p>\n<p>Each time you take this perk, the level requirement increases by 5.</p>\n<p><strong>Requirements</strong>: LCK 6, Level 1+</p>",

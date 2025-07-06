@@ -4,7 +4,7 @@
 	"effects": [
 	],
 	"folder": "RcTaeHsZ8OmwAn5P",
-	"img": "systems/falloutV12/assets/icons/items/weapon_mod.svg",
+	"img": "systems/fallout/assets/icons/items/weapon_mod.svg",
 	"name": "Vaporization Nozzle",
 	"system": {
 		"attachable": true,

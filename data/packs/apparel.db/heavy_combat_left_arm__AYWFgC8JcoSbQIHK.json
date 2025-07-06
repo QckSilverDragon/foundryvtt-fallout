@@ -4,7 +4,7 @@
 	"effects": [
 	],
 	"folder": "Hfs10fscarmrcuOV",
-	"img": "systems/falloutV12/assets/icons/items/apparel.svg",
+	"img": "systems/fallout/assets/icons/items/apparel.svg",
 	"name": "Heavy Combat Left Arm",
 	"system": {
 		"apparelType": "armor",
@@ -47,7 +47,7 @@
 				"flags": {
 				},
 				"folder": "BuEsrVQbimoVYlW4",
-				"img": "systems/falloutV12/assets/icons/items/apparel_mod.svg",
+				"img": "systems/fallout/assets/icons/items/apparel_mod.svg",
 				"name": "Brawling",
 				"ownership": {
 					"default": 0
@@ -101,7 +101,7 @@
 				"flags": {
 				},
 				"folder": "3txykwrcDDfTdRcH",
-				"img": "systems/falloutV12/assets/icons/items/apparel_mod.svg",
+				"img": "systems/fallout/assets/icons/items/apparel_mod.svg",
 				"name": "Reinforced",
 				"ownership": {
 					"default": 0
@@ -155,7 +155,7 @@
 				"flags": {
 				},
 				"folder": "3txykwrcDDfTdRcH",
-				"img": "systems/falloutV12/assets/icons/items/apparel_mod.svg",
+				"img": "systems/fallout/assets/icons/items/apparel_mod.svg",
 				"name": "Shadowed",
 				"ownership": {
 					"default": 0
@@ -209,7 +209,7 @@
 				"flags": {
 				},
 				"folder": "3txykwrcDDfTdRcH",
-				"img": "systems/falloutV12/assets/icons/items/apparel_mod.svg",
+				"img": "systems/fallout/assets/icons/items/apparel_mod.svg",
 				"name": "Polymer",
 				"ownership": {
 					"default": 0
@@ -263,7 +263,7 @@
 				"flags": {
 				},
 				"folder": "4o4WqT1kVgccjvmx",
-				"img": "systems/falloutV12/assets/icons/items/apparel_mod.svg",
+				"img": "systems/fallout/assets/icons/items/apparel_mod.svg",
 				"name": "Deep Pocketed",
 				"ownership": {
 					"default": 0
@@ -317,7 +317,7 @@
 				"flags": {
 				},
 				"folder": "4o4WqT1kVgccjvmx",
-				"img": "systems/falloutV12/assets/icons/items/apparel_mod.svg",
+				"img": "systems/fallout/assets/icons/items/apparel_mod.svg",
 				"name": "Pocketed",
 				"ownership": {
 					"default": 0
@@ -371,7 +371,7 @@
 				"flags": {
 				},
 				"folder": "BuEsrVQbimoVYlW4",
-				"img": "systems/falloutV12/assets/icons/items/apparel_mod.svg",
+				"img": "systems/fallout/assets/icons/items/apparel_mod.svg",
 				"name": "Weighted",
 				"ownership": {
 					"default": 0
@@ -425,7 +425,7 @@
 				"flags": {
 				},
 				"folder": "BuEsrVQbimoVYlW4",
-				"img": "systems/falloutV12/assets/icons/items/apparel_mod.svg",
+				"img": "systems/fallout/assets/icons/items/apparel_mod.svg",
 				"name": "Stabilized",
 				"ownership": {
 					"default": 0
@@ -480,7 +480,7 @@
 				"flags": {
 				},
 				"folder": "3txykwrcDDfTdRcH",
-				"img": "systems/falloutV12/assets/icons/items/apparel_mod.svg",
+				"img": "systems/fallout/assets/icons/items/apparel_mod.svg",
 				"name": "Fiberglass",
 				"ownership": {
 					"default": 0
@@ -534,7 +534,7 @@
 				"flags": {
 				},
 				"folder": "4o4WqT1kVgccjvmx",
-				"img": "systems/falloutV12/assets/icons/items/apparel_mod.svg",
+				"img": "systems/fallout/assets/icons/items/apparel_mod.svg",
 				"name": "Ultra Light Build",
 				"ownership": {
 					"default": 0
@@ -589,7 +589,7 @@
 				"flags": {
 				},
 				"folder": "4o4WqT1kVgccjvmx",
-				"img": "systems/falloutV12/assets/icons/items/apparel_mod.svg",
+				"img": "systems/fallout/assets/icons/items/apparel_mod.svg",
 				"name": "Lead Lined",
 				"ownership": {
 					"default": 0
@@ -646,7 +646,7 @@
 				"flags": {
 				},
 				"folder": "BuEsrVQbimoVYlW4",
-				"img": "systems/falloutV12/assets/icons/items/apparel_mod.svg",
+				"img": "systems/fallout/assets/icons/items/apparel_mod.svg",
 				"name": "Aerodynamic",
 				"ownership": {
 					"default": 0
@@ -700,7 +700,7 @@
 				"flags": {
 				},
 				"folder": "4o4WqT1kVgccjvmx",
-				"img": "systems/falloutV12/assets/icons/items/apparel_mod.svg",
+				"img": "systems/fallout/assets/icons/items/apparel_mod.svg",
 				"name": "Lighter Build",
 				"ownership": {
 					"default": 0
@@ -754,7 +754,7 @@
 				"flags": {
 				},
 				"folder": "BuEsrVQbimoVYlW4",
-				"img": "systems/falloutV12/assets/icons/items/apparel_mod.svg",
+				"img": "systems/fallout/assets/icons/items/apparel_mod.svg",
 				"name": "Braced",
 				"ownership": {
 					"default": 0

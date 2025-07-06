@@ -38,7 +38,7 @@ export default class FalloutAddPerk extends HandlebarsApplicationMixin(Applicati
 	/** @override */
 	static PARTS = {
 		perkSelection: {
-			template: "systems/falloutV12/templates/apps/perk-selector/perk-selection.hbs",
+			template: "systems/fallout/templates/apps/perk-selector/perk-selection.hbs",
 		},
 		footer: {
 			template: "templates/generic/form-footer.hbs",

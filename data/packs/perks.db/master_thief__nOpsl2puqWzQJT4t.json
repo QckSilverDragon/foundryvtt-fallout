@@ -4,7 +4,7 @@
 	"effects": [
 	],
 	"folder": null,
-	"img": "systems/falloutV12/assets/icons/items/perk.svg",
+	"img": "systems/fallout/assets/icons/items/perk.svg",
 	"name": "Master Thief",
 	"system": {
 		"description": "<p>When you are attempting to pick a lock or pickpocket somebody, the difficulty of the opponent&rsquo;s skill test to detect you increases by +1.</p>\n<p><strong>Requirements</strong>: PER 8, AGI 9</p>",
