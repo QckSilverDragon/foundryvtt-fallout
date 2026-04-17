@@ -243,6 +243,7 @@ FALLOUT.Item.Origin.Traits.label: Origin Traits
 FALLOUT.Item.Origin.Traits.prompt: Select Trait...
 FALLOUT.Item.Perk.isCompanion: Is a Companion
 FALLOUT.Item.Perk.level: Level
+FALLOUT.Item.Perk.levelIncrease: Level Increase
 FALLOUT.Item.Perk.Magazine.label: Magazines
 FALLOUT.Item.Perk.Magazine.prompt: Select Magazine...
 FALLOUT.Item.Perk.notGhoul: Not a Ghoul

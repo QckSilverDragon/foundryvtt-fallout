@@ -2,10 +2,9 @@
 	Perk Sort: Alphabetical, SPECIAL
 	-->
 <!-- Perks List
-	Image	| Perk Name						|
-			| SPECIALS						| Add(button)
-			| Ranks			Level, next lvl	| *Remove(button)*
-			| Limitations					|
+	Perk Name
+	Image	| SPECIALS 						| Ranks
+			| Limitations					| Level, next lvl
 			| Description					|
 	-->
 <section>
@@ -16,8 +15,20 @@
 				{{localize "FALLOUT.UI.filter"}}
 			</label>
 			<select name="filter">
-				<option value="available">Show Available</option>
-				<option value="all">Show All</option>
+				<option value="available"
+				{{#ifCond this.filter "===" "available"}}
+				selected
+				{{/ifCond}}
+				>
+				Show Available
+				</option>
+				<option value="all"
+				{{#ifCond this.filter "===" "all"}}
+					selected
+				{{/ifCond}}
+				>
+				Show All
+				</option>
 			</select>
 		</div>
 		&nbsp;
@@ -31,12 +42,21 @@
 			</select>
 		</div>
 	</div>
-	<ol class="items-list scrollable" style="list-style: none; padding-top: 10px; max-height: 74vh;">
+	<ol class="item-list scrollable" style="list-style: none; padding-top: 10px; max-height: 75vh;">
+		{{#ifCond this.filter "===" "available"}}
 		{{#each availablePerks}}
 		{{> apps/perk-selector/perk
-					item=this
+			availablePerk=this
 		}}
 		{{/each}}
+		{{/ifCond}}
+		{{#ifCond this.filter "===" "all"}}
+		{{#each allPerks}}
+		{{> apps/perk-selector/perk
+			availablePerk=this
+		}}
+		{{/each}}
+		{{/ifCond}}
 	</ol>
-	&nbsp;
+	<span>	</span>
 </section>

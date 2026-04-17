@@ -93,6 +93,22 @@ export default function registerHandlebarsHelpers() {
 					elements.push(resultHtml.outerHTML);
 				}
 			}
+			else if (key === "magazineUuids") {
+				const requirement = requirements[key];
+				if (requirement.length === 0) {
+					continue;
+				}
+
+
+			}
+			// else if (key === "levelIncrease") {
+			//	const requirement = requirements[key];
+			//	if (requirement === 0) {
+			//		continue;
+			//	}
+
+
+			// }
 			else {
 				const requirement = requirements[key];
 
@@ -105,7 +121,7 @@ export default function registerHandlebarsHelpers() {
 				);
 
 				if ((typeof requirement) === "number" && requirement >= 1) {
-					requirementName += ` ${requirement}`;
+					requirementName += `&nbsp;${requirement}`;
 				}
 
 
@@ -118,7 +134,8 @@ export default function registerHandlebarsHelpers() {
 		let listString = "";
 
 		if (elements.length > 0) {
-			listString = elements.join(",&nbsp;");
+			const safeElements = elements.map(el => el.replace(/ /g, "&nbsp;"));
+			listString = safeElements.join(", ");
 		}
 		else {
 			listString = "&mdash;";

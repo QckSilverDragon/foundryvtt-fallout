@@ -1,17 +1,29 @@
-<li class="item perk" data-item-id="{{item.item._id}}">
+<li class="item perk {{#unless availablePerk.meetsRequirements}}perk-unavailable{{/unless}}"
+	data-item-id="{{availablePerk.item.uuid}}"
+	draggable="{{availablePerk.meetsRequirements}}">
 	<h3 class="field-label" style="margin: 0;">
-		{{item.item.name}}
+		{{availablePerk.item.name}}
 	</h3>
 	<div class="flexrow" style="flex-wrap: nowrap; align-items: flex-start;">
-		<img class="item-image flexshrink"
+		<img class="item-image "
 			 data-edit="img"
 			 height="100"
-			 src="{{item.item.img}}"
-			 title="{{item.item.name}}"
-			 width="100" />
+			 src="{{availablePerk.item.img}}"
+			 title="{{availablePerk.item.name}}"
+			 width="100"
+			 style="flex: 0;" />
 
-		<div class="item-description" style="padding-left: 5px; ">
-			{{{item.item.system.description}}}
+		<div class="item-description" style="padding-left: 5px; padding-right: 5px; ">
+			<div>{{{availablePerk.item.system.description}}}</div>
+			<!--<div>{{localize "FALLOUT.TEMPLATES.Requirements"}}</div>-->
+
+		</div>
+		<div class="flex0">
+			<div>
+				{{localize "FALLOUT.TEMPLATES.Rank"}}&nbsp;{{availablePerk.rank}}&sol;{{availablePerk.item.system.rank.max}}
+			</div>
+			<p>{{localize "FALLOUT.TEMPLATES.Requirements"}}: {{{listPerkRequirements availablePerk.item.system.requirementsEx}}}</p>
+
 		</div>
 	</div>
 </li>

@@ -4,6 +4,7 @@ export default class FalloutPerkManager {
 		this.actorOwnedPerksLut = {};
 		this.actorAttributes = [];
 		this.actorReadMagazines = [];
+		this.perks = [];
 	}
 
 	async getAvailablePerks(nextLevel = true) {
@@ -17,7 +18,8 @@ export default class FalloutPerkManager {
 
 		await this.getKnownPerks();
 
-		const selectedPerks = new Collection();
+		const availablePerks = new Collection();
+		this.perks = new Collection();
 
 		const allPerks = await fallout.compendiums.perks();
 		for (const perk of allPerks) {
@@ -27,24 +29,34 @@ export default class FalloutPerkManager {
 			// Make sure we meet the requirements
 			const meetsRequirements = await this._meetsRequirements(perk, nextLevel);
 
-			if (meetsRequirements) {
-				let rank = 1;
+			let rank = 1;
 
-				if (Object.hasOwn(
-					this.actorOwnedPerksLut, perk.system.perkIdentifier
-				)) {
-					const current = this.actorOwnedPerksLut[
-						perk.system.perkIdentifier
-					];
+			if (Object.hasOwn(
+				this.actorOwnedPerksLut, perk.system.perkIdentifier
+			)) {
+				const current = this.actorOwnedPerksLut[
+					perk.system.perkIdentifier
+				];
 
-					rank = current + 1;
-				}
-
-				selectedPerks.set(perk._id, { item: perk, rank });
+				rank = current + 1;
 			}
+
+			if (meetsRequirements) {
+				availablePerks.set(perk._id, {
+					item: perk,
+					rank,
+					meetsRequirements,
+				});
+			}
+
+			this.perks.set(perk._id, {
+				item: perk,
+				rank,
+				meetsRequirements,
+			});
 		}
 
-		return selectedPerks;
+		return availablePerks;
 	}
 
 	async getKnownPerks() {
@@ -78,14 +90,14 @@ export default class FalloutPerkManager {
 
 		const requirements = perk.system.requirementsEx;
 
-		// First make sure that if the character already knows the talent that
+		// First make sure that if the character already knows the perk that
 		// they have not maxed it out
-		const knownTalent = this.actorOwnedPerksLut[
+		const knownPerk = this.actorOwnedPerksLut[
 			perk.system.perkIdentifier
 		];
 
-		if (knownTalent) {
-			if (knownTalent >= perk.system.rank.max) {
+		if (knownPerk) {
+			if (knownPerk >= perk.system.rank.max) {
 				requirementsMet = false;
 			}
 		}
@@ -96,7 +108,7 @@ export default class FalloutPerkManager {
 		const playerLevel = nextLevel ? currentLevel + 1 : currentLevel;
 
 		if (perk.system.multiRank) {
-			const nextPerkRank = (knownTalent ?? 0) + 1;
+			const nextPerkRank = (knownPerk ?? 0) + 1;
 
 			const startLevel = requirements.level ?? 1;
 			const rankLevelStep = requirements.levelIncrease ?? 1;

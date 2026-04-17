@@ -355,3 +355,16 @@
 
 	width: 100%;
 }
+
+.dragging {
+	pointer-events: none;
+	opacity: 0.1;
+}
+
+.perk-unavailable {
+	opacity: 0.5;
+	filter: grayscale(100%);
+	position: relative;
+	pointer-events: none;
+}
+
